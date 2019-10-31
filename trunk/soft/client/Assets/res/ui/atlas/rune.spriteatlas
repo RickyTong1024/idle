@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: rune
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 6bce889eca952774e9b13a49c64cf9e1, type: 3}
+    - {fileID: 2800000, guid: d6e33306d61990f42b26d8b9adb2abf5, type: 3}
+    - {fileID: 2800000, guid: 8a72d66fd1a9e80498e3fabcd67f0172, type: 3}
+    - {fileID: 2800000, guid: ef012b931c5928848a202681a518bad6, type: 3}
+    - {fileID: 2800000, guid: 77be53a5a4499864c880f0be7b8478e8, type: 3}
+    - {fileID: 2800000, guid: e9e028a8b483f854086e551302a70764, type: 3}
+    - {fileID: 2800000, guid: c21f9c599d6c1064d9279adf22c92fbb, type: 3}
+    - {fileID: 2800000, guid: f9939ecd356242349993fcbb1ea5cd3c, type: 3}
+    - {fileID: 2800000, guid: ec0283b63d05b8d4f955ed0c24c9c65f, type: 3}
+    - {fileID: 2800000, guid: cdbd673fe35174044bc0122e7ce03b3a, type: 3}
+    - {fileID: 2800000, guid: 23af138ecf3efc14c8c6932b0d1f2d9f, type: 3}
+    - {fileID: 2800000, guid: b1c64c713fecfb34cb5b795b0cd6597d, type: 3}
+    - {fileID: 2800000, guid: 69d4bd68c83d2e942ba6337b4acd1135, type: 3}
+    - {fileID: 2800000, guid: 4e4116d54048a26498306c1467850afd, type: 3}
+    - {fileID: 2800000, guid: 98afbd3e910a7e94a815077d6d37d47e, type: 3}
+    - {fileID: 2800000, guid: 642d8a0822baf4441a993572eef85559, type: 3}
+    totalSpriteSurfaceArea: 133664
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b1c64c713fecfb34cb5b795b0cd6597d, type: 3}
+  - {fileID: 21300000, guid: ef012b931c5928848a202681a518bad6, type: 3}
+  - {fileID: 21300000, guid: 77be53a5a4499864c880f0be7b8478e8, type: 3}
+  - {fileID: 21300000, guid: 4e4116d54048a26498306c1467850afd, type: 3}
+  - {fileID: 21300000, guid: d6e33306d61990f42b26d8b9adb2abf5, type: 3}
+  - {fileID: 21300000, guid: ec0283b63d05b8d4f955ed0c24c9c65f, type: 3}
+  - {fileID: 21300000, guid: 642d8a0822baf4441a993572eef85559, type: 3}
+  - {fileID: 21300000, guid: 69d4bd68c83d2e942ba6337b4acd1135, type: 3}
+  - {fileID: 21300000, guid: e9e028a8b483f854086e551302a70764, type: 3}
+  - {fileID: 21300000, guid: c21f9c599d6c1064d9279adf22c92fbb, type: 3}
+  - {fileID: 21300000, guid: f9939ecd356242349993fcbb1ea5cd3c, type: 3}
+  - {fileID: 21300000, guid: 98afbd3e910a7e94a815077d6d37d47e, type: 3}
+  - {fileID: 21300000, guid: 23af138ecf3efc14c8c6932b0d1f2d9f, type: 3}
+  - {fileID: 21300000, guid: 6bce889eca952774e9b13a49c64cf9e1, type: 3}
+  - {fileID: 21300000, guid: cdbd673fe35174044bc0122e7ce03b3a, type: 3}
+  - {fileID: 21300000, guid: 8a72d66fd1a9e80498e3fabcd67f0172, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - s4001
+  - 4001
+  - 5001
+  - s6001
+  - 2001
+  - s1001
+  - s8001
+  - s5001
+  - 6001
+  - 7001
+  - 8001
+  - s7001
+  - s3001
+  - 1001
+  - s2001
+  - 3001
+  m_Tag: rune
+  m_IsVariant: 0

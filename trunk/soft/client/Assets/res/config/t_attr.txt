@@ -1,0 +1,54 @@
+id	名字	描述代号	描述	描述代号	数值缩放	取值	战力	是否显示
+INT	STRING	STRING	STRING	STRING	INT	INT	INT	INT
+*id		#name		#desc	scale	value	power	show
+1	生命	t_attr_name_1	生命 +{n}	t_attr_desc_1	1	100	1	1
+2	攻击	t_attr_name_2	攻击 +{n}	t_attr_desc_2	1	8	12	1
+3	物防	t_attr_name_3	物防 +{n}	t_attr_desc_3	1	4	12	1
+4	魔防	t_attr_name_4	魔防 +{n}	t_attr_desc_4	1	4	12	1
+11	命中	t_attr_name_11	命中 +{n}	t_attr_desc_11	1	10	2	1
+12	闪避	t_attr_name_12	闪避 +{n}	t_attr_desc_12	1	10	2	1
+13	暴击	t_attr_name_13	暴击 +{n}	t_attr_desc_13	1	10	2	1
+14	抗暴	t_attr_name_14	抗暴 +{n}	t_attr_desc_14	1	10	2	1
+15	增伤	t_attr_name_15	增伤 +{n}	t_attr_desc_15	1	10	2	1
+16	减伤	t_attr_name_16	减伤 +{n}	t_attr_desc_16	1	10	2	1
+17	防御	t_attr_name_17	防御 +{n}	t_attr_desc_17	1			2
+21	生命%	t_attr_name_21	生命 +{n}%	t_attr_desc_21	10			2
+22	攻击%	t_attr_name_22	攻击 +{n}%	t_attr_desc_22	10			2
+23	物防%	t_attr_name_23	物防 +{n}%	t_attr_desc_23	10			2
+24	魔防%	t_attr_name_24	魔防 +{n}%	t_attr_desc_24	10			2
+31	命中率%	t_attr_name_31	命中率 +{n}%	t_attr_desc_31	10			2
+32	闪避率%	t_attr_name_32	闪避率 +{n}%	t_attr_desc_32	10			2
+33	暴击率%	t_attr_name_33	暴击率 +{n}%	t_attr_desc_33	10			2
+34	抗暴率%	t_attr_name_34	抗暴率 +{n}%	t_attr_desc_34	10			2
+35	增伤%	t_attr_name_35	增伤 +{n}%	t_attr_desc_35	10			2
+36	减伤%	t_attr_name_36	减伤 +{n}%	t_attr_desc_36	10			2
+37	防御%	t_attr_name_37	防御 +{n}%	t_attr_desc_37	10			2
+38	伤害%	t_attr_name_38	伤害 +{n}%	t_attr_desc_38	10			2
+39	物理抵抗%	t_attr_name_39	物理抵抗 +{n}%	t_attr_desc_39	10			2
+40	魔法抵抗%	t_attr_name_40	魔法抵抗 +{n}%	t_attr_desc_40	10			2
+51	暴伤%	t_attr_name_51	暴伤 +{n}%	t_attr_desc_51	10			2
+52	暴伤抵抗%	t_attr_name_52	暴伤抵抗 +{n}%	t_attr_desc_52	10			2
+53	技能伤害%	t_attr_name_53	技能伤害 +{n}%	t_attr_desc_53	10			2
+54	技能抵抗%	t_attr_name_54	技能抵抗 +{n}%	t_attr_desc_54	10			2
+55	普攻伤害%	t_attr_name_55	普攻伤害 +{n}%	t_attr_desc_55	10			2
+56	普攻抵抗%	t_attr_name_56	普攻抵抗 +{n}%	t_attr_desc_56	10			2
+57	人形伤害%	t_attr_name_57	人形伤害 +{n}%	t_attr_desc_57	10			2
+58	野兽伤害%	t_attr_name_58	野兽伤害 +{n}%	t_attr_desc_58	10			2
+59	恶魔伤害%	t_attr_name_59	恶魔伤害 +{n}%	t_attr_desc_59	10			2
+60	人形抵抗%	t_attr_name_60	人形抵抗 +{n}%	t_attr_desc_60	10			2
+61	野兽抵抗%	t_attr_name_61	野兽抵抗 +{n}%	t_attr_desc_61	10			2
+62	恶魔抵抗%	t_attr_name_62	恶魔抵抗 +{n}%	t_attr_desc_62	10			2
+73	攻击反弹	t_attr_name_73	攻击反弹 +{n}	t_attr_desc_73	1			2
+74	攻击反弹%	t_attr_name_74	攻击反弹 +{n}%	t_attr_desc_74	10			2
+75	伤害反弹%	t_attr_name_75	伤害反弹 +{n}%	t_attr_desc_75	10			2
+76	回复	t_attr_name_76	回复 +{n}	t_attr_desc_76	1			2
+77	回复%	t_attr_name_77	回复 +{n}%	t_attr_desc_77	10			2
+78	攻击回复	t_attr_name_78	攻击回复 +{n}	t_attr_desc_78	1			2
+79	攻击回复%	t_attr_name_79	攻击回复 +{n}%	t_attr_desc_79	10			2
+80	伤害吸血%	t_attr_name_80	伤害吸血 +{n}%	t_attr_desc_80	10			2
+81	免控%	t_attr_name_81	免控 +{n}%	t_attr_desc_81	10			2
+82	冷却缩短%	t_attr_name_82	冷却缩短 +{n}%	t_attr_desc_82	10			2
+1001	晕眩	t_attr_name_1001		t_attr_desc_1001	1			2
+2001	物品掉落%	t_attr_name_2001	物品掉落 +{n}%	t_attr_desc_2001	10			2
+2002	金币掉落%	t_attr_name_2002	金币掉落 +{n}%	t_attr_desc_2002	10			2
+2003	经验获得%	t_attr_name_2003	经验获得 +{n}%	t_attr_desc_2003	10			2

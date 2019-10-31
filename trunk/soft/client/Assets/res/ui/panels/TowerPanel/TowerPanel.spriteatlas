@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TowerPanel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2c9ed0d5e2440df4e80b7461410b850c, type: 3}
+    - {fileID: 2800000, guid: 52b99be2a42957c4cb42aa28276de14b, type: 3}
+    - {fileID: 2800000, guid: cbc5e0aa4ec899f4a94cb00a7f321013, type: 3}
+    - {fileID: 2800000, guid: 6efb44b0093389148891135335621557, type: 3}
+    - {fileID: 2800000, guid: e0d040a7c433d33469bfc2f9aa5f6527, type: 3}
+    - {fileID: 2800000, guid: 9222ad0d0ebed844db1404fda3eb1068, type: 3}
+    - {fileID: 2800000, guid: 0869b23302d91ca4a988017baa241b4d, type: 3}
+    - {fileID: 2800000, guid: 5872cfb09f10a914b98df1ededf7f9c3, type: 3}
+    - {fileID: 2800000, guid: 003f62d8801a3aa489594bcab8206399, type: 3}
+    - {fileID: 2800000, guid: ec8290d6b5b23fc409f3021977c72be3, type: 3}
+    - {fileID: 2800000, guid: 95b2c7e6a4167ca4da637a2311463146, type: 3}
+    - {fileID: 2800000, guid: 5163f90b3ef89244aad3c5f26fedff4b, type: 3}
+    - {fileID: 2800000, guid: 9cc664bf29722ed4294a77471ebc7a79, type: 3}
+    totalSpriteSurfaceArea: 1421258
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6efb44b0093389148891135335621557, type: 3}
+  - {fileID: 21300000, guid: 5872cfb09f10a914b98df1ededf7f9c3, type: 3}
+  - {fileID: 21300000, guid: 52b99be2a42957c4cb42aa28276de14b, type: 3}
+  - {fileID: 21300000, guid: 0869b23302d91ca4a988017baa241b4d, type: 3}
+  - {fileID: 21300000, guid: 2c9ed0d5e2440df4e80b7461410b850c, type: 3}
+  - {fileID: 21300000, guid: ec8290d6b5b23fc409f3021977c72be3, type: 3}
+  - {fileID: 21300000, guid: 95b2c7e6a4167ca4da637a2311463146, type: 3}
+  - {fileID: 21300000, guid: e0d040a7c433d33469bfc2f9aa5f6527, type: 3}
+  - {fileID: 21300000, guid: 003f62d8801a3aa489594bcab8206399, type: 3}
+  - {fileID: 21300000, guid: cbc5e0aa4ec899f4a94cb00a7f321013, type: 3}
+  - {fileID: 21300000, guid: 5163f90b3ef89244aad3c5f26fedff4b, type: 3}
+  - {fileID: 21300000, guid: 9222ad0d0ebed844db1404fda3eb1068, type: 3}
+  - {fileID: 21300000, guid: 9cc664bf29722ed4294a77471ebc7a79, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ttt_reui004
+  - 3
+  - ttt_reui002
+  - 2
+  - ttt_reui001
+  - 5
+  - 6
+  - 0
+  - 4
+  - ttt_reui005
+  - 7
+  - 1
+  - ttt_reui003
+  m_Tag: TowerPanel
+  m_IsVariant: 0

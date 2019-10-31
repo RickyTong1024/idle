@@ -1,0 +1,4 @@
+职业	名字	生命	攻击	物防	魔防	SP	SP	蓄力	蓄力
+INT	STRING	FLOAT	FLOAT	FLOAT	FLOAT	STRING	STRING	STRING	STRING
+*id		attrs.0.value	attrs.1.value	attrs.2.value	attrs.3.value		#sp		#sing
+1	战士	1	1	1	1	怒气	t_class_sp_1	蓄力	t_class_sing_1

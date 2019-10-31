@@ -1,0 +1,75 @@
+<unit>
+	<behaviour name="stand">
+		<action time="0" type="attack_anim" name="ready"></action>
+	</behaviour>
+	
+	<behaviour name="attack01">
+		<action time="0" type="attack_anim" name="atk1"></action>
+		<action time="0.65" type="attack_effect" name="zs_pg01" point="foot" x="0" y="1.6" z="2" remove_time="2"></action>
+    <action time="0.75" type="time_scale" scale="0.2" scale_time="0.05"></action>
+	</behaviour>
+	
+	<behaviour name="attack02">
+		<action time="0" type="attack_anim" name="atk2"></action>
+		<action time="0.5" type="attack_effect" name="zs_pg02" point="foot" x="0" y="1.6" z="2" remove_time="2"></action>
+    <action time="0.75" type="time_scale" scale="0.2" scale_time="0.05"></action>
+	</behaviour>
+	
+	<behaviour name="attack03">
+		<action time="0" type="attack_anim" name="atk3"></action>
+		<action time="0.67" type="attack_effect" name="zs_pg03" point="foot" x="0" y="1.6" z="2" remove_time="2"></action>
+		<action time="0.85" type="time_scale" scale="0.2" scale_time="0.05"></action>
+	</behaviour>
+	
+	<behaviour name="attack04">
+		<action time="0" type="attack_anim" name="atk4"></action>
+		<action time="0.47" type="attack_effect" name="zs_pg04" point="foot" x="0" y="1.6" z="2" remove_time="2"></action>
+		<action time="0.6" type="time_scale" scale="0.2" scale_time="0.1"></action>
+	</behaviour>
+	
+	<behaviour name="start_sing">		<!--吟唱行为-->
+		<action time="0" type="anim" name="xuli"></action>
+		<action time="0" type="effect" name="sing" point="foot" x="0" y="0" z="0" remove_time="-1"></action>
+	</behaviour>
+	
+	<behaviour name="break_sing">
+		<action time ="0" type="anim" name="ready"></action>
+		<action time="0" type="remove_effect" name="sing" ></action>
+	</behaviour>
+	
+	<behaviour name="end_sing">
+		<action time ="0" type="anim" name="ready"></action>
+		<action time="0" type="remove_effect" name="sing" ></action>
+	</behaviour>
+	
+	<behaviour name="runaway">
+		<action time="0" type="anim" name="run"></action>
+		<action time="0" type="move" speed="2"></action>
+		<action time="0" type="rotate" value="180"></action>
+	</behaviour>
+	
+	<behaviour name="injury">
+		<action time="0" type="anim" name="injured" ></action>
+		<action time="0.01" type="time_scale" scale="0.2" scale_time="0.05"></action>
+	</behaviour>
+	
+	<behaviour name="injury_big">
+		<action time="0" type="anim" name="jitui" ></action>
+	</behaviour>
+	
+	<behaviour name="gedang">
+		<action time="0" type="anim" name="gd_loop" ></action>
+	</behaviour>
+	
+	<behaviour name="gedangcg">
+		<action time="0" type="anim" name="gd_houtui" ></action>
+		<action time="0.01" type="time_scale" scale="0.2" scale_time="0.1"></action>
+	</behaviour>
+	
+	<behaviour name="gedang_fan">
+		<action time="0" type="anim" name="gd_fanji" ></action>
+	</behaviour>
+</unit>
+
+
+	

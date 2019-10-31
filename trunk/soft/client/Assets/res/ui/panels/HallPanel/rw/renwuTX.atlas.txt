@@ -1,0 +1,62 @@
+
+renwuTX.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/txxx1
+  rotate: false
+  xy: 96, 783
+  size: 504, 63
+  orig: 504, 63
+  offset: 0, 0
+  index: -1
+images/txxx2
+  rotate: false
+  xy: 46, 62
+  size: 48, 784
+  orig: 48, 825
+  offset: 0, 0
+  index: -1
+images/txxx3
+  rotate: false
+  xy: 96, 223
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+images/txxx5
+  rotate: false
+  xy: 2, 38
+  size: 42, 808
+  orig: 48, 823
+  offset: 3, 0
+  index: -1
+images/txxx7
+  rotate: true
+  xy: 602, 839
+  size: 7, 244
+  orig: 7, 247
+  offset: 0, 0
+  index: -1
+images/txxx890
+  rotate: false
+  xy: 96, 433
+  size: 153, 348
+  orig: 593, 1536
+  offset: 230, 345
+  index: -1
+images/txxx891
+  rotate: false
+  xy: 251, 717
+  size: 53, 64
+  orig: 593, 1536
+  offset: 238, 296
+  index: -1
+images/txxx895
+  rotate: false
+  xy: 96, 273
+  size: 143, 158
+  orig: 593, 1536
+  offset: 247, 402
+  index: -1

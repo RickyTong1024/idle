@@ -1,0 +1,19 @@
+id	旁白图片	文字	时间	文字代号	图片效果dissolvenoise，patern，transitiontex1-5	旁白图片2	文字	时间	文字代号	图片效果dissolvenoise，patern，transitiontex1-5	旁白图片3	文字	时间	文字代号	图片效果dissolvenoise，patern，transitiontex1-5	旁白图片4	文字	时间	文字代号	图片效果dissolvenoise，patern，transitiontex1-5
+INT	STRING	STRING	INT	STRING	STRING	STRING	STRING	INT	STRING	STRING	STRING	STRING	INT	STRING	STRING	STRING	STRING	INT	STRING	STRING
+*id	narrator.0.icon		narrator.0.speed	#narrator.0.str	narrator.0.img_effect	narrator.1.icon		narrator.1.speed	#narrator.1.str	narrator.1.img_effect	narrator.2.icon		narrator.2.speed	#narrator.2.str	narrator.2.img_effect	narrator.3.icon		narrator.3.speed	#narrator.3.str	narrator.3.img_effect
+0	gsch_013	必须找到你{nn}沉睡的...{nn}你被赋予的...命{nn}黑暗要来了{nn}你是最后的人选{nn}没有时间了{nn}只有你{nn}这一次一定是对的	12	t_map_narrator_100001	transitiontex2	gsch_035	莫名的声音{nn}把我带到这个地方{nn}发生了什么{nn}一切都不重要了{nn}现在{nn}最重要的是{nn}活下去...	10.5	t_map_narrator_100002	transitiontex5	gsch_028	偶然的机会{nn}我知道了银月城的存在{nn}那是人类最后的聚集体{nn}我要去那里...	6	t_map_narrator_100003	transitiontex1	gsch_024	银月城{nn}我来了{nn}接下来{nn}我要{nn}开启我的传说...	7.5	t_map_narrator_100004	transitiontex4
+1	gsch_014	这城外的危险{nn}在我流浪的时候{nn}就经历过无数次了{nn}接下来我要{nn}成为冒险者{nn}向更高的地方{nn}前进...	10	t_map_narrator_100100	transitiontex3															
+2	gsch_022	英雄的第一次出征{nn}没有人知道意味着什么{nn}后人只知道{nn}世界的历史{nn}在这一刻{nn}由毁灭走向了未知	9	t_map_narrator_100200	transitiontex4															
+3	gsch_034	沼泽地{nn}几十年没有人踏足的死亡之地{nn}英雄{nn}来到了这里{nn}并且带来了{nn}希望的光	8	t_map_narrator_100300	transitiontex5															
+4	gsch_033	断壁残垣中{nn}很难想象这里曾经多么强大的一个帝国{nn}人类从这里开始{nn}最终征服了整个大陆{nn}然而{nn}灭世的灾难{nn}人类已经遗忘了自己曾经有过的辉煌	10	t_map_narrator_100400	transitiontex1															
+5	gsch_021	以森林作为防御{nn}人类勉强渡过灭世的危机{nn}危机渡过的百年来{nn}人类从未走出过{nn}离开幸存地{nn}走出森林的包围{nn}去开辟新的天地	10	t_map_narrator_100500	transitiontex2															
+6	gsch_002	走出保护圈的人类{nn}在百年后见到了{nn}本是自己的领土的地方{nn}已经被各种生灵所占据{nn}走出去{nn}执念的声音在人类心中{nn}不断回响	10.5	t_map_narrator_100600	transitiontex3															
+7	gsch_015	曾经美丽的大草原{nn}在灭世的灾难之后{nn}竟然长出了一座火山{nn}人类是无法在这种地方生存的{nn}只有那些和恶魔做了交易{nn}被火焰感染的魔兽和兽人{nn}可以在这里生活下去	12	t_map_narrator_100700	transitiontex4															
+8	gsch_025	兽人聚集起来发展了百年{nn}组织起一直强大的军队{nn}不管他们的目的是什么{nn}不能让他们回去{nn}因为他们的老巢{nn}已经不在了	9	t_map_narrator_100800	transitiontex5															
+9	gsch_023	死亡森林{nn}人类统领的时候这里被称为神谕森林{nn}百年过去{nn}人类不在了{nn}这里四处游弋着亡灵{nn}他们都是曾经为了守护这里{nn}保护这里的{nn}英雄	12	t_map_narrator_100900	transitiontex1															
+10	gsch_023	蛮荒之地{nn}这里是前往宇宙海的必经之路{nn}千百年来{nn}这里都是大陆和魔族的缓冲线{nn}百年枯骨{nn}本造就了无数强大的魔兽{nn}如今{nn}只有一些蝼蚁苟延残喘	12	t_map_narrator_101000	transitiontex2															
+11	gsch_023		9	t_map_narrator_101100	transitiontex3															
+12	gsch_023		9	t_map_narrator_101200	transitiontex4															
+13	gsch_023		9	t_map_narrator_101300	transitiontex5															
+14	gsch_023		9	t_map_narrator_101400	transitiontex4															
+15	gsch_023		9	t_map_narrator_101500	transitiontex5															

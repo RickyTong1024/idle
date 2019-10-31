@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BattlePanel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 237b285351450f44b9dfe51559dd8ef5, type: 3}
+    - {fileID: 2800000, guid: 853d0df9b6cb39e42afe5ba3c27aab27, type: 3}
+    - {fileID: 2800000, guid: 920b88ee48dac8b4e9e8333e0c618f66, type: 3}
+    - {fileID: 2800000, guid: f011c2fd880e9494da020dacf0b48bcd, type: 3}
+    - {fileID: 2800000, guid: 0c5cb0fe2fca87e4e8bf93ce21ffa778, type: 3}
+    - {fileID: 2800000, guid: 5a4c5050fed6131469b72d651b732764, type: 3}
+    - {fileID: 2800000, guid: a62346d31897ac64d8926197eea98de5, type: 3}
+    - {fileID: 2800000, guid: b8d27e6b2ff81304c945c1c04c4d9610, type: 3}
+    - {fileID: 2800000, guid: dd046181d107fe24a8bb283cc805071d, type: 3}
+    - {fileID: 2800000, guid: 1a4850d1588ac9a4c882eb3c041689c2, type: 3}
+    - {fileID: 2800000, guid: 53daadac138d6a74a8919387d789e92b, type: 3}
+    - {fileID: 2800000, guid: 000099df618a9a74eac0b145933d3191, type: 3}
+    - {fileID: 2800000, guid: 7b25df70d7e67874db4e1d1100d542fd, type: 3}
+    - {fileID: 2800000, guid: 7c566e39179ea714c9891ab3082061f3, type: 3}
+    - {fileID: 2800000, guid: 485b50d6fe48682458c70c1dff2c505c, type: 3}
+    - {fileID: 2800000, guid: f22b1979dd7bfdd4d99f02f36c1d92e5, type: 3}
+    - {fileID: 2800000, guid: 71c211832134d5343a4f53c67d7dadef, type: 3}
+    - {fileID: 2800000, guid: 443ea58ee04e149469561c19cd19729e, type: 3}
+    totalSpriteSurfaceArea: 401916
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5a4c5050fed6131469b72d651b732764, type: 3}
+  - {fileID: 21300000, guid: 7b25df70d7e67874db4e1d1100d542fd, type: 3}
+  - {fileID: 21300000, guid: dd046181d107fe24a8bb283cc805071d, type: 3}
+  - {fileID: 21300000, guid: 1a4850d1588ac9a4c882eb3c041689c2, type: 3}
+  - {fileID: 21300000, guid: 237b285351450f44b9dfe51559dd8ef5, type: 3}
+  - {fileID: 21300000, guid: 71c211832134d5343a4f53c67d7dadef, type: 3}
+  - {fileID: 21300000, guid: a62346d31897ac64d8926197eea98de5, type: 3}
+  - {fileID: 21300000, guid: 485b50d6fe48682458c70c1dff2c505c, type: 3}
+  - {fileID: 21300000, guid: 7c566e39179ea714c9891ab3082061f3, type: 3}
+  - {fileID: 21300000, guid: f22b1979dd7bfdd4d99f02f36c1d92e5, type: 3}
+  - {fileID: 21300000, guid: 853d0df9b6cb39e42afe5ba3c27aab27, type: 3}
+  - {fileID: 21300000, guid: b8d27e6b2ff81304c945c1c04c4d9610, type: 3}
+  - {fileID: 21300000, guid: 53daadac138d6a74a8919387d789e92b, type: 3}
+  - {fileID: 21300000, guid: f011c2fd880e9494da020dacf0b48bcd, type: 3}
+  - {fileID: 21300000, guid: 443ea58ee04e149469561c19cd19729e, type: 3}
+  - {fileID: 21300000, guid: 920b88ee48dac8b4e9e8333e0c618f66, type: 3}
+  - {fileID: 21300000, guid: 0c5cb0fe2fca87e4e8bf93ce21ffa778, type: 3}
+  - {fileID: 21300000, guid: 000099df618a9a74eac0b145933d3191, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - zd_std_01a
+  - zd_set_002
+  - zd_out_01b
+  - zd_set_001a
+  - jisuan_win
+  - zd_set_001e
+  - jisuan_xt
+  - zj01_dtys_10
+  - jisuan_level
+  - zd_pg_01b
+  - jisuan_lose
+  - zd_out_01a
+  - zd_set_001b
+  - gjrui_088
+  - zd_fy_01b
+  - zd_std_01b
+  - gjrui_089
+  - zd_set_001c
+  m_Tag: BattlePanel
+  m_IsVariant: 0

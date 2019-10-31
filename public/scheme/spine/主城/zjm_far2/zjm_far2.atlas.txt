@@ -1,0 +1,69 @@
+
+zjm_far2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuxianta1
+  rotate: false
+  xy: 1143, 2468
+  size: 585, 1536
+  orig: 593, 1536
+  offset: 0, 0
+  index: -1
+wuxianta2
+  rotate: false
+  xy: 909, 1725
+  size: 92, 385
+  orig: 92, 385
+  offset: 0, 0
+  index: -1
+wuxianta3
+  rotate: true
+  xy: 1730, 2747
+  size: 412, 1027
+  orig: 412, 1027
+  offset: 0, 0
+  index: -1
+yuanjinshan1
+  rotate: false
+  xy: 2, 2
+  size: 405, 809
+  orig: 405, 944
+  offset: 0, 83
+  index: -1
+yuanjinshan2
+  rotate: false
+  xy: 1143, 2229
+  size: 337, 237
+  orig: 337, 237
+  offset: 0, 0
+  index: -1
+yuanjinyun
+  rotate: false
+  xy: 1730, 3161
+  size: 1033, 843
+  orig: 1033, 843
+  offset: 0, 0
+  index: -1
+yuanjinyun1
+  rotate: false
+  xy: 2765, 3614
+  size: 781, 390
+  orig: 781, 390
+  offset: 0, 0
+  index: -1
+yuanjinyun5
+  rotate: true
+  xy: 2, 813
+  size: 1297, 905
+  orig: 1297, 905
+  offset: 0, 0
+  index: -1
+yuanjinyun6
+  rotate: false
+  xy: 2, 2112
+  size: 1139, 1892
+  orig: 1139, 1892
+  offset: 0, 0
+  index: -1

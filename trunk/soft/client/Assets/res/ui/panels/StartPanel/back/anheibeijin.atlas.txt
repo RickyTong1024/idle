@@ -1,0 +1,167 @@
+
+anheibeijin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 941
+  size: 640, 1105
+  orig: 640, 1227
+  offset: 0, 122
+  index: -1
+FG
+  rotate: false
+  xy: 644, 1012
+  size: 640, 430
+  orig: 640, 430
+  offset: 0, 0
+  index: -1
+huohua
+  rotate: false
+  xy: 1724, 235
+  size: 105, 69
+  orig: 110, 73
+  offset: 5, 4
+  index: -1
+huoshanhui
+  rotate: false
+  xy: 1791, 1114
+  size: 171, 334
+  orig: 171, 334
+  offset: 0, 0
+  index: -1
+huoxin
+  rotate: false
+  xy: 1791, 978
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+man
+  rotate: false
+  xy: 1681, 634
+  size: 268, 342
+  orig: 268, 342
+  offset: 0, 0
+  index: -1
+qizi1
+  rotate: true
+  xy: 616, 171
+  size: 392, 509
+  orig: 392, 509
+  offset: 0, 0
+  index: -1
+qizi2
+  rotate: true
+  xy: 607, 70
+  size: 99, 206
+  orig: 99, 206
+  offset: 0, 0
+  index: -1
+qizi3
+  rotate: false
+  xy: 1909, 1738
+  size: 70, 308
+  orig: 70, 308
+  offset: 0, 0
+  index: -1
+shanzhedang
+  rotate: false
+  xy: 1127, 136
+  size: 411, 427
+  orig: 411, 427
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 644, 565
+  size: 445, 587
+  orig: 445, 587
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 1311, 1450
+  size: 596, 596
+  orig: 596, 596
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: false
+  xy: 1233, 583
+  size: 446, 393
+  orig: 446, 393
+  offset: 0, 0
+  index: -1
+yanjiang3
+  rotate: false
+  xy: 1909, 1646
+  size: 62, 90
+  orig: 62, 90
+  offset: 0, 0
+  index: -1
+yanjiang5
+  rotate: false
+  xy: 1540, 230
+  size: 182, 351
+  orig: 182, 351
+  offset: 0, 0
+  index: -1
+yanwu1234
+  rotate: true
+  xy: 436, 10
+  size: 192, 169
+  orig: 192, 169
+  offset: 0, 0
+  index: -1
+yaoban - 副本
+  rotate: true
+  xy: 1311, 978
+  size: 470, 478
+  orig: 601, 656
+  offset: 69, 91
+  index: -1
+yaoban - 副本 - 副本
+  rotate: false
+  xy: 2, 32
+  size: 432, 170
+  orig: 491, 170
+  offset: 0, 0
+  index: -1
+yaoban1
+  rotate: false
+  xy: 644, 1444
+  size: 665, 602
+  orig: 665, 602
+  offset: 0, 0
+  index: -1
+yaoban2
+  rotate: false
+  xy: 1724, 306
+  size: 322, 326
+  orig: 322, 326
+  offset: 0, 0
+  index: -1
+yaoban3333
+  rotate: false
+  xy: 2, 204
+  size: 612, 735
+  orig: 797, 750
+  offset: 136, 0
+  index: -1
+zhedang1
+  rotate: false
+  xy: 1540, 140
+  size: 178, 88
+  orig: 178, 88
+  offset: 0, 0
+  index: -1
+zhedang2
+  rotate: false
+  xy: 1791, 998
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1

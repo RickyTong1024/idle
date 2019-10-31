@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: c26abab8de9c2a84694c2d88c6ae6b13
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip01 HeadNub
+    100002: Bip01 Spine2
+    100004: Bone01
+    100006: Bone02
+    100008: Bone03
+    100010: Bone04
+    100012: Bone05
+    100014: Bone06
+    100016: Bone07
+    100018: Bone09
+    100020: Bone11
+    100022: Bone12
+    100024: Bone13
+    100026: Bone14
+    100028: Bone15
+    100030: Bone16
+    100032: Bone17
+    100034: Bone18
+    100036: Bone19
+    100038: Bone20
+    100040: Bone21
+    100042: Bone22
+    100044: Bone23
+    100046: Bone24
+    100048: Bone25
+    100050: Bone26
+    100052: Bone27
+    100054: Bone28
+    100056: Bone29
+    100058: Bone30
+    100060: Bone31
+    100062: Bone32
+    100064: Bone33
+    100066: Bone34
+    100068: Bone35
+    100070: Bone36
+    100072: Bone37
+    100074: Bone38
+    100076: Bone39
+    100078: Bone40
+    100080: Bone42
+    100082: Bone43
+    100084: Bone44
+    100086: Bone45
+    100088: Bone46
+    100090: Bone47
+    100092: Dummy01
+    100094: IK Chain01
+    100096: IK Chain02
+    100098: IK Chain03
+    100100: IK Chain04
+    100102: Line01
+    100104: Line02
+    100106: Line03
+    100108: Line04
+    100110: Point01
+    100112: Point02
+    100114: Point03
+    100116: Point04
+    100118: Point05
+    100120: Point06
+    100122: Point07
+    100124: Point08
+    100126: Point09
+    100128: Point10
+    100130: Point11
+    100132: Point12
+    100134: Point13
+    100136: Point14
+    100138: Point15
+    100140: Point16
+    100142: Point17
+    100144: Point18
+    100146: Point19
+    100148: Point20
+    100150: Point21
+    100152: Point22
+    100154: //RootNode
+    400000: Bip01 HeadNub
+    400002: Bip01 Spine2
+    400004: Bone01
+    400006: Bone02
+    400008: Bone03
+    400010: Bone04
+    400012: Bone05
+    400014: Bone06
+    400016: Bone07
+    400018: Bone09
+    400020: Bone11
+    400022: Bone12
+    400024: Bone13
+    400026: Bone14
+    400028: Bone15
+    400030: Bone16
+    400032: Bone17
+    400034: Bone18
+    400036: Bone19
+    400038: Bone20
+    400040: Bone21
+    400042: Bone22
+    400044: Bone23
+    400046: Bone24
+    400048: Bone25
+    400050: Bone26
+    400052: Bone27
+    400054: Bone28
+    400056: Bone29
+    400058: Bone30
+    400060: Bone31
+    400062: Bone32
+    400064: Bone33
+    400066: Bone34
+    400068: Bone35
+    400070: Bone36
+    400072: Bone37
+    400074: Bone38
+    400076: Bone39
+    400078: Bone40
+    400080: Bone42
+    400082: Bone43
+    400084: Bone44
+    400086: Bone45
+    400088: Bone46
+    400090: Bone47
+    400092: Dummy01
+    400094: IK Chain01
+    400096: IK Chain02
+    400098: IK Chain03
+    400100: IK Chain04
+    400102: Line01
+    400104: Line02
+    400106: Line03
+    400108: Line04
+    400110: Point01
+    400112: Point02
+    400114: Point03
+    400116: Point04
+    400118: Point05
+    400120: Point06
+    400122: Point07
+    400124: Point08
+    400126: Point09
+    400128: Point10
+    400130: Point11
+    400132: Point12
+    400134: Point13
+    400136: Point14
+    400138: Point15
+    400140: Point16
+    400142: Point17
+    400144: Point18
+    400146: Point19
+    400148: Point20
+    400150: Point21
+    400152: Point22
+    400154: //RootNode
+    7400000: spell
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: spell
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

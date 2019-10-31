@@ -1,0 +1,34 @@
+
+zjm_far1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinjichang1
+  rotate: false
+  xy: 1444, 1449
+  size: 390, 385
+  orig: 390, 385
+  offset: 0, 0
+  index: -1
+jinjichang2
+  rotate: false
+  xy: 2, 127
+  size: 800, 862
+  orig: 800, 862
+  offset: 0, 0
+  index: -1
+yuanjinshan1
+  rotate: false
+  xy: 1037, 1025
+  size: 405, 809
+  orig: 405, 944
+  offset: 0, 83
+  index: -1
+yuanjinyun
+  rotate: false
+  xy: 2, 991
+  size: 1033, 843
+  orig: 1033, 843
+  offset: 0, 0
+  index: -1

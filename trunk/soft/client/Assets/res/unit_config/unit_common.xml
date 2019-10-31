@@ -1,0 +1,65 @@
+<unit>
+	<behaviour name="stand">
+		<action time="0" type="attack_anim" name="stand"></action>
+	</behaviour>
+	
+	<behaviour name="ready">
+		<action time="0" type="set_active" active="1"></action>
+		<action time="0" type="anim" name="ready"></action>
+	</behaviour>
+	
+	<behaviour name="die">
+		<action time="0" type="anim" name="die"></action>
+		<action time="1.5" type="effect" name="death" point="position" x="0" y="0" z="0" remove_time="3"></action>
+		<action time="1.6" type="set_active" active="0"></action>
+	</behaviour>
+	
+	<behaviour name="start_sing">		<!--吟唱行为-->
+		<action time="0" type="anim" name="sing"></action>
+		<action time="0" type="effect" name="sing" point="foot" x="0" y="0" z="0" remove_time="-1"></action>
+	</behaviour>
+	
+	<behaviour name="break_sing">
+		<action time ="0" type="anim" name="ready"></action>
+		<action time="0" type="remove_effect" name="sing" ></action>
+	</behaviour>
+	
+	<behaviour name="end_sing">
+		<action time ="0" type="anim" name="ready"></action>
+		<action time="0" type="remove_effect" name="sing" ></action>
+	</behaviour>
+	
+	<behaviour name="start_dizzy">
+		<action time="0" type="anim" name="ready" ></action>
+		<action time="0" type="effect" name="xuanyun" point="headtop" x="0" y="0" z="0" remove_time="-1"></action>
+	</behaviour>
+	
+	<behaviour name="end_dizzy">
+		<action time="0" type="anim" name="ready" ></action>
+		<action time="0" type="remove_effect" name="xuanyun"></action>
+	</behaviour>
+	
+	<behaviour name="injury">
+		<action time="0" type="anim" name="injured" ></action>
+	</behaviour>
+	
+	<behaviour name="attack">
+		<action time="0" type="attack_anim" name="attack"></action>
+	</behaviour>
+	
+	<behaviour name="buff">
+		<action time="0" type="anim" name="buff"></action>
+	</behaviour>
+	
+	<behaviour name="spell">
+		<action time="0" type="anim" name="spell"></action>
+	</behaviour>
+	
+	<effect_points>
+		<accept name="Bip01 Spine2" x="0" y="0" z="0"></accept>
+		<headtop name="Bip01 HeadNub" x="0" y="0.2" z="0"></headtop>
+	</effect_points>
+</unit>
+
+
+	

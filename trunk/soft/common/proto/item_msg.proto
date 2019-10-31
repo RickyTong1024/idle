@@ -1,0 +1,104 @@
+syntax = "proto2";
+
+import "equip_db.proto";
+import "common_msg.proto";
+
+package protocol.item;
+
+message cmsg_equip_decompose {
+    repeated uint64 equip_guids             = 1;
+}
+
+message cmsg_item_sell {
+    repeated int32 item_ids                 = 1;
+    repeated int32 item_nums                = 2;
+}
+
+message cmsg_equip_wear {
+    required uint64 equip_guid              = 1;
+}
+
+message cmsg_equip_enhance {
+    required uint64 equip_guid               = 1;
+}
+
+message smsg_equip_enhance {
+    required bool result                    = 1;
+}
+
+message cmsg_equip_enchant {
+    required int32 type                     = 1;
+    required uint64 equip_guid              = 2;
+}
+
+message smsg_equip_enchant {
+    required int32 enchant_id               = 1;
+    required int32 enchant_value            = 2;
+}
+
+message cmsg_equip_reforge {
+    required uint64 equip_guid              = 1;
+    required int32 color                    = 2;
+}
+
+message smsg_equip_reforge {
+    required dhc.equip_t equip              = 1;
+}
+
+message cmsg_forge {
+    required int32 forge_id                 = 1;
+    required int32 forge_num                = 2;
+}
+
+message smsg_forge {
+    required common.msg_assets assets       = 1;
+}
+
+message cmsg_spell_get {
+    required int32 spell_id                 = 1;
+}
+
+message cmsg_spell_upgrade {
+    required int32 spell_id                 = 1;
+}
+
+message cmsg_spell_passive_get {
+    required int32 spell_passive_id         = 1;
+}
+
+message cmsg_spell_passive_wear {
+    required int32 spell_passive_id         = 1;
+    required int32 slot                     = 2;
+}
+
+message cmsg_draw_card {
+    required int32 type                     = 1;
+    required int32 asset_type               = 2;
+    required int32 num                      = 3;
+}
+
+message smsg_draw_card {
+    required common.msg_assets assets       = 1;
+}
+
+message cmsg_rune_wear {
+    required int32 type                     = 1;
+    required int32 slot                     = 2;
+    required int32 rune_slot                = 3;
+    required int32 rune_id                  = 4;
+}
+
+message cmsg_artifact_build_get {
+    required int32 artifact_id              = 1;
+    required int32 slot                     = 2;
+}
+
+message cmsg_equip_show_wear {
+    required int32 equip_template_id        = 1;
+}
+
+message cmsg_draws_unlock {
+    required int32 type                     = 1;
+    required int32 draw_id                  = 2;
+    required int32 param                    = 3;
+}

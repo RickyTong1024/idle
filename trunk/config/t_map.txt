@@ -1,0 +1,19 @@
+id	名字	代号	res	等级显示	背景1	背景2	背景3	传送地图位置x	传送地图位置y	解锁任务	线起点x	线起点y	线中点x	线中点y	线终点x	线终点y
+INT	STRING	STRING	STRING	STRING	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT
+*id		#name	res	level_show	back.0.value	back.1.value	back.2.value	x	y	map_param	start_x	start_y	middle_x	middle_y	end_x	end_y
+0	城堡	t_map_name_0						-79	400							
+1	狩猎之林	t_map_name_1	map_1	Lv1-Lv10	zdbj_001	zdbj_002	zdbj_005	-36	314	10102000	-79	400	-12	394	-36	314
+2	勇者之森	t_map_name_2	map_2	Lv11-Lv20	zdbj_003	zdbj_005	zdbj_019	155	270	10113000	-36	314	-36	314	155	270
+3	沃野沼泽	t_map_name_3	map_3	Lv21-Lv30	zdbj_002	zdbj_020	zdbj_019	213	182	10211000	155	270	155	270	213	182
+4	王国废墟	t_map_name_4	map_4	Lv31-Lv40				219	50	10311000	213	182	213	182	219	50
+5	旷野森林	t_map_name_5	map_5	Lv41-Lv50	zdbj_002	zdbj_003	zdbj_005	-209	287	10411000	-79	400	-79	400	-209	287
+6	兽人部落	t_map_name_6	map_6	Lv51-Lv60				-85	188	10511000	-209	287	-209	287	-85	188
+7	魔兽火山	t_map_name_7	map_7	Lv61-Lv70				-104	90	10611000	-85	188	-85	188	-104	90
+8	失落之地	t_map_name_8	map_8	Lv71-Lv80				-144	-48	10711000	-104	90	-104	90	-144	-48
+9	死亡森林	t_map_name_9	map_9	Lv81-Lv90				-9	-44	10811000	-144	-48	-144	-48	-9	-44
+10	蛮荒之地	t_map_name_10	map_10	Lv91-Lv100				136	-27	10911000	-9	-44	-9	-44	136	-27
+11	悲惨战场	t_map_name_11	map_11	Lv101-Lv110				180	-128	11011000	136	-27	136	-27	180	-128
+12	恶灵古堡	t_map_name_12	map_12	Lv111-Lv120				224	-261	11111000	180	-128	180	-128	224	-261
+13	卡拉尔山脉	t_map_name_13	map_13	Lv121-Lv130				148	-356	11211000	224	-261	224	-261	148	-356
+14	龙族巢穴	t_map_name_14	map_14	Lv131-Lv140				-48	-363	11311000	148	-356	148	-356	-48	-363
+15	魔神宫殿	t_map_name_15	map_15	Lv141-Lv150				-201	-150	11411000	-48	-363	-48	-363	-201	-150

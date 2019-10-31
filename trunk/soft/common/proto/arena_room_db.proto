@@ -1,0 +1,20 @@
+syntax = "proto2";
+package dhc;
+
+//using index guid 0
+
+message arena_room_t {
+    optional uint64 guid                    = 1;
+    repeated uint64 player_guids            = 2;
+    repeated string player_names            = 3;
+    repeated int32 player_levels            = 4;
+    repeated int32 player_icons             = 5;
+    repeated int32 player_integrals         = 6;
+    repeated int32 is_npc                   = 7;
+    repeated int32 player_powers            = 8;
+    repeated int32 arena_wins               = 9;
+    repeated int32 arena_nums               = 10;
+    repeated int32 arena_list_indexes       = 11;
+    optional int32 segment                  = 12;
+    optional uint64 last_time               = 13;
+}

@@ -1,0 +1,20 @@
+标识	描述	描述	房间分类	上一级	下一级	赛季结束段位	失败掉分	晋级最低积分	晋级奖励	奖励	奖励	奖励	晋级奖励	奖励	奖励	奖励	赛季奖励	奖励	奖励	奖励	赛季奖励	奖励	奖励	奖励	赛季奖励	奖励	奖励	奖励
+INT	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+*id		#desc	type	priv	next	season_end_segment	failure_score	score	reward.0.type	reward.0.value1	reward.0.value2	reward.0.value3	reward.1.type	reward.1.value1	reward.1.value2	reward.1.value3	season_reward.0.type	season_reward.0.value1	season_reward.0.value2	season_reward.0.value3	season_reward.1.type	season_reward.1.value1	season_reward.1.value2	season_reward.1.value3	season_reward.2.type	season_reward.2.value1	season_reward.2.value2	season_reward.2.value3
+1001	黑铁	t_arena_reward_desc_1001	1	0	2001	1001		3									1	2	10	1								
+2001	白银Ⅲ	t_arena_reward_desc_2001	2	1001	2002	1001		3	1	2	10	1					1	2	10	1								
+2002	白银Ⅱ	t_arena_reward_desc_2002	2	2001	2003	1001		3	1	2	10	1					1	2	10	1								
+2003	白银Ⅰ	t_arena_reward_desc_2003	2	2002	3001	1001		3	1	2	10	1					1	2	10	1								
+3001	黄金Ⅲ	t_arena_reward_desc_3001	3	2003	3002	2001		4	1	2	10	1					1	2	10	1								
+3002	黄金Ⅱ	t_arena_reward_desc_3002	3	3001	3003	2001		4	1	2	10	1					1	2	10	1								
+3003	黄金Ⅰ	t_arena_reward_desc_3003	3	3002	4001	2001		4	1	2	10	1					1	2	10	1								
+4001	铂金Ⅲ	t_arena_reward_desc_4001	4	3003	4002	3001		5	1	2	10	1					1	2	10	1								
+4002	铂金Ⅱ	t_arena_reward_desc_4002	4	4001	4003	3001		5	1	2	10	1					1	2	10	1								
+4003	铂金Ⅰ	t_arena_reward_desc_4003	4	4002	5001	3001		5	1	2	10	1					1	2	10	1								
+5001	钻石Ⅲ	t_arena_reward_desc_5001	5	4003	5002	4001		6	1	2	10	1					1	2	10	1								
+5002	钻石Ⅱ	t_arena_reward_desc_5002	5	5001	5003	4001		6	1	2	10	1					1	2	10	1								
+5003	钻石Ⅰ	t_arena_reward_desc_5003	5	5002	6001	4001	1	6	1	2	10	1					1	2	10	1								
+6001	大师Ⅲ	t_arena_reward_desc_6001	6	5003	6002	5001	1	7	1	2	10	1					1	2	10	1								
+6002	大师Ⅱ	t_arena_reward_desc_6002	6	6001	6003	5001	1	8	1	2	10	1					1	2	10	1								
+6003	大师Ⅰ	t_arena_reward_desc_6003	6	6002	7001	5001	1	9	1	2	10	1					1	2	10	1								
+7001	最强王者	t_arena_reward_desc_7001	7	6003	0	6001		10	1	2	10	1					1	2	10	1								

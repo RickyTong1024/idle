@@ -1,0 +1,13 @@
+syntax = "proto2";
+package dhc;
+
+//using datetime
+//using index username 8
+
+message acc_t {
+    optional uint64 guid                    = 1;
+    optional string username                = 2;
+    optional int32 serverid                 = 3;
+    optional uint64 fenghao_time            = 4;
+    optional uint64 last_time               = 5;
+}

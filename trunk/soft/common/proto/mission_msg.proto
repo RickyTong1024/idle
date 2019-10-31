@@ -1,0 +1,102 @@
+syntax = "proto2";
+
+import "common_msg.proto";
+
+package protocol.mission;
+
+message cmsg_mission {
+    required int32 mission_id               = 1;
+    required int32 fight_check              = 2;
+    repeated fight_param check_param        = 3;
+}
+
+message fight_param {
+    required int32 time                     = 1;
+    required int32 type                     = 2;
+    required int32 param                    = 3;
+}
+
+message smsg_mission {
+    required uint64 time                    = 1;
+    required int32 seed                     = 2;
+    repeated int32 count                    = 3;
+    required common.msg_assets assets       = 4;
+}
+
+message cmsg_mission_hang {
+    required int32 mission_id               = 1;
+}
+
+message smsg_mission_hang {
+    required common.msg_assets assets       = 1;
+    required uint64 hang_begin_time         = 2;
+}
+
+message cmsg_dungeon {
+    required int32 dungeon_id               = 1;
+}
+
+message smsg_dungeon {
+    required int32 dungeon_event            = 1;
+}
+
+message cmsg_dungeon_event {
+    required int32 dungeon_id               = 1;
+}
+
+message smsg_dungeon_event {
+    required int32 seed                     = 1;
+    required int32 event                    = 2;
+    required bytes assets                   = 3;
+    required bytes dungeon_assets           = 4;
+}
+
+message cmsg_dungeon_close {
+    required int32 dungeon_id               = 1;
+}
+
+message cmsg_tower {
+    required int32 tower_stair              = 1;
+}
+
+message smsg_tower {
+    required int32 seed                     = 1;
+    required common.msg_assets assets       = 2;
+}
+
+message cmsg_tower_sweep {
+    required int32 tower_stair              = 1;
+    required int32 sweep_num                = 2;
+}
+
+message smsg_tower_sweep {
+    required common.msg_assets assets       = 1;
+}
+
+message smsg_mission_ex_meet {
+    required uint64 mission_ex_time         = 1;
+}
+
+message cmsg_mission_ex {
+    required int32 mission_id               = 1;
+    required int32 fight_check              = 2;
+}
+
+message smsg_mission_ex {
+    required int32 seed                     = 1;
+    required uint64 time                    = 2;
+    required common.msg_assets assets       = 3;
+}
+
+message cmsg_map_go {
+    required int32 map_id                   = 1;
+}
+
+message cmsg_mineral {
+    required int32 mineral_id               = 1;
+}
+
+message smsg_mineral {
+    required uint64 time                    = 1;
+    required common.msg_assets assets       = 2;
+}

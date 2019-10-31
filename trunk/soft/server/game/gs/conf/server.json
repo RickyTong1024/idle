@@ -1,0 +1,35 @@
+{
+	"server": {
+		"gate": [
+			{"id":"gate","host":"127.0.0.1","port":1001,"tcp_port":9001}
+		],
+		"gs": [
+			{"id":"gs","host":"127.0.0.1","port":2001}
+		],
+		"account_server": [
+			{"id":"account","host": "127.0.0.1","port": 10001}
+		],
+		"libao_server": [
+			{"id":"libao","host": "127.0.0.1","port": 10003}
+		],
+		"center": [
+			{"id":"center","host":"127.0.0.1","port":3001}
+		],
+		"arena": [
+			{"id":"arena","host":"127.0.0.1","port":4001}
+		]
+	},
+	"db" : {
+		"loot": [
+			{"id":"loot","host":"127.0.0.1","username":"root","password":"root","db":"loot"}
+		]
+	},
+	"setting" : {
+		"log" : "debug",
+		"conf_path" : "../config",
+		"lang" : 0,
+		"qid" : 1,
+		"busy" : 1000,
+		"debug" : 1
+	}
+}

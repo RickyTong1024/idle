@@ -1,0 +1,17 @@
+id	name	代号	icon	type	前置id	vip点数	水晶	flatform_id
+INT	STRING	STRING	STRING	INT	INT	INT	INT	INT
+*id		#name	icon	type	pre_id	vip_point	crystal	flatform_id
+10	月卡	t_recharge_name_10	90003	2		300	300	120
+20	高级月卡	t_recharge_name_20	90003	1		980	980	100
+30	6480水晶首充	t_recharge_name_30	90006	3	40	6480	12960	40
+40	6480水晶	t_recharge_name_40	90006	4	30	6480	6480	40
+50	3280水晶首充	t_recharge_name_50	90006	3	60	3280	6560	60
+60	3280水晶	t_recharge_name_60	90006	4	50	3280	3280	60
+70	1980水晶首充	t_recharge_name_70	90005	3	80	1980	3960	80
+80	1980水晶	t_recharge_name_80	90005	4	70	1980	1980	80
+90	980水晶首充	t_recharge_name_90	90004	3	100	980	1960	100
+100	980水晶	t_recharge_name_100	90004	4	90	980	980	100
+110	300水晶首充	t_recharge_name_110	90002	3	120	300	600	120
+120	300水晶	t_recharge_name_120	90002	4	110	300	300	120
+130	60水晶首充	t_recharge_name_130	90001	3	140	60	120	140
+140	60水晶	t_recharge_name_140	90001	4	130	60	60	140

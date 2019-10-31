@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: quality
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 82db363abd40dec43b69396d520974d6, type: 3}
+    - {fileID: 2800000, guid: 398e7a60335487d428636a7e4f30ab5d, type: 3}
+    - {fileID: 2800000, guid: 38bebaf9f637a4f4f8fd07f3b147fa56, type: 3}
+    - {fileID: 2800000, guid: f4d9462cf38fdc144899d40f69f5134f, type: 3}
+    - {fileID: 2800000, guid: c9928413c28789442ac9d23a12b97354, type: 3}
+    - {fileID: 2800000, guid: e6e655dde4b336f47abeca8723ddb681, type: 3}
+    - {fileID: 2800000, guid: 5962b5ff2bf83004dbe1b3665ba577e8, type: 3}
+    - {fileID: 2800000, guid: b1aa33b217e5cdb47a40f6c821e01ec2, type: 3}
+    - {fileID: 2800000, guid: 6b79db7aeb47156428f7ea472f6d576c, type: 3}
+    - {fileID: 2800000, guid: 53bac85fb8960f547b6f9b68cd21a1dc, type: 3}
+    totalSpriteSurfaceArea: 594320
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 398e7a60335487d428636a7e4f30ab5d, type: 3}
+  - {fileID: 21300000, guid: b1aa33b217e5cdb47a40f6c821e01ec2, type: 3}
+  - {fileID: 21300000, guid: c9928413c28789442ac9d23a12b97354, type: 3}
+  - {fileID: 21300000, guid: 38bebaf9f637a4f4f8fd07f3b147fa56, type: 3}
+  - {fileID: 21300000, guid: 82db363abd40dec43b69396d520974d6, type: 3}
+  - {fileID: 21300000, guid: 6b79db7aeb47156428f7ea472f6d576c, type: 3}
+  - {fileID: 21300000, guid: f4d9462cf38fdc144899d40f69f5134f, type: 3}
+  - {fileID: 21300000, guid: e6e655dde4b336f47abeca8723ddb681, type: 3}
+  - {fileID: 21300000, guid: 53bac85fb8960f547b6f9b68cd21a1dc, type: 3}
+  - {fileID: 21300000, guid: 5962b5ff2bf83004dbe1b3665ba577e8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - gjrui_091
+  - ejjmdb_004
+  - ejjmdb_001
+  - gjrui_093
+  - gjrui_090
+  - ejjmdb_005
+  - gjrui_094
+  - ejjmdb_002
+  - gjrui_092
+  - ejjmdb_003
+  m_Tag: quality
+  m_IsVariant: 0

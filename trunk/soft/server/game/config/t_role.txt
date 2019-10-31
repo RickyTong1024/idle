@@ -1,0 +1,155 @@
+id	NAME	代号	图标	资源	攻击类型	普攻id	种族 人形1 野兽2 恶魔3	地图缩放比例	地图缩放比例	是否显示图鉴	声望种类
+INT	STRING	STRING	STRING	STRING	INT	INT	INT	FLOAT	FLOAT	INT	INT
+*id		#name	icon	res	attack_type	attack_id	race	scale	bscale	vis	reputation
+1	战士	t_role_name_1		unit_1	1	1001	1	1	1		
+1001	鹿	t_role_name_1001	zj01_001	unit_1001	2	105	2	1	2	1	3
+1002	螃蟹	t_role_name_1002	zj01_002	unit_1002	2	105	2	0.7	2	1	3
+1003	巫婆	t_role_name_1003	zj01_003	unit_1003	2	102	1	1	2	1	3
+1004	渔夫	t_role_name_1004	zj01_004	unit_1004	1	105	1	1	2	1	3
+1005	哥布林战士	t_role_name_1005	zj01_005	unit_1005	1	101	2	1	2	1	3
+1006	哥布林法师	t_role_name_1006	zj01_006	unit_1006	2	103	2	1	2	1	3
+1007	熊	t_role_name_1007	zj01_007	unit_1007	1	105	2	0.5	2	1	3
+1008	盗贼	t_role_name_1008	zj01_008	unit_1008	1	104	1	1	2	1	3
+1009	哥布林狂战士	t_role_name_1009	zj01_009	unit_1009	1	105	2	1	2	1	3
+1010	哥布林先知	t_role_name_1010	zj01_010	unit_1010	2	102	2	1	2	1	3
+2001	史莱姆	t_role_name_2001	zj02_001	unit_2001	1	105	2	1.2	2	1	3
+2002	多翼虫	t_role_name_2002	zj02_002	unit_2002	1	105	2	1	2	1	3
+2003	蜘蛛	t_role_name_2003	zj02_003	unit_2003	1	105	2	0.8	2	1	3
+2004	食人花	t_role_name_2004	zj02_004	unit_2005	1	105	2	0.7	2	1	3
+2005	鬼哭树怪	t_role_name_2005	zj02_005	unit_2006	2	105	2	0.7	0.8	1	3
+2006	翠金雀	t_role_name_2006	zj02_008	unit_2008	1	105	2	1	2	1	3
+2007	幽灵蝎	t_role_name_2007	zj02_007	unit_2004	2	105	2	0.9	2	1	3
+2008	多彩鸟	t_role_name_2008	zj02_006	unit_2007	2	105	2	1	2	1	3
+2009	食人花怪	t_role_name_2009	zj02_009	unit_2009	1	105	2	0.7	1.5	1	3
+2010	翠金螳螂	t_role_name_2010	zj02_010	unit_2010	1	105	2	1	1.5	1	3
+3001	蜥蜴	t_role_name_3001	zj03_001	unit_3001	1	105	2	1	2	1	3
+3002	鳄鱼	t_role_name_3002	zj03_002	unit_3002	1	105	2	0.5	1.2	1	3
+3003	蜘蛛	t_role_name_3003	zj03_003	unit_3003	2	105	2	0.8	1.5	1	3
+3004	囊蛛	t_role_name_3004	zj03_004	unit_3004	2	105	2	1	1.5	1	3
+3005	蜥蜴族剑士	t_role_name_3005	zj03_005	unit_3005	1	105	1	0.8	1.5	1	3
+3006	蜥蜴族巫师	t_role_name_3006	zj03_006	unit_3006	2	105	1	0.5	1.1	1	3
+3007	大嘴怪	t_role_name_3007	zj03_007	unit_3007	1	105	3	0.8	1.7	1	3
+3008	蜥蜴族刺客	t_role_name_3008	zj03_008	unit_3008	1	105	1	0.8	1.5	1	3
+3009	蜥蜴族先知	t_role_name_3009	zj03_009	unit_3009	2	105	1	0.5	1.1	1	3
+3010	鳄鱼人	t_role_name_3010	zj03_010	unit_3010	1	105	1	0.7	1.2	1	3
+4001	魔灵战马	t_role_name_4001	zj04_001	unit_4001	1	101	1	1	2		3
+4002	金鸡骑士	t_role_name_4002	zj04_002	unit_4002	1	101	1	1	2		3
+4003	魔灵战士	t_role_name_4003	zj04_003	unit_4003	1	101	1	1	2		3
+4004	无头魔灵	t_role_name_4004	zj04_004	unit_4004	1	101	1	1	2		3
+4005	魔灵总督	t_role_name_4005	zj04_005	unit_4005	1	101	1	1	2		3
+4006	魔化战士	t_role_name_4006	zj04_006	unit_4006	1	101	1	1	2		3
+4007	魔化法师	t_role_name_4007	zj04_007	unit_4007	1	101	1	1	2		3
+4008	魔化大法师	t_role_name_4008	zj04_008	unit_4008	1	101	1	1	2		3
+4009	魔化王子	t_role_name_4009	zj04_009	unit_4009	1	101	1	1	2		3
+4010	魔法总帅	t_role_name_4010	zj04_010	unit_4010	1	101	1	1	2		3
+5001	赤鹿	t_role_name_5001	zj05_001	unit_5001	1	101	1	1	2		3
+5002	魔鬼蜂	t_role_name_5002	zj05_002	unit_5002	1	101	1	1	2		3
+5003	野猪龙	t_role_name_5003	zj05_003	unit_5003	1	101	1	1	2		3
+5004	多翼虫王	t_role_name_5004	zj05_004	unit_5004	1	101	1	1	2		3
+5005	三尾狐	t_role_name_5005	zj05_005	unit_5005	1	101	1	1	2		3
+5006	赤红囊蛛	t_role_name_5006	zj05_006	unit_5006	1	101	1	1	2		3
+5007	大盆花	t_role_name_5007	zj05_007	unit_5007	1	101	1	1	2		3
+5008	树人	t_role_name_5008	zj05_008	unit_5008	1	101	1	1	2		3
+5009	大嘴怪	t_role_name_5009	zj05_009	unit_5009	1	101	1	1	2		3
+5010	魔鬼蝎	t_role_name_5010	zj05_010	unit_5010	1	101	1	1	2		3
+6001	半人马战士	t_role_name_6001	zj06_001	unit_6001	1	101	1	1	2		3
+6002	半人马守护者	t_role_name_6002	zj06_002	unit_6002	1	101	1	1	2		3
+6003	蛇发女妖	t_role_name_6003	zj06_003	unit_6003	1	101	1	1	2		3
+6004	美杜莎	t_role_name_6004	zj06_004	unit_6004	1	101	1	1	2		3
+6005	兽狼战士	t_role_name_6005	zj06_005	unit_6005	1	101	1	1	2		3
+6006	兽狼士官长	t_role_name_6006	zj06_006	unit_6006	1	101	1	1	2		3
+6007	兽狼游侠	t_role_name_6007	zj06_007	unit_6007	1	101	1	1	2		3
+6008	兽人统帅	t_role_name_6008	zj06_008	unit_6008	1	101	1	1	2		3
+6009	兽人大祭司	t_role_name_6009	zj06_009	unit_6009	1	101	1	1	2		3
+6010	兽人圣女	t_role_name_6010	zj06_010	unit_6010	1	101	1	1	2		3
+7001	魔猿医护兵	t_role_name_7001	zj07_001	unit_7001	1	101	1	1	2		3
+7002	魔猿旗兵	t_role_name_7002	zj07_002	unit_7002	1	101	1	1	2		3
+7003	牛头人战士	t_role_name_7003	zj07_003	unit_7003	1	101	1	1	2		3
+7004	牛头人先锋	t_role_name_7004	zj07_004	unit_7004	1	101	1	1	2		3
+7005	狮子战士	t_role_name_7005	zj07_005	unit_7005	1	101	1	1	2		3
+7006	狮子侍卫长	t_role_name_7006	zj07_006	unit_7006	1	101	1	1	2		3
+7007	红石炮手	t_role_name_7007	zj07_007	unit_7007	1	101	1	1	2		3
+7008	红石狂战士	t_role_name_7008	zj07_008	unit_7008	1	101	1	1	2		3
+7009	兵团指挥官	t_role_name_7009	zj07_009	unit_7009	1	101	1	1	2		3
+7010	兵团执政官	t_role_name_7010	zj07_010	unit_7010	1	101	1	1	2		3
+8001	死亡蟾蜍	t_role_name_8001	zj08_001	unit_8001	1	101	1	1	2		3
+8002	地狱犬	t_role_name_8002	zj08_002	unit_8002	1	101	1	1	2		3
+8003	亡灵鸟	t_role_name_8003	zj08_003	unit_8003	1	101	1	1	2		3
+8004	傀儡侩子手	t_role_name_8004	zj08_004	unit_8004	1	101	1	1	2		3
+8005	骷髅士兵	t_role_name_8005	zj08_005	unit_8005	1	101	1	1	2		3
+8006	骷髅弓箭手	t_role_name_8006	zj08_006	unit_8006	1	101	1	1	2		3
+8007	傀儡狂战士	t_role_name_8007	zj08_007	unit_8007	1	101	1	1	2		3
+8008	骷髅法师	t_role_name_8008	zj08_008	unit_8008	1	101	1	1	2		3
+8009	骷髅百夫长	t_role_name_8009	zj08_009	unit_8009	1	101	1	1	2		3
+8010	骷髅指挥官	t_role_name_8010	zj08_010	unit_8010	1	101	1	1	2		3
+9001	蜥蜴	t_role_name_9001	zj09_001	unit_9001	1	101	1	1	2		3
+9002	大盆口	t_role_name_9002	zj09_002	unit_9002	1	101	1	1	2		3
+9003	蠕虫	t_role_name_9003	zj09_003	unit_9003	1	101	1	1	2		3
+9004	猎齿豹	t_role_name_9004	zj09_004	unit_9004	1	101	1	1	2		3
+9005	迅猛龙	t_role_name_9005	zj09_005	unit_9005	1	101	1	1	2		3
+9006	野猪骑士	t_role_name_9006	zj09_006	unit_9006	1	101	1	1	2		3
+9007	魔羚羊战士	t_role_name_9007	zj09_007	unit_9007	1	101	1	1	2		3
+9008	魔羚羊首领	t_role_name_9008	zj09_008	unit_9008	1	101	1	1	2		3
+9009	牛犀兽	t_role_name_9009	zj09_009	unit_9009	1	101	1	1	2		3
+9010	蝎尾地龙	t_role_name_9010	zj09_010	unit_9010	1	101	1	1	2		3
+10001	蜥蜴	t_role_name_10001	zj10_001	unit_10001	1	101	1	1	2		3
+10002	蜥蜴	t_role_name_10002	zj10_002	unit_10002	1	101	1	1	2		3
+10003	蜥蜴	t_role_name_10003	zj10_003	unit_10003	1	101	1	1	2		3
+10004	蜥蜴	t_role_name_10004	zj10_004	unit_10004	1	101	1	1	2		3
+10005	蜥蜴	t_role_name_10005	zj10_005	unit_10005	1	101	1	1	2		3
+10006	蜥蜴	t_role_name_10006	zj10_006	unit_10006	1	101	1	1	2		3
+10007	蜥蜴	t_role_name_10007	zj10_007	unit_10007	1	101	1	1	2		3
+10008	蜥蜴	t_role_name_10008	zj10_008	unit_10008	1	101	1	1	2		3
+10009	蜥蜴	t_role_name_10009	zj10_009	unit_10009	1	101	1	1	2		3
+10010	蜥蜴	t_role_name_10010	zj10_010	unit_10010	1	101	1	1	2		3
+11001	蜥蜴	t_role_name_11001	zj11_001	unit_11001	1	101	1	1	2		3
+11002	蜥蜴	t_role_name_11002	zj11_002	unit_11002	1	101	1	1	2		3
+11003	蜥蜴	t_role_name_11003	zj11_003	unit_11003	1	101	1	1	2		3
+11004	蜥蜴	t_role_name_11004	zj11_004	unit_11004	1	101	1	1	2		3
+11005	蜥蜴	t_role_name_11005	zj11_005	unit_11005	1	101	1	1	2		3
+11006	蜥蜴	t_role_name_11006	zj11_006	unit_11006	1	101	1	1	2		3
+11007	蜥蜴	t_role_name_11007	zj11_007	unit_11007	1	101	1	1	2		3
+11008	蜥蜴	t_role_name_11008	zj11_008	unit_11008	1	101	1	1	2		3
+11009	蜥蜴	t_role_name_11009	zj11_009	unit_11009	1	101	1	1	2		3
+11010	蜥蜴	t_role_name_11010	zj11_010	unit_11010	1	101	1	1	2		3
+12001	蜥蜴	t_role_name_12001	zj12_001	unit_12001	1	101	1	1	2		3
+12002	蜥蜴	t_role_name_12002	zj12_002	unit_12002	1	101	1	1	2		3
+12003	蜥蜴	t_role_name_12003	zj12_003	unit_12003	1	101	1	1	2		3
+12004	蜥蜴	t_role_name_12004	zj12_004	unit_12004	1	101	1	1	2		3
+12005	蜥蜴	t_role_name_12005	zj12_005	unit_12005	1	101	1	1	2		3
+12006	蜥蜴	t_role_name_12006	zj12_006	unit_12006	1	101	1	1	2		3
+12007	蜥蜴	t_role_name_12007	zj12_007	unit_12007	1	101	1	1	2		3
+12008	蜥蜴	t_role_name_12008	zj12_008	unit_12008	1	101	1	1	2		3
+12009	蜥蜴	t_role_name_12009	zj12_009	unit_12009	1	101	1	1	2		3
+12010	蜥蜴	t_role_name_12010	zj12_010	unit_12010	1	101	1	1	2		3
+13001	蜥蜴	t_role_name_13001	zj13_001	unit_13001	1	101	1	1	2		3
+13002	蜥蜴	t_role_name_13002	zj13_002	unit_13002	1	101	1	1	2		3
+13003	蜥蜴	t_role_name_13003	zj13_003	unit_13003	1	101	1	1	2		3
+13004	蜥蜴	t_role_name_13004	zj13_004	unit_13004	1	101	1	1	2		3
+13005	蜥蜴	t_role_name_13005	zj13_005	unit_13005	1	101	1	1	2		3
+13006	蜥蜴	t_role_name_13006	zj13_006	unit_13006	1	101	1	1	2		3
+13007	蜥蜴	t_role_name_13007	zj13_007	unit_13007	1	101	1	1	2		3
+13008	蜥蜴	t_role_name_13008	zj13_008	unit_13008	1	101	1	1	2		3
+13009	蜥蜴	t_role_name_13009	zj13_009	unit_13009	1	101	1	1	2		3
+13010	蜥蜴	t_role_name_13010	zj13_010	unit_13010	1	101	1	1	2		3
+14001	蜥蜴	t_role_name_14001	zj14_001	unit_14001	1	101	1	1	2		3
+14002	蜥蜴	t_role_name_14002	zj14_002	unit_14002	1	101	1	1	2		3
+14003	蜥蜴	t_role_name_14003	zj14_003	unit_14003	1	101	1	1	2		3
+14004	蜥蜴	t_role_name_14004	zj14_004	unit_14004	1	101	1	1	2		3
+14005	蜥蜴	t_role_name_14005	zj14_005	unit_14005	1	101	1	1	2		3
+14006	蜥蜴	t_role_name_14006	zj14_006	unit_14006	1	101	1	1	2		3
+14007	蜥蜴	t_role_name_14007	zj14_007	unit_14007	1	101	1	1	2		3
+14008	蜥蜴	t_role_name_14008	zj14_008	unit_14008	1	101	1	1	2		3
+14009	蜥蜴	t_role_name_14009	zj14_009	unit_14009	1	101	1	1	2		3
+14010	蜥蜴	t_role_name_14010	zj14_010	unit_14010	1	101	1	1	2		3
+15001	蜥蜴	t_role_name_15001	zj15_001	unit_15001	1	101	1	1	2		3
+15002	蜥蜴	t_role_name_15002	zj15_002	unit_15002	1	101	1	1	2		3
+15003	蜥蜴	t_role_name_15003	zj15_003	unit_15003	1	101	1	1	2		3
+15004	蜥蜴	t_role_name_15004	zj15_004	unit_15004	1	101	1	1	2		3
+15005	蜥蜴	t_role_name_15005	zj15_005	unit_15005	1	101	1	1	2		3
+15006	蜥蜴	t_role_name_15006	zj15_006	unit_15006	1	101	1	1	2		3
+15007	蜥蜴	t_role_name_15007	zj15_007	unit_15007	1	101	1	1	2		3
+15008	蜥蜴	t_role_name_15008	zj15_008	unit_15008	1	101	1	1	2		3
+15009	蜥蜴	t_role_name_15009	zj15_009	unit_15009	1	101	1	1	2		3
+15010	蜥蜴	t_role_name_15010	zj15_010	unit_15010	1	101	1	1	2		3
+99999	普鲁都斯	t_role_name_99999	monster_1002	unit_99999	1	106	3	1	1.5		

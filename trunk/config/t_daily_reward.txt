@@ -1,0 +1,7 @@
+½ø¶È	½±Àø	½±Àø	½±Àø	½±Àø	½±Àø	½±Àø	½±Àø	½±Àø	½±Àø	½±Àø	½±Àø	½±Àø
+INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+*progress	reward.0.type	reward.0.value1	reward.0.value2	reward.0.value3	reward.1.type	reward.1.value1	reward.1.value2	reward.1.value3	reward.2.type	reward.2.value1	reward.2.value2	reward.2.value3
+25	2	10020001	3	0								
+50	2	30020001	3	0	2	10020001	3	0				
+75	2	10010001	3	0	2	10020001	5	0				
+100	1	5	100	0	2	10040001	1	0	2	10030001	1	0

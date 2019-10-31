@@ -1,0 +1,25 @@
+syntax = "proto2";
+
+import "equip_db.proto";
+import "pet_db.proto";
+import "mail_db.proto";
+
+package protocol.common;
+
+message msg_asset {
+    optional int32 type                     = 1;
+    optional int32 value1                   = 2;
+    optional int32 value2                   = 3;
+    optional int32 value3                   = 4;
+}
+
+message msg_assets {
+    repeated msg_asset assets               = 1;
+    repeated dhc.equip_t equips             = 2;
+    repeated dhc.pet_t pets                 = 3;
+    repeated dhc.mail_t mails               = 4;
+}
+
+message cmsg_heart_beat {
+    required uint64 time                    = 1;
+}

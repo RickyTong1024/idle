@@ -1,0 +1,6 @@
+颜色	权重
+INT	INT
+*color	weight
+3	1250
+4	250
+5	50

@@ -1,0 +1,51 @@
+syntax = "proto2";
+
+import "common_msg.proto";
+
+package protocol.promotion;
+
+message cmsg_task_receive {
+    required int32 task_id                  = 1;
+}
+
+message cmsg_task_end {
+    required int32 task_id                  = 1;
+}
+
+message smsg_task_end {
+    required int32 map_id                   = 1;
+    required common.msg_assets assets       = 2;
+}
+
+message cmsg_daily_draw {
+    required int32 daily_id                 = 1;
+}
+
+message smsg_daily_draw {
+    required common.msg_assets assets       = 1;
+}
+
+message cmsg_daily_reward_draw {
+    required int32 daily_reward_id          = 1;
+}
+
+message smsg_daily_reward_draw {
+    required common.msg_assets assets       = 1;
+}
+
+message cmsg_aside {
+    required int32 aside_id                 = 1;
+}
+
+message cmsg_shop_buy {
+    required int32 id                       = 1;
+    required int32 num                      = 2;
+}
+
+message smsg_shop_buy {
+    required common.msg_assets assets       = 1;
+}
+
+message cmsg_portal {
+    required int32 portal_id                = 1;
+}

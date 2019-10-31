@@ -1,0 +1,43 @@
+syntax = "proto2";
+
+import "equip_db.proto";
+import "pet_db.proto";
+
+package protocol.center;
+
+message cnmsg_error {
+    required int32 code                     = 1;
+}
+
+message smsg_center_enter_server {
+    required int32 server_id                 = 1;
+}
+
+message smsg_center_heart_beat {
+    required int32 server_id                 = 1;
+}
+
+message cmsg_view_player {
+    required uint64 player_guid             = 1;
+}
+
+message smsg_view_player {
+    required string player_name             = 1;
+    required int32 player_level             = 2;
+    required int32 player_role              = 3;
+    repeated int32 player_attrs_ids         = 4;
+    repeated float player_attrs_values      = 5;
+    repeated int32 player_equip_enhances    = 6;
+    repeated int32 player_equip_shows       = 7;
+    required int32 player_power             = 8;
+    required bool player_online             = 9;
+    repeated int32 spell_ids                = 10;
+    repeated int32 spell_levels             = 11;
+    repeated int32 spell_passive_slots      = 12;
+    repeated int32 spell_passive_ids        = 13;
+    repeated dhc.equip_t player_equips      = 14;
+    repeated int32 rune_slot1s              = 15;
+    repeated int32 rune_slot2s              = 16;
+    repeated int32 rune_slot3s              = 17;
+    repeated dhc.pet_t player_pets          = 18;
+}

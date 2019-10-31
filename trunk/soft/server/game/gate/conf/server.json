@@ -1,0 +1,13 @@
+{
+	"server": {
+		"gate": [
+			{"id":"gate","host":"127.0.0.1","port":1001,"tcp_port":9001}
+		],
+		"gs": [
+			{"id":"gs","host":"127.0.0.1","port":2001}
+		]
+	},
+    "setting" : {
+		"log" : "debug"
+	}
+}

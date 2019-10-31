@@ -1,0 +1,6 @@
+颜色	能力增幅	特效
+INT	INT	STRING
+*color	bonus	effect
+1	0	
+4	40	halo_a2
+5	50	halo_a3

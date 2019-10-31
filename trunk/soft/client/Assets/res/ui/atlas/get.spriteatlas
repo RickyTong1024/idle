@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: get
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: fb2bf513a8fb5b84091aa85bc7d1d5c2, type: 3}
+    - {fileID: 2800000, guid: e7fc16797a61cc84f87341e9936614f6, type: 3}
+    - {fileID: 2800000, guid: 8b2fd780fe1490843a6f42ec20b0df11, type: 3}
+    - {fileID: 2800000, guid: e3e2d57af6ae1c844bbc172f01176cac, type: 3}
+    - {fileID: 2800000, guid: d520875bd39f1d346b3df6f6b9f7df7f, type: 3}
+    - {fileID: 2800000, guid: 6488c9ec8e50b1f4dbcd442d71b53228, type: 3}
+    - {fileID: 2800000, guid: 24015e6a49dbc6a4f84c1c339f569fbc, type: 3}
+    - {fileID: 2800000, guid: 3a3253fc47090b34da193c1f16afb5c5, type: 3}
+    - {fileID: 2800000, guid: 8e6c92d6bc77b184fbb177173f2021df, type: 3}
+    - {fileID: 2800000, guid: 39771c6162532834d8003c43fe56c83b, type: 3}
+    - {fileID: 2800000, guid: f8bb1dda009600348b50b87a0b5dd9bb, type: 3}
+    - {fileID: 2800000, guid: d36db07b5e97ad346a2c1633c3f1949a, type: 3}
+    - {fileID: 2800000, guid: 570f3a4ca4b022b4c91eb5fb05801f43, type: 3}
+    - {fileID: 2800000, guid: b92bf4858429d4047a528e7caab0d012, type: 3}
+    - {fileID: 2800000, guid: 16824326079f2194a8759b199dbcb4ea, type: 3}
+    - {fileID: 2800000, guid: d23d52441ed5aa24780366581a1f508c, type: 3}
+    - {fileID: 2800000, guid: 3b2076188399c484cb1a5603bad8eb99, type: 3}
+    - {fileID: 2800000, guid: 00525019d3f153a43b3ca6b10e80c115, type: 3}
+    - {fileID: 2800000, guid: f7867b16482d67c4a829d9574b171628, type: 3}
+    - {fileID: 2800000, guid: 3a03f72a2d4cce647a3232ed864982e2, type: 3}
+    - {fileID: 2800000, guid: e0310fc60a73dbc4b9cb243b86e99eab, type: 3}
+    - {fileID: 2800000, guid: afe2b8d54c485ec419d00240680e19e7, type: 3}
+    totalSpriteSurfaceArea: 228888
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8b2fd780fe1490843a6f42ec20b0df11, type: 3}
+  - {fileID: 21300000, guid: 39771c6162532834d8003c43fe56c83b, type: 3}
+  - {fileID: 21300000, guid: fb2bf513a8fb5b84091aa85bc7d1d5c2, type: 3}
+  - {fileID: 21300000, guid: d23d52441ed5aa24780366581a1f508c, type: 3}
+  - {fileID: 21300000, guid: b92bf4858429d4047a528e7caab0d012, type: 3}
+  - {fileID: 21300000, guid: afe2b8d54c485ec419d00240680e19e7, type: 3}
+  - {fileID: 21300000, guid: f7867b16482d67c4a829d9574b171628, type: 3}
+  - {fileID: 21300000, guid: 16824326079f2194a8759b199dbcb4ea, type: 3}
+  - {fileID: 21300000, guid: e0310fc60a73dbc4b9cb243b86e99eab, type: 3}
+  - {fileID: 21300000, guid: 8e6c92d6bc77b184fbb177173f2021df, type: 3}
+  - {fileID: 21300000, guid: 3b2076188399c484cb1a5603bad8eb99, type: 3}
+  - {fileID: 21300000, guid: 00525019d3f153a43b3ca6b10e80c115, type: 3}
+  - {fileID: 21300000, guid: e7fc16797a61cc84f87341e9936614f6, type: 3}
+  - {fileID: 21300000, guid: 3a03f72a2d4cce647a3232ed864982e2, type: 3}
+  - {fileID: 21300000, guid: 24015e6a49dbc6a4f84c1c339f569fbc, type: 3}
+  - {fileID: 21300000, guid: e3e2d57af6ae1c844bbc172f01176cac, type: 3}
+  - {fileID: 21300000, guid: f8bb1dda009600348b50b87a0b5dd9bb, type: 3}
+  - {fileID: 21300000, guid: d520875bd39f1d346b3df6f6b9f7df7f, type: 3}
+  - {fileID: 21300000, guid: d36db07b5e97ad346a2c1633c3f1949a, type: 3}
+  - {fileID: 21300000, guid: 570f3a4ca4b022b4c91eb5fb05801f43, type: 3}
+  - {fileID: 21300000, guid: 6488c9ec8e50b1f4dbcd442d71b53228, type: 3}
+  - {fileID: 21300000, guid: 3a3253fc47090b34da193c1f16afb5c5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 1004
+  - 4002
+  - 1002
+  - 5
+  - 1001
+  - 100
+  - 9
+  - 4
+  - 13
+  - 4001
+  - 6
+  - 7
+  - 1003
+  - 10
+  - 3001
+  - 1005
+  - 4003
+  - 1006
+  - 5001
+  - 6001
+  - 2001
+  - 3002
+  m_Tag: get
+  m_IsVariant: 0

@@ -1,0 +1,20 @@
+
+zjm_maotouying.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maotouying1
+  rotate: false
+  xy: 2, 76
+  size: 336, 346
+  orig: 336, 346
+  offset: 0, 0
+  index: -1
+maotouying3
+  rotate: false
+  xy: 2, 2
+  size: 116, 72
+  orig: 116, 72
+  offset: 0, 0
+  index: -1

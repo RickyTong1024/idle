@@ -1,0 +1,18 @@
+id	描述	描述	技能id	图标	1增益2减益3都不是	属性	参数	参数增量	属性	参数	参数增量	属性	参数	参数增量
+INT	STRING	STRING	INT	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+*id		#desc	spell_id	icon	effect	buff.0.attr	buff.0.value	buff.0.add	buff.1.attr	buff.1.value	buff.1.add	buff.2.attr	buff.2.value	buff.2.add
+91001	处于晕眩状态无法行动	t_spell_buff_desc_91001		91001	2	1001	1							
+100601	提高自身{N1}%的暴伤	t_spell_buff_desc_100601	1006		1	51	600	30						
+100801	提高自身{N1}%的暴击率	t_spell_buff_desc_100801	1008		1	33	200	10						
+100901	降低敌方{N1}%的防御	t_spell_buff_desc_100901	1009		2	16	400	20						
+200401	魔法防御降低{N1}%	t_spell_buff_desc_200401	2004		2	24	-400	-20						
+200501	物理防御降低{N1}%	t_spell_buff_desc_200501	2005		2	23	-400	-20						
+200601	魔法防御降低{N1}%	t_spell_buff_desc_200601	2006		2	24	-600	-30						
+200701	防御提高{N1}%	t_spell_buff_desc_200701	2007		1	37	600	30						
+200801	防御提高{N1}%，攻击反弹提高{N2}%	t_spell_buff_desc_200801	2008		1	37	400	20	74	400	20			
+200901	防御提高{N1}%	t_spell_buff_desc_200901	2009		1	37	600	30						
+201001	攻击提高{N1}%，命中率减少{N2}%	t_spell_buff_desc_201001	2010		1	22	400	20	31	-600				
+201401	物理防御降低{N1}%	t_spell_buff_desc_201401	2014		2	23	-400	-20						
+201601	魔法防御降低{N1}%	t_spell_buff_desc_201601	2016		2	24	-400	-20						
+201801	攻击提高{N1}%，防御减少{N2}%	t_spell_buff_desc_201801	2018		2	22	400	20	37	-600				
+201901	攻击速度提高{N1}%	t_spell_buff_desc_201901	2019		1	72	600	30						

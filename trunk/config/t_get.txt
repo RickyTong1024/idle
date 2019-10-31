@@ -1,0 +1,22 @@
+id	标题	标题	图标	城内外 -1城内，0城内外都可以，1城外	功能名称	功能参数	解锁type	解锁参数
+INT	STRING	STRING	STRING	INT	STRING	INT	INT	INT
+*id		#name	icon	outside	panel	panel_param	get_unlock	get_param
+1	野外战斗	t_get_name_1	10	1	PortalPanel	-1	2	10102000
+2	野外精英	t_get_name_2	9	1	PortalPanel	-1	2	10102000
+3	野外副本	t_get_name_3	5	1	PortalPanel	-1	2	20202002
+4	神器副本	t_get_name_4	6	1	PortalPanel	-1	2	20301002
+5	龙之塔	t_get_name_5	1004	-1	TowerPanel	-1	3	10103000
+6	竞技场	t_get_name_6	1003	-1	EsportsPanel	-1	1	99
+7	奇遇	t_get_name_7	7	1	PortalPanel	-1	1	1
+8	猎杀任务	t_get_name_8	13	-1	HallTwoPanel	-1	2	20301002
+9	锻造	t_get_name_9	5001	0	ForgePanel	-1	2	20101002
+10	分解	t_get_name_10	5001	0	BagPanel	1	2	10102000
+11	商店	t_get_name_12	1002	-1	ShopPanel	1	2	20201002
+12	幸运商店	t_get_name_13	1001	-1	ShopPanel	4	2	20201002
+13	每日任务	t_get_name_14	4	0	TaskPanel	-1	1	10
+100	活动	t_get_name_100	100	0		-1	1	10
+10001	签到	t_get_name_10001	1005	0	SignPanel	-1	1	10
+20001	附魔	t_get_name_20001		0	PlayerPanel	-1	1	1
+20002	强化	t_get_name_20002		0	PlayerPanel	-1	1	1
+20003	重铸	t_get_name_20003		0	PlayerPanel	-1	1	1
+20004	镶嵌	t_get_name_20004		0	PlayerPanel	-1	1	1

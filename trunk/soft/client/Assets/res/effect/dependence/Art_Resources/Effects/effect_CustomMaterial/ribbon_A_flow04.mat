@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ribbon_A_flow04
+  m_Shader: {fileID: 4800000, guid: dbbffba662ed5574e8a18eb25f4a996a, type: 3}
+  m_ShaderKeywords: _DISE01_UVPAN_ON _E01_UVPAN_TIMEVERTEXALPHA_ON _OPACITY_ONOFF_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3001
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha01:
+        m_Texture: {fileID: 2800000, guid: 9bb9054b520384347942c96511e0fb32, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisE01:
+        m_Texture: {fileID: 2800000, guid: e8be11fe104220840baceb1b3b6322d5, type: 3}
+        m_Scale: {x: 1, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _E01:
+        m_Texture: {fileID: 2800000, guid: 3b1d736f1ed99db439464c05eaf25dbb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskE01:
+        m_Texture: {fileID: 2800000, guid: 3a5a96df060a5cf4a9cc0c59e13486b7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha01_Bright: 10
+    - _Cutoff: 0.5
+    - _DisE01_UVpan: 1
+    - _DisE01_UVpan_Speed: 1
+    - _DisE01_value: 0
+    - _E01_Bright: 3
+    - _E01_UVangle: 0
+    - _E01_UVpan: 0
+    - _E01_UVpan_Speed: -2
+    - _E01_UVpan_TimeVertexAlpha: 1
+    - _Opacity_ONOff: 1
+    - _RimPower: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _E01_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0, g: 0, b: 0, a: 0}

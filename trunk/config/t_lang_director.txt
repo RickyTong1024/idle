@@ -1,0 +1,1230 @@
+id	中文	英文
+STRING	STRING	STRING
+*id	c0	c1
+t_director_title_10100100	雪莱	
+t_director_title_10100101	雪莱	
+t_director_title_10100102	雪莱	
+t_director_title_10100103	雪莱	
+t_director_title_10100104	雪莱	
+t_director_title_10100200	缇娜	
+t_director_title_10100300	雪莱	
+t_director_title_10100301	雪莱	
+t_director_title_10100302	雪莱	
+t_director_title_10100303	雪莱	
+t_director_title_10100304	雪莱	
+t_director_title_10100305	雪莱	
+t_director_title_10200100	雪莱	
+t_director_title_10200101	雪莱	
+t_director_title_10200102	雪莱	
+t_director_title_10200103	雪莱	
+t_director_title_10200104	雪莱	
+t_director_title_10300100	雪莱	
+t_director_title_10300101	雪莱	
+t_director_title_10300102	雪莱	
+t_director_title_20101100	铁匠:卡普	
+t_director_title_20101101	铁匠:卡普	
+t_director_title_20101102	铁匠:卡普	
+t_director_title_20101103	铁匠:卡普	
+t_director_title_20101200	铁匠:卡普	
+t_director_title_20101201	铁匠:卡普	
+t_director_title_20101202	铁匠:卡普	
+t_director_title_20101203	铁匠:卡普	
+t_director_title_20101300	铁匠:卡普	
+t_director_title_20101301	铁匠:卡普	
+t_director_title_20101302	铁匠:卡普	
+t_director_title_20101303	铁匠:卡普	
+t_director_title_20102100	帕莎	
+t_director_title_20102101	帕莎	
+t_director_title_20102102	帕莎	
+t_director_title_20102200	帕莎	
+t_director_title_20102201	帕莎	
+t_director_title_20102202	帕莎	
+t_director_title_20102203	帕莎	
+t_director_title_20103100	杂货店老板:泰勒	
+t_director_title_20103101	杂货店老板:泰勒	
+t_director_title_20103102	杂货店老板:泰勒	
+t_director_title_20103103	杂货店老板:泰勒	
+t_director_title_20103200	杂货店老板:泰勒	
+t_director_title_20103201	杂货店老板:泰勒	
+t_director_title_20103202	杂货店老板:泰勒	
+t_director_title_20201100	铁匠:卡普	
+t_director_title_20201101	铁匠:卡普	
+t_director_title_20201102	铁匠:卡普	
+t_director_title_20201103	铁匠:卡普	
+t_director_title_20201200	铁匠:卡普	
+t_director_title_20201201	铁匠:卡普	
+t_director_title_20201202	铁匠:卡普	
+t_director_title_20202100	小花妖	
+t_director_title_20202101	小花妖	
+t_director_title_20202102	小花妖	
+t_director_title_20202103	小花妖	
+t_director_title_20202104	小花妖	
+t_director_title_20202105	小花妖	
+t_director_title_20202106	小花妖	
+t_director_title_20202107	小花妖	
+t_director_title_20202108	小花妖	
+t_director_title_20202109	小花妖	
+t_director_title_20202200	小花妖	
+t_director_title_20202201	小花妖	
+t_director_title_20202202	小花妖	
+t_director_title_20202203	小花妖	
+t_director_title_20301100	铁匠:卡普	
+t_director_title_20301101	铁匠:卡普	
+t_director_title_20301102	铁匠:卡普	
+t_director_title_20301103	铁匠:卡普	
+t_director_title_20301200	铁匠:卡普	
+t_director_title_20301201	铁匠:卡普	
+t_director_title_20301202	铁匠:卡普	
+t_director_title_20301203	铁匠:卡普	
+t_director_title_20301204	铁匠:卡普	
+t_director_title_20301205	铁匠:卡普	
+t_director_title_20302100	龙之塔管理员:安吉拉	
+t_director_title_20302101	龙之塔管理员:安吉拉	
+t_director_title_20302102	龙之塔管理员:安吉拉	
+t_director_title_20302103	龙之塔管理员:安吉拉	
+t_director_title_20302104	龙之塔管理员:安吉拉	
+t_director_title_20302105	龙之塔管理员:安吉拉	
+t_director_title_20302106	龙之塔管理员:安吉拉	
+t_director_title_20302200	龙之塔管理员:安吉拉	
+t_director_title_20302201	龙之塔管理员:安吉拉	
+t_director_title_20302202	龙之塔管理员:安吉拉	
+t_director_title_20302203	龙之塔管理员:安吉拉	
+t_director_title_20304101	任务管理员:伊迪丝	
+t_director_title_20304102	任务管理员:伊迪丝	
+t_director_title_20304103	任务管理员:伊迪丝	
+t_director_title_20304104	任务管理员:伊迪丝	
+t_director_title_20304200	任务管理员:伊迪丝	
+t_director_title_20304201	任务管理员:伊迪丝	
+t_director_title_20304202	任务管理员:伊迪丝	
+t_director_title_20303100	机智的商人：卡隆	
+t_director_title_20303101	机智的商人：卡隆	
+t_director_title_20303102	机智的商人：卡隆	
+t_director_title_20303103	机智的商人：卡隆	
+t_director_title_20303104	机智的商人：卡隆	
+t_director_title_20303105	机智的商人：卡隆	
+t_director_title_20303200	机智的商人：卡隆	
+t_director_title_20303201	机智的商人：卡隆	
+t_director_title_20303202	机智的商人：卡隆	
+t_director_title_20303203	机智的商人：卡隆	
+t_director_title_20401100	铁匠:卡普	
+t_director_title_20401101	铁匠:卡普	
+t_director_title_20401102	铁匠:卡普	
+t_director_title_20401103	铁匠:卡普	
+t_director_title_20401200	铁匠:卡普	
+t_director_title_20401201	铁匠:卡普	
+t_director_title_20401202	铁匠:卡普	
+t_director_title_20401203	铁匠:卡普	
+t_director_title_20402100	竞技场管理员:赛琳娜	
+t_director_title_20402101	竞技场管理员:赛琳娜	
+t_director_title_20402102	竞技场管理员:赛琳娜	
+t_director_title_20402103	竞技场管理员:赛琳娜	
+t_director_title_20402200	竞技场管理员:赛琳娜	
+t_director_title_20402201	竞技场管理员:赛琳娜	
+t_director_title_20402202	竞技场管理员:赛琳娜	
+t_director_title_20402203	竞技场管理员:赛琳娜	
+t_director_title_30100000	任务管理员:伊迪丝	
+t_director_title_30100100	任务管理员:伊迪丝	
+t_director_title_30300100	任务管理员:伊迪丝	
+t_director_title_30300200	任务管理员:伊迪丝	
+t_director_title_30300300	任务管理员:伊迪丝	
+t_director_title_30300400	任务管理员:伊迪丝	
+t_director_title_30300500	任务管理员:伊迪丝	
+t_director_title_30300600	任务管理员:伊迪丝	
+t_director_title_30300700	任务管理员:伊迪丝	
+t_director_title_30300800	任务管理员:伊迪丝	
+t_director_title_30300900	任务管理员:伊迪丝	
+t_director_title_30301000	任务管理员:伊迪丝	
+t_director_title_40101001	鹿	
+t_director_title_40101002	螃蟹	
+t_director_title_40101003	巫婆	
+t_director_title_40101004	渔夫	
+t_director_title_40101005	哥布林战士	
+t_director_title_40101006	哥布林法师	
+t_director_title_40101007	熊	
+t_director_title_40101008	盗贼	
+t_director_title_40101009	哥布林狂战士	
+t_director_title_40101010	哥布林先知	
+t_director_title_40201001	史莱姆	
+t_director_title_40201002	多翼虫	
+t_director_title_40201003	蜘蛛	
+t_director_title_40201004	食人花	
+t_director_title_40201005	鬼哭树怪	
+t_director_title_40201006	翠金雀	
+t_director_title_40201007	幽灵蝎	
+t_director_title_40201008	多彩鸟	
+t_director_title_40201009	食人花怪	
+t_director_title_40201010	翠金螳螂	
+t_director_title_40301001	蜥蜴	
+t_director_title_40301002	鳄鱼	
+t_director_title_40301003	蜘蛛	
+t_director_title_40301004	囊蛛	
+t_director_title_40301005	蜥蜴族剑士	
+t_director_title_40301006	蜥蜴族巫师	
+t_director_title_40301007	大嘴怪	
+t_director_title_40301008	蜥蜴族刺客	
+t_director_title_40301009	蜥蜴族先知	
+t_director_title_40301010	鳄鱼人	
+t_director_title_50000001	缇娜	
+t_director_title_50000002	雪莱	
+t_director_title_50000003	伊迪丝	
+t_director_title_50000004	杂货店老板:泰勒	
+t_director_title_50011000	铁匠:卡普	
+t_director_title_50011001	帕莎	
+t_director_title_50002001	小花妖	
+t_director_title_50002002	铁匠:卡普	
+t_director_title_50003001	龙之塔管理员:安吉拉	
+t_director_title_50003002	机智的商人:卡隆	
+t_director_title_50004001	竞技场管理员:赛琳娜	
+t_director_title_60110101	怪物	
+t_director_title_60110102	怪物	
+t_director_title_60110103	怪物	
+t_director_title_60110104	怪物	
+t_director_title_60110105	怪物	
+t_director_title_60110106	怪物	
+t_director_title_60110107	怪物	
+t_director_title_60110108	怪物	
+t_director_title_60110109	怪物	
+t_director_title_60110110	怪物	
+t_director_title_60110111	怪物	
+t_director_title_60110201	怪物	
+t_director_title_60110202	怪物	
+t_director_title_60110203	怪物	
+t_director_title_60110204	怪物	
+t_director_title_60110205	怪物	
+t_director_title_60110206	怪物	
+t_director_title_60110301	怪物	
+t_director_title_60110302	怪物	
+t_director_title_60110303	怪物	
+t_director_title_60110304	怪物	
+t_director_title_60110305	怪物	
+t_director_title_60110306	怪物	
+t_director_title_60110307	怪物	
+t_director_title_60110401	怪物	
+t_director_title_60110402	怪物	
+t_director_title_60110403	怪物	
+t_director_title_60110404	怪物	
+t_director_title_60110405	怪物	
+t_director_title_70101001	我	
+t_director_title_70101002	我	
+t_director_dialog_10100100	欢迎来到刷子公会，请问你有什么事吗？	
+t_director_dialog_10100101	是要加入刷子公会的呀！你叫什么<color=#fdc83a>名字</color>，我给你登记！	
+t_director_dialog_10100102	<color=#fdc83a>{P}</color>，我记下了，想要加入刷子公会很简单啊，只要登记就可以	
+t_director_dialog_10100103	但是如果你想成为真正的刷子，你需要把城外的那些魔兽都消灭掉，以此证明你的实力	
+t_director_dialog_10100104	你去找缇娜小姐领取一把武器，<color=#fdc83a>装备上武器</color>之后去消灭那些魔兽吧	
+t_director_dialog_10100200	你好，{P}，雪莱小姐已经吩咐过了，这是你的武器，因为特殊原因，只能给你旧武器了，请你装备上后，在出城呦，城外很危险的	
+t_director_dialog_10100300	你竟然真的讨伐掉了他们，{P}，你真让人惊讶	
+t_director_dialog_10100301	每天加入我们的人很多，但能消灭城外魔兽的一个都没有，公会 依然让我每次都发布这样的任务，我以为永远不会有人去完成，毕竟那么危险	
+t_director_dialog_10100302	很高兴你有这样的实力，接下来，我就为你讲解一下，我们刷子公会的目的	
+t_director_dialog_10100303	我们刷子公会是由银月城全力建造，我们的宗旨就是收复更多原本就属于我们的地盘	
+t_director_dialog_10100304	所以，如果你实力达到了，可以前往勇者森林，那里物资充盈，收复那里，对我们人类有很大益处	
+t_director_dialog_10100305	如果你真的能收复更多地盘，回来公会来找我，公会会给你很多奖励的	
+t_director_dialog_10200100	我已经收到你把勇者之森收复的消息了	
+t_director_dialog_10200101	你还真是强大，人类已经积蓄很久的力量了，就在等着像你这样的人来为人类的未来开路呢	
+t_director_dialog_10200102	你能打通这两个地方很厉害，接下来的<color=#fdc83a>沃野沼泽</color>还请一定要小心，人类几十年来未曾踏足那里，有怎么样的危险公会也没有探查到	
+t_director_dialog_10200103	对了，随着公会的实力越来越强大，公会最近开设了一种循环渐进的任务系统，都是城内居民们，或者公会下发的一些任务	
+t_director_dialog_10200104	你有空的话可以去找<color=#fdc83a>伊迪丝</color>了解一下任务的情况，这种任务一定能让你在接下来的沃野沼泽中更游刃有余	
+t_director_dialog_10300100	恭喜你，又让人类前进了一步	
+t_director_dialog_10300101	在你的努力下，人类的地盘已经越来越大了，为了报答你，也为了增强你的实力，公会准备为你准备了增强实力的方法	
+t_director_dialog_10300102	在接下来的征讨中，你抽空去找一下伊迪丝吧，具体的情况她会向你说明的	
+t_director_dialog_20101100	冒险者？	
+t_director_dialog_20101101	冒险者，你总算来了	
+t_director_dialog_20101102	我出城寻找优异的铁矿，然后我遇到了为祸的<color=#fdc83a>哥布林法师</color>，吓得我赶紧就跑，可惜了我祖传的铁锤，被我掉在了半路，被那帮哥布林捡走了	
+t_director_dialog_20101103	该死的哥布林，气死我了，冒险者，请你一定要帮我夺回我的铁锤，那可是我铁匠铺传承了几百年的锤子	
+t_director_dialog_20101200	你夺回我的铁锤了吗？冒险者	
+t_director_dialog_20101201	太好了，我亲爱的锤子终于回来了	
+t_director_dialog_20101202	你帮了我，我一定要答谢你，我可以教导你怎么打造装备	
+t_director_dialog_20101203	这是我之前收集到的材料，你可以用这些材料在你<color=#fdc83a>背包里的锻造</color>界面打造一把属于你的防具	
+t_director_dialog_20101300	恭喜你掌握了打造装备的技术，以后你获得了材料就可以用来打造装备来强化你的实力了	
+t_director_dialog_20101301	另外告诉你，装备的一种强化装备的基础手法，使用金币对装备进行<color=#fdc83a>附魔</color>，只要你有金币，锻造之神不会限制你的附魔的次数	
+t_director_dialog_20101302	正因为附魔这样的锻造技术，才总是有人说我们铁匠是吸血鬼，我明明是用钱拿去做研究了	
+t_director_dialog_20101303	说着我这就要回城了，以后需要你的帮助，我回去刷子公会找你的，哈哈，再见	
+t_director_dialog_20102100	没见过的面孔，城外很危险的，你竟然有勇气出城	
+t_director_dialog_20102101	那就帮我一个忙吧，我最近正在研究一道新菜，需要上好的<color=#fdc83a>鹿肉</color>，我正在这里监视鹿的一举一动，准备伺机猎杀几只	
+t_director_dialog_20102102	遇到你也算是有缘，你若是帮我猎杀三只，我就传授你战斗中最重要的一种技术	
+t_director_dialog_20102200	你这么快就帮我把鹿肉猎取过来了吗	
+t_director_dialog_20102201	真是谢谢你了，我看鹿实在可爱，下不去手，只能委托你，你倒没让我失望	
+t_director_dialog_20102202	那我就告诉你战斗最重要的技术，在你的<color=#fdc83a>角色技能</color>页面，有各种各样的技能，你可以学习并且装备了他们来提升自己战斗的效果	
+t_director_dialog_20102203	学会了你可以试验一下，刷子公会的人，都会一些自己的技能，那我就先回城了，我还要研究怎么做出这道菜呢	
+t_director_dialog_20103100	你就是那个冒险者吗？	
+t_director_dialog_20103101	太好了，{P}，就是你，我是铁匠的好友，他说你很强，帮助了他，我就来这里等你，希望你能帮我一下	
+t_director_dialog_20103102	我看城里百废待兴，就准备开一家杂货店，想要开一家上好的杂货店就要有自己的特产	
+t_director_dialog_20103103	铁匠说你很是强大，我就希望你能帮我从<color=#fdc83a>食人花</color>身上，收集到一些他们的花苞	
+t_director_dialog_20103200	冒险者大人，你帮我收集到花苞了吗？	
+t_director_dialog_20103201	太好了，谢谢你，冒险者大人，这些花苞可以用来做各种美容养颜的药剂，有了这些一定我一定能开一间最吸引人的杂货店	
+t_director_dialog_20103202	那我这就去开店，大人，以后请多多来我的店里关顾，一定会有大人需要的东西	
+t_director_dialog_20201100	又见面了，{P}，我研究出两种能提升武器性能的方法，听说你已经去到勇者之森了，我想以后的征途中你一定需要这种技术，我就想着一定要把这个方法告诉你	
+t_director_dialog_20201101	有种技术就是使用一种宝石对装备进行强化升级，强化过后的装备，比普通装备更加强大，不过因为宝石能量有限，随着装备强化等级的提高，所需要的宝石也就越高	
+t_director_dialog_20201102	这种宝石最初是一种叫<color=#fdc83a>祝福石</color>的材料，不过这种技术，是我和杂货店老板共同研发出来的	
+t_director_dialog_20201103	我持股比较少，对后续的研究不太好，所以，希望你能帮我从<color=#fdc83a>翠金雀</color>身上获得一些翠金雀的羽毛，那东西很值钱	
+t_director_dialog_20201200	你获得羽毛了吗	
+t_director_dialog_20201201	太好了，这样我就更有钱了，可以继续研究了	
+t_director_dialog_20201202	我送你一些祝福石，你可以通过打开想强化的装备，在装备界面上的<color=#fdc83a>培养</color>里，使用祝福石对装备进行强化	
+t_director_dialog_20202100	吱吱，吱吱	
+t_director_dialog_20202101	吱吱，吱吱	
+t_director_dialog_20202102	吱吱，吱吱	
+t_director_dialog_20202103	吱吱，吱吱	
+t_director_dialog_20202104	吱吱，你竟然知道我刚想出来的暗号，你是什么人啊，这么聪明！	
+t_director_dialog_20202105	吱吱，冒险者，我好像知道，之前族人说你们会接受任务，帮助别人	
+t_director_dialog_20202106	吱吱，那你能帮我一下吗？	
+t_director_dialog_20202107	吱吱，这片森林里有一处聚集地叫怪物之家，最近他们不知道发生了什么，十分暴虐的伤害着周围的生物	
+t_director_dialog_20202108	吱吱，我害怕他们来伤害我，所以，想请你帮忙，消灭了<color=#fdc83a>怪物之家</color>中暴虐的生物，为林除害？	
+t_director_dialog_20202109	吱吱，太好了，守护着怪物之家的翠金螳螂身上能获得魔兽令牌，魔兽令牌可以让你进入怪物之家	
+t_director_dialog_20202200	吱吱，吱吱	
+t_director_dialog_20202201	吱吱，我感觉不到发狂的气息了，冒险者，谢谢你了。	
+t_director_dialog_20202202	吱吱，听说，人类都会有名字，你叫什么名字？冒险者。	
+t_director_dialog_20202203	吱吱，{P}，我记住这个名字啦！以后，我们还会见面的，等我也成为像你一样的冒险者。	
+t_director_dialog_20301100	哈哈，又见面了，{P}，我正需要你的帮助呢	
+t_director_dialog_20301101	我最近在对装备锻造的研究上又有了新的进展，但是技术的进步是建立在金钱的消耗上的	
+t_director_dialog_20301102	我为了新的研究，在城中找了很多人借了一大笔钱，他们找上门来了，知道我没钱，就让我帮他们收集一种叫魔晶石的材料，来抵消债款，不然就…	
+t_director_dialog_20301103	据说沃野沼泽的大嘴怪身上会有，{P}，你可一定要帮我，我可以把我的研究成果传授给你	
+t_director_dialog_20301200	你收集够魔晶石了吗	
+t_director_dialog_20301201	太感谢你了，我还以为我又要出城躲一段时间了呢	
+t_director_dialog_20301202	我新研究出的锻造技术就是把装备某个属性进行重新订制，只需要你有一种叫<color=#fdc83a>重铸石</color>的材料	
+t_director_dialog_20301203	我正好有几个研究剩下的，送给你，你可以在装备界面上的<color=#fdc83a>培养</color>里，对装备进行重铸	
+t_director_dialog_20301204	对了，你可以通过<color=#fdc83a>分解装备</color>来获得重铸石	
+t_director_dialog_20301205	我先离开了	
+t_director_dialog_20302100	{P}，太好了，能在这里遇到你	
+t_director_dialog_20302101	我是龙之塔的管理员：安吉拉，龙之塔是从遥远的古代就存在的建筑，里面关押了无数的魔兽	
+t_director_dialog_20302102	龙之塔里面魔兽纵横，人类根本不能走进去，可能都是魔兽的原因，只有一些宠物可以进去试炼，所以，龙之塔就成了宠物们进去试炼的场所	
+t_director_dialog_20302103	但这次好像发生了什么不一样的事，很多宠物进去都发生了各种变异，很多宠物死在了里面，但是，就算有一个还活着，我就想把他救出来	
+t_director_dialog_20302104	整个城里也只有你能进去和那些凶狠的魔兽战斗了，所以，我想请你前去龙之塔，找回在里面迷失的熊猫	
+t_director_dialog_20302105	熊猫宠物进去前偷喝了大街上一个冒险者的烈酒，其他回来的宠物说，它躲在了第二十层睡着了	
+t_director_dialog_20302106	所以，你能不能，进去帮我把他找回来？	
+t_director_dialog_20302200	宠物熊猫已经回来，太感谢你了，{P}	
+t_director_dialog_20302201	熊猫在看到你战斗的身影之后，就一直想要跟随你前去战斗，所以，我也没什么礼物报答你，就让熊猫宠物以后跟着你吧	
+t_director_dialog_20302202	别看它这样，他还是很强的，而且，公会已经决定，对外开放龙之塔了，以后你可以继续来龙之塔试炼呀	
+t_director_dialog_20302203	龙之塔上方都是魔兽，一直往上爬，肯定有很多魔兽会像熊猫一样想跟随你，成为你的宠物的	
+t_director_dialog_20304101	你好，我是负责刷子任务的管理员，我们<color=#fdc83a>每天</color>会根据你的实力为你分配一定数量的猎杀任务	
+t_director_dialog_20304102	猎杀任务主要是击杀城外那些暴动的魔兽，完成任务我们会给予你丰厚的奖励	
+t_director_dialog_20304103	想要接取猎杀任务，需要完成一个考核，考验你是否是能力可以完成公会的委托	
+t_director_dialog_20304104	你的任务是讨伐位于沃野沼泽的一些<color=#fdc83a>蜥蜴</color>，数量是20只，我想这难不倒你吧	
+t_director_dialog_20304200	你完成任务了吗？{P}	
+t_director_dialog_20304201	太好了，你的努力一定会让城里的居民对未来更加有信心	
+t_director_dialog_20304202	以后你请你来我这里接取任务，我<color=#fdc83a>每天</color>都会发布很多任务的，而且对你，我们会给予很多奖励的	
+t_director_dialog_20303100	你好，我是卡隆，我看你从伊迪丝那里领到了一个神器卷轴，我就是神器副本卷轴的提供者，我们家族世代追寻神器副本里的神器卷轴，所以我一直给刷子公会提供能打开神器副本封印的卷轴	
+t_director_dialog_20303101	你还不知道怎么去神器副本吧，神器副本每个地图都有一个，但是城外和勇者之森的被破坏掉了，所以，只有在沃野沼泽和其他地图存在了	
+t_director_dialog_20303102	在我们家族的记事簿中记载，在沃野沼泽的南方，有一个神器副本，只要你拿着神器副本卷轴就能进入	
+t_director_dialog_20303103	我们家族一直提供副本卷轴的目的，就是希望有人真的能从哪里带出来一件神器卷轴	
+t_director_dialog_20303104	至今为止，还没有人从里面带出来过神器卷轴，所以，冒险者们现在都不相信在里面能获得神器卷轴了，所以狩猎之森和勇者之森的神器副本都被他们破坏掉了	
+t_director_dialog_20303105	所以，如果你能从里面带出来神器卷轴，请来告诉我这个消息，我会给与你很高的奖励	
+t_director_dialog_20303200	是你啊，{P}，神器神器副本的探索	
+t_director_dialog_20303201	哇，你真的在里面获得了神器卷轴啊，我还以为是祖上记载错误了呢	
+t_director_dialog_20303202	啊，太恭喜你了，你一定要给你一个大大的红包	
+t_director_dialog_20303203	我这就把你的消息公布于众，这样我的神器卷轴就有销路，太感谢你了	
+t_director_dialog_20401100	哈哈，又见面了，{P}，我正需要你的帮助呢	
+t_director_dialog_20401101	之前告诉你的强化装备的各种方法很有用吧，这次我又发现了一种宝石，这种宝石镶嵌在武器上就可以为武器带来各种各样的增幅	
+t_director_dialog_20401102	效果明显，流程简单，我正在研究这种宝石所含有的能量，需要一种叫魔能矿的辅助材料，据说以前在王国旧址那里会有	
+t_director_dialog_20401103	所以，想请你帮我在<color=#fdc83a>王国废墟</color>获得一些魔能矿，我就把这种镶嵌宝石的方法告诉你	
+t_director_dialog_20401200	你收集够魔能矿了吗	
+t_director_dialog_20401201	找你果然是最成功的选择，我这就为你讲解镶嵌的操作流程	
+t_director_dialog_20401202	你可以在装备界面上的<color=#fdc83a>培养</color>里，对装备进行镶嵌，你想为他镶嵌那种属性就为他镶嵌相应的宝石	
+t_director_dialog_20401203	宝石还可以由低到高进行合成升级，有多余的别忘了进行升级啊，我就先走了，你可以镶嵌一下试一试	
+t_director_dialog_20402100	啊，是{P}，太好了，我们正满城找你呢	
+t_director_dialog_20402101	我是竞技场的管理员，我们开设了激烈无比的竞技比赛给冒险者参加，你现在可是最火热的人选	
+t_director_dialog_20402102	不用这样看着我，竞技场可是很棒的，可以通过与其他冒险者战斗，来获得各种丰厚的奖励	
+t_director_dialog_20402103	战斗代表着荣誉，我们的比赛场地在<color=#fdc83a>竞技场</color>的建筑里，一定要来啊，我们等着你	
+t_director_dialog_20402200	你能来参加真是太棒了，感谢你为我们带来的这场精彩绝伦的战斗	
+t_director_dialog_20402201	每个冒险者第一次参加竞技场我们都会发放丰厚的奖励，我同样会把属于你的奖励发放给你	
+t_director_dialog_20402202	以后每天都可以来呦，我们每天会根据你战斗胜利的排名给与你每日奖励	
+t_director_dialog_20402203	每七天我们也会统计冒险者的段位，给与奖励，怎么样，奖励很丰厚吧，明天可不要忘了呦	
+t_director_dialog_30100000	公会新发布了一些任务，你要不要领取，{P}	
+t_director_dialog_30100100	恭喜你完成了任务，请查看你的奖励	
+t_director_dialog_30300100	沃野沼泽的<color=#fdc83a>蜥蜴</color>有很大可能产生智慧，进化成蜥蜴人，为了防止他们更强大，请你去讨伐了他们吧	
+t_director_dialog_30300200	鳄鱼是鳄鱼人的后代，希望你能讨伐一些<color=#fdc83a>鳄鱼</color>，防止他们突然变异成为强大的鳄鱼人	
+t_director_dialog_30300300	<color=#fdc83a>蜘蛛</color>总是躲在暗处捕食，为了防止更多的冒险者被伤，请你讨伐点他们	
+t_director_dialog_30300400	<color=#fdc83a>囊蛛</color>即将产卵，这时候很是凶残，肆意进攻他们看到的生物，你能讨伐了他们吗	
+t_director_dialog_30300500	总追寻着至高力量的<color=#fdc83a>蜥蜴族剑士</color>，肆意的伤害着周围的一切，希望你能讨伐了他们，为周围带来和平	
+t_director_dialog_30300600	<color=#fdc83a>蜥蜴族巫师</color>拥有他们一族的一种诅咒魔法，被他们击中的人还会传染给别人已经有人中招了，可以的话请你讨伐掉他们	
+t_director_dialog_30300700	<color=#fdc83a>大嘴怪</color>是被蜥蜴人族招募的打手，他有很强的实力，请小心，他的任务就是保护这里	
+t_director_dialog_30300800	沃野沼泽里，一些<color=#fdc83a>蜥蜴族刺客</color>总是隐藏在暗处肆虐，请你遇到他们讨伐掉他们	
+t_director_dialog_30300900	<color=#fdc83a>蜥蜴族先知</color>出现了，他们击杀了很多冒险者，请你找到他们，讨伐了他们	
+t_director_dialog_30301000	<color=#fdc83a>鳄鱼人</color>是蜥蜴族隐藏起来的最强战力，请你找到他，消灭他	
+t_director_dialog_40101001	为我的族人报仇	
+t_director_dialog_40101002	塞壬大人在海底深处等着我呢，别挡道	
+t_director_dialog_40101003	我是把你变成乌鸦，还是青蛙好呢	
+t_director_dialog_40101004	跟随塞壬大人的脚步，随我去大海深处吧	
+t_director_dialog_40101005	比咯比咯！（俺要吃了你）	
+t_director_dialog_40101006	比咯比！（先知保佑，诅咒你）	
+t_director_dialog_40101007	嗷唔！嗷唔！嗷唔！！（要战斗吗？战斗吗？战斗吗？）	
+t_director_dialog_40101008	很荣幸见到你，偷偷的告诉你，你死到临头了	
+t_director_dialog_40101009	比咯比咯比咯比！（你要俺战斗吗？人类）	
+t_director_dialog_40101010	比咯比咯比！（人类，你是来和我战斗的？）	
+t_director_dialog_40201001	咕噜（有没有那种任何种族都能在一起玩耍的国度啊）	
+t_director_dialog_40201002	吱吱，吱吱（你身上的血一定很好喝）	
+t_director_dialog_40201003	咝咝，咝咝（如果有的选择，我也会做一个蜘蛛侠）	
+t_director_dialog_40201004	吱吱，吱吱(我本想与人无争，奈何我得吃饭呀)	
+t_director_dialog_40201005	呜呜，呜呜（我只是一棵树，一颗树）	
+t_director_dialog_40201006	叽叽叽（好像尝一尝你的味道）	
+t_director_dialog_40201007	咝咝，咝咝（一会儿去和蛇精约会，别打扰我）	
+t_director_dialog_40201008	啁啾，啁啾（吃了你）	
+t_director_dialog_40201009	吱吱，吱吱（这是我的地盘，谁也不能过）	
+t_director_dialog_40201010	吱吱（我的螳螂拳最厉害）	
+t_director_dialog_40301001	呲呲（都是蜥蜴，我为什么不能成蜥蜴人）	
+t_director_dialog_40301002	呼噜呼噜（我的爷爷成为了最强大的鳄鱼人）	
+t_director_dialog_40301003	咝咝，咝咝（蜘蛛侠来了）	
+t_director_dialog_40301004	咝咝，咝咝（等我产出一整个森林的小蜘蛛）	
+t_director_dialog_40301005	剑随风而动	
+t_director_dialog_40301006	魔法的力量足以摧毁一切来犯的敌人	
+t_director_dialog_40301007	咕噜噜（我可以吃了你吗）	
+t_director_dialog_40301008	我本应行走于黑暗中，杀你，只需要一击	
+t_director_dialog_40301009	蜥蜴族的未来是繁荣昌盛的，只要没有那个意外的人	
+t_director_dialog_40301010	是你杀了我的后代	
+t_director_dialog_50000001	永远不要勉强自己啊！	
+t_director_dialog_50000002	欢迎来到刷子公会	
+t_director_dialog_50000003	继续去冒险吧！{P}	
+t_director_dialog_50000004	我一定要开一个最强，最好的杂货店	
+t_director_dialog_50011000	我是最强的铁匠	
+t_director_dialog_50011001	城外还真是危险	
+t_director_dialog_50002001	好想快点去外面走走啊	
+t_director_dialog_50002002	怎么才能让装备更强呢	
+t_director_dialog_50003001	只要宠物能平安无事就好了	
+t_director_dialog_50003002	神器副本卷轴都卖不出去啦	
+t_director_dialog_50004001	只有在竞技场里取得胜利，才是彰显勇武的表现	
+t_director_dialog_60110101	你的气味...杀死你…	
+t_director_dialog_60110102	你想要....伤害我吗？	
+t_director_dialog_60110103	我杀了你！	
+t_director_dialog_60110104	不要靠近！	
+t_director_dialog_60110105	看着你丑陋的样子，我就决定杀了你！	
+t_director_dialog_60110106	我的耳畔回荡着的声音告诉我，一定要除掉你	
+t_director_dialog_60110107	守卫这里是我的职责	
+t_director_dialog_60110108	人也好，兽也罢，只要能消灭银月城，我们就是同志，你要加入我们吗？	
+t_director_dialog_60110109	在一个地洞里蹦出来个影子，是什么呢？	
+t_director_dialog_60110110	一些奇怪的声音断断续续的传来，请小心	
+t_director_dialog_60110111	一双双贪婪的眼睛盯着你！小心，他们好像把你当成了食物	
+t_director_dialog_60110201	竟然有人走到了这里，这帮守护真是废物	
+t_director_dialog_60110202	战斗的声响传到四周，能听到一些脚步声传来	
+t_director_dialog_60110203	是个人类来到了这里，你是来加入我们的吗？	
+t_director_dialog_60110204	如果你乖乖投降的话，我让你死的舒服一点	
+t_director_dialog_60110205	人类就非要赶尽杀绝吗？	
+t_director_dialog_60110206	人类各个都是魔鬼	
+t_director_dialog_60110301	保卫这里的人，是我的职责	
+t_director_dialog_60110302	任何人都不能伤害我的孩子	
+t_director_dialog_60110303	我就是力量	
+t_director_dialog_60110304	你一定是来抢我的宝贝的，我不会让你得逞的	
+t_director_dialog_60110305	这世间为什么一定要有互相伤害呢	
+t_director_dialog_60110306	报仇，杀光人类报仇	
+t_director_dialog_60110307	我不能死，我是最后的力量了	
+t_director_dialog_60110401	该死的，你伤害了我的孩子们	
+t_director_dialog_60110402	复仇，向人类复仇	
+t_director_dialog_60110403	强大的力量，但是不得不和你战斗了	
+t_director_dialog_60110404	用我的生命换取的强大的力量，一定能打败你	
+t_director_dialog_60110405	我要把你的头骨做成项链，挂在我的脖子上	
+t_director_dialog_70101001	<color=#fdc83a>银月城</color>，终于到了！到处都是人的感觉太好了	
+t_director_dialog_70101002	接下来，像我这种野外来的人，好像只能去<color=#fdc83a>刷子公会</color>了。那里，将是我在这个世界走出的第一步	
+t_director_option0_10100100		
+t_director_option0_10100101	我叫…	
+t_director_option0_10100102		
+t_director_option0_10100103		
+t_director_option0_10100104	好的	
+t_director_option0_10100200	好的	
+t_director_option0_10100300		
+t_director_option0_10100301		
+t_director_option0_10100302		
+t_director_option0_10100303		
+t_director_option0_10100304		
+t_director_option0_10100305	好的	
+t_director_option0_10200100		
+t_director_option0_10200101		
+t_director_option0_10200102		
+t_director_option0_10200103		
+t_director_option0_10200104	好的	
+t_director_option0_10300100		
+t_director_option0_10300101		
+t_director_option0_10300102	好的	
+t_director_option0_20101100		
+t_director_option0_20101101		
+t_director_option0_20101102		
+t_director_option0_20101103	我还有事	
+t_director_option0_20101200	我去寻找	
+t_director_option0_20101201		
+t_director_option0_20101202		
+t_director_option0_20101203	好的	
+t_director_option0_20101300		
+t_director_option0_20101301		
+t_director_option0_20101302		
+t_director_option0_20101303	再见	
+t_director_option0_20102100		
+t_director_option0_20102101		
+t_director_option0_20102102	我还有事	
+t_director_option0_20102200	我去猎杀	
+t_director_option0_20102201		
+t_director_option0_20102202		
+t_director_option0_20102203	好的	
+t_director_option0_20103100		
+t_director_option0_20103101		
+t_director_option0_20103102		
+t_director_option0_20103103	我还有事	
+t_director_option0_20103200	我去收集	
+t_director_option0_20103201		
+t_director_option0_20103202	好的	
+t_director_option0_20201100		
+t_director_option0_20201101		
+t_director_option0_20201102		
+t_director_option0_20201103	我还有事	
+t_director_option0_20201200	我去收集	
+t_director_option0_20201201		
+t_director_option0_20201202	好的	
+t_director_option0_20202100	你会说人话吗	
+t_director_option0_20202101	…	
+t_director_option0_20202102	我也吱吱？	
+t_director_option0_20202103	吱吱？	
+t_director_option0_20202104	我是冒险者	
+t_director_option0_20202105		
+t_director_option0_20202106		
+t_director_option0_20202107		
+t_director_option0_20202108	我还有事	
+t_director_option0_20202109	好的	
+t_director_option0_20202200	吱吱	
+t_director_option0_20202201		
+t_director_option0_20202202	{P}	
+t_director_option0_20202203	等你	
+t_director_option0_20301100		
+t_director_option0_20301101		
+t_director_option0_20301102		
+t_director_option0_20301103	我还有事	
+t_director_option0_20301200	我去收集	
+t_director_option0_20301201		
+t_director_option0_20301202		
+t_director_option0_20301203		
+t_director_option0_20301204		
+t_director_option0_20301205	好的	
+t_director_option0_20302100		
+t_director_option0_20302101		
+t_director_option0_20302102		
+t_director_option0_20302103		
+t_director_option0_20302104		
+t_director_option0_20302105		
+t_director_option0_20302106	好的	
+t_director_option0_20302200		
+t_director_option0_20302201		
+t_director_option0_20302202		
+t_director_option0_20302203	好的	
+t_director_option0_20304101		
+t_director_option0_20304102		
+t_director_option0_20304103		
+t_director_option0_20304104	我还有事	
+t_director_option0_20304200	我去讨伐	
+t_director_option0_20304201		
+t_director_option0_20304202	好的	
+t_director_option0_20303100		
+t_director_option0_20303101		
+t_director_option0_20303102		
+t_director_option0_20303103		
+t_director_option0_20303104		
+t_director_option0_20303105	我还有事	
+t_director_option0_20303200		
+t_director_option0_20303201		
+t_director_option0_20303202		
+t_director_option0_20303203	不客气	
+t_director_option0_20401100		
+t_director_option0_20401101		
+t_director_option0_20401102		
+t_director_option0_20401103	我还有事	
+t_director_option0_20401200	我去收集	
+t_director_option0_20401201		
+t_director_option0_20401202		
+t_director_option0_20401203	好的	
+t_director_option0_20402100		
+t_director_option0_20402101		
+t_director_option0_20402102		
+t_director_option0_20402103	好的	
+t_director_option0_20402200		
+t_director_option0_20402201		
+t_director_option0_20402202		
+t_director_option0_20402203	好的	
+t_director_option0_30100000	拒绝	
+t_director_option0_30100100	好的	
+t_director_option0_30300100	我还有事	
+t_director_option0_30300200	我还有事	
+t_director_option0_30300300	我还有事	
+t_director_option0_30300400	我还有事	
+t_director_option0_30300500	我还有事	
+t_director_option0_30300600	我还有事	
+t_director_option0_30300700	我还有事	
+t_director_option0_30300800	我还有事	
+t_director_option0_30300900	我还有事	
+t_director_option0_30301000	我还有事	
+t_director_option0_40101001	逃离	
+t_director_option0_40101002	逃离	
+t_director_option0_40101003	逃离	
+t_director_option0_40101004	逃离	
+t_director_option0_40101005	逃离	
+t_director_option0_40101006	逃离	
+t_director_option0_40101007	撤退	
+t_director_option0_40101008	逃离	
+t_director_option0_40101009	不是	
+t_director_option0_40101010	不是	
+t_director_option0_40201001	逃离	
+t_director_option0_40201002	逃离	
+t_director_option0_40201003	逃离	
+t_director_option0_40201004	逃离	
+t_director_option0_40201005	逃离	
+t_director_option0_40201006	逃离	
+t_director_option0_40201007	离开	
+t_director_option0_40201008	逃离	
+t_director_option0_40201009	逃离	
+t_director_option0_40201010	逃离	
+t_director_option0_40301001	逃离	
+t_director_option0_40301002	逃离	
+t_director_option0_40301003	逃离	
+t_director_option0_40301004	逃离	
+t_director_option0_40301005	逃离	
+t_director_option0_40301006	逃离	
+t_director_option0_40301007	逃离	
+t_director_option0_40301008	逃离	
+t_director_option0_40301009	逃离	
+t_director_option0_40301010	逃离	
+t_director_option0_50000001	我知道了	
+t_director_option0_50000002	嗯	
+t_director_option0_50000003	好的	
+t_director_option0_50000004	会的	
+t_director_option0_50011000	我去找到它	
+t_director_option0_50011001	…	
+t_director_option0_50002001	加油	
+t_director_option0_50002002	…	
+t_director_option0_50003001	…	
+t_director_option0_50003002	…	
+t_director_option0_50004001	…	
+t_director_option0_60110101	查看奖励	
+t_director_option0_60110102	查看奖励	
+t_director_option0_60110103	查看奖励	
+t_director_option0_60110104	查看奖励	
+t_director_option0_60110105	查看奖励	
+t_director_option0_60110106	查看奖励	
+t_director_option0_60110107	查看奖励	
+t_director_option0_60110108	查看奖励	
+t_director_option0_60110109	查看奖励	
+t_director_option0_60110110	查看奖励	
+t_director_option0_60110111	查看奖励	
+t_director_option0_60110201	查看奖励	
+t_director_option0_60110202	查看奖励	
+t_director_option0_60110203	查看奖励	
+t_director_option0_60110204	查看奖励	
+t_director_option0_60110205	查看奖励	
+t_director_option0_60110206	查看奖励	
+t_director_option0_60110301	查看奖励	
+t_director_option0_60110302	查看奖励	
+t_director_option0_60110303	查看奖励	
+t_director_option0_60110304	查看奖励	
+t_director_option0_60110305	查看奖励	
+t_director_option0_60110306	查看奖励	
+t_director_option0_60110307	查看奖励	
+t_director_option0_60110401	查看奖励	
+t_director_option0_60110402	查看奖励	
+t_director_option0_60110403	查看奖励	
+t_director_option0_60110404	查看奖励	
+t_director_option0_60110405	查看奖励	
+t_director_option0_70101001		
+t_director_option0_70101002		
+t_director_option1_10100100		
+t_director_option1_10100101		
+t_director_option1_10100102		
+t_director_option1_10100103		
+t_director_option1_10100104		
+t_director_option1_10100200		
+t_director_option1_10100300		
+t_director_option1_10100301		
+t_director_option1_10100302		
+t_director_option1_10100303		
+t_director_option1_10100304		
+t_director_option1_10100305		
+t_director_option1_10200100		
+t_director_option1_10200101		
+t_director_option1_10200102		
+t_director_option1_10200103		
+t_director_option1_10200104		
+t_director_option1_10300100		
+t_director_option1_10300101		
+t_director_option1_10300102		
+t_director_option1_20101100		
+t_director_option1_20101101		
+t_director_option1_20101102		
+t_director_option1_20101103	好的	
+t_director_option1_20101200	交纳铁锤	
+t_director_option1_20101201		
+t_director_option1_20101202		
+t_director_option1_20101203		
+t_director_option1_20101300		
+t_director_option1_20101301		
+t_director_option1_20101302		
+t_director_option1_20101303		
+t_director_option1_20102100		
+t_director_option1_20102101		
+t_director_option1_20102102	好的	
+t_director_option1_20102200	交纳鹿肉	
+t_director_option1_20102201		
+t_director_option1_20102202		
+t_director_option1_20102203		
+t_director_option1_20103100		
+t_director_option1_20103101		
+t_director_option1_20103102		
+t_director_option1_20103103	好的	
+t_director_option1_20103200	交纳花苞	
+t_director_option1_20103201		
+t_director_option1_20103202		
+t_director_option1_20201100		
+t_director_option1_20201101		
+t_director_option1_20201102		
+t_director_option1_20201103	没问题	
+t_director_option1_20201200	交纳羽毛	
+t_director_option1_20201201		
+t_director_option1_20201202		
+t_director_option1_20202100		
+t_director_option1_20202101		
+t_director_option1_20202102		
+t_director_option1_20202103		
+t_director_option1_20202104		
+t_director_option1_20202105		
+t_director_option1_20202106		
+t_director_option1_20202107		
+t_director_option1_20202108	好的	
+t_director_option1_20202109		
+t_director_option1_20202200		
+t_director_option1_20202201		
+t_director_option1_20202202		
+t_director_option1_20202203		
+t_director_option1_20301100		
+t_director_option1_20301101		
+t_director_option1_20301102		
+t_director_option1_20301103	好的	
+t_director_option1_20301200	交纳魔晶石	
+t_director_option1_20301201		
+t_director_option1_20301202		
+t_director_option1_20301203		
+t_director_option1_20301204		
+t_director_option1_20301205		
+t_director_option1_20302100		
+t_director_option1_20302101		
+t_director_option1_20302102		
+t_director_option1_20302103		
+t_director_option1_20302104		
+t_director_option1_20302105		
+t_director_option1_20302106		
+t_director_option1_20302200		
+t_director_option1_20302201		
+t_director_option1_20302202		
+t_director_option1_20302203		
+t_director_option1_20304101		
+t_director_option1_20304102		
+t_director_option1_20304103		
+t_director_option1_20304104	没问题	
+t_director_option1_20304200	任务完成了	
+t_director_option1_20304201		
+t_director_option1_20304202		
+t_director_option1_20303100		
+t_director_option1_20303101		
+t_director_option1_20303102		
+t_director_option1_20303103		
+t_director_option1_20303104		
+t_director_option1_20303105	好的	
+t_director_option1_20303200		
+t_director_option1_20303201		
+t_director_option1_20303202		
+t_director_option1_20303203		
+t_director_option1_20401100		
+t_director_option1_20401101		
+t_director_option1_20401102		
+t_director_option1_20401103	好的	
+t_director_option1_20401200	交纳魔晶石	
+t_director_option1_20401201		
+t_director_option1_20401202		
+t_director_option1_20401203		
+t_director_option1_20402100		
+t_director_option1_20402101		
+t_director_option1_20402102		
+t_director_option1_20402103		
+t_director_option1_20402200		
+t_director_option1_20402201		
+t_director_option1_20402202		
+t_director_option1_20402203		
+t_director_option1_30100000	好的	
+t_director_option1_30100100		
+t_director_option1_30300100	好的	
+t_director_option1_30300200	好的	
+t_director_option1_30300300	好的	
+t_director_option1_30300400	好的	
+t_director_option1_30300500	好的	
+t_director_option1_30300600	好的	
+t_director_option1_30300700	好的	
+t_director_option1_30300800	好的	
+t_director_option1_30300900	好的	
+t_director_option1_30301000	好的	
+t_director_option1_40101001	战斗	
+t_director_option1_40101002	战斗	
+t_director_option1_40101003	战斗	
+t_director_option1_40101004	战斗	
+t_director_option1_40101005	战斗	
+t_director_option1_40101006	战斗	
+t_director_option1_40101007	是	
+t_director_option1_40101008	战斗	
+t_director_option1_40101009	是	
+t_director_option1_40101010	是	
+t_director_option1_40201001	战斗	
+t_director_option1_40201002	战斗	
+t_director_option1_40201003	战斗	
+t_director_option1_40201004	战斗	
+t_director_option1_40201005	战斗	
+t_director_option1_40201006	战斗	
+t_director_option1_40201007	战斗	
+t_director_option1_40201008	战斗	
+t_director_option1_40201009	战斗	
+t_director_option1_40201010	战斗	
+t_director_option1_40301001	战斗	
+t_director_option1_40301002	战斗	
+t_director_option1_40301003	战斗	
+t_director_option1_40301004	战斗	
+t_director_option1_40301005	战斗	
+t_director_option1_40301006	战斗	
+t_director_option1_40301007	战斗	
+t_director_option1_40301008	战斗	
+t_director_option1_40301009	战斗	
+t_director_option1_40301010	战斗	
+t_director_option1_50000001		
+t_director_option1_50000002		
+t_director_option1_50000003		
+t_director_option1_50000004		
+t_director_option1_50011000		
+t_director_option1_50011001		
+t_director_option1_50002001		
+t_director_option1_50002002		
+t_director_option1_50003001		
+t_director_option1_50003002		
+t_director_option1_50004001		
+t_director_option1_60110101	离开	
+t_director_option1_60110102	离开	
+t_director_option1_60110103	离开	
+t_director_option1_60110104	离开	
+t_director_option1_60110105	离开	
+t_director_option1_60110106	离开	
+t_director_option1_60110107	离开	
+t_director_option1_60110108	离开	
+t_director_option1_60110109	离开	
+t_director_option1_60110110	离开	
+t_director_option1_60110111	离开	
+t_director_option1_60110201	撤退	
+t_director_option1_60110202	撤退	
+t_director_option1_60110203	撤退	
+t_director_option1_60110204	撤退	
+t_director_option1_60110205	撤退	
+t_director_option1_60110206	撤退	
+t_director_option1_60110301	逃跑	
+t_director_option1_60110302	逃跑	
+t_director_option1_60110303	逃跑	
+t_director_option1_60110304	逃跑	
+t_director_option1_60110305	逃跑	
+t_director_option1_60110306	逃跑	
+t_director_option1_60110307	逃跑	
+t_director_option1_60110401	逃命	
+t_director_option1_60110402	逃命	
+t_director_option1_60110403	逃命	
+t_director_option1_60110404	逃命	
+t_director_option1_60110405	逃命	
+t_director_option1_70101001		
+t_director_option1_70101002		
+t_director_option2_10100100		
+t_director_option2_10100101		
+t_director_option2_10100102		
+t_director_option2_10100103		
+t_director_option2_10100104		
+t_director_option2_10100200		
+t_director_option2_10100300		
+t_director_option2_10100301		
+t_director_option2_10100302		
+t_director_option2_10100303		
+t_director_option2_10100304		
+t_director_option2_10100305		
+t_director_option2_10200100		
+t_director_option2_10200101		
+t_director_option2_10200102		
+t_director_option2_10200103		
+t_director_option2_10200104		
+t_director_option2_10300100		
+t_director_option2_10300101		
+t_director_option2_10300102		
+t_director_option2_20101100		
+t_director_option2_20101101		
+t_director_option2_20101102		
+t_director_option2_20101103		
+t_director_option2_20101200		
+t_director_option2_20101201		
+t_director_option2_20101202		
+t_director_option2_20101203		
+t_director_option2_20101300		
+t_director_option2_20101301		
+t_director_option2_20101302		
+t_director_option2_20101303		
+t_director_option2_20102100		
+t_director_option2_20102101		
+t_director_option2_20102102		
+t_director_option2_20102200		
+t_director_option2_20102201		
+t_director_option2_20102202		
+t_director_option2_20102203		
+t_director_option2_20103100		
+t_director_option2_20103101		
+t_director_option2_20103102		
+t_director_option2_20103103		
+t_director_option2_20103200		
+t_director_option2_20103201		
+t_director_option2_20103202		
+t_director_option2_20201100		
+t_director_option2_20201101		
+t_director_option2_20201102		
+t_director_option2_20201103		
+t_director_option2_20201200		
+t_director_option2_20201201		
+t_director_option2_20201202		
+t_director_option2_20202100		
+t_director_option2_20202101		
+t_director_option2_20202102		
+t_director_option2_20202103		
+t_director_option2_20202104		
+t_director_option2_20202105		
+t_director_option2_20202106		
+t_director_option2_20202107		
+t_director_option2_20202108		
+t_director_option2_20202109		
+t_director_option2_20202200		
+t_director_option2_20202201		
+t_director_option2_20202202		
+t_director_option2_20202203		
+t_director_option2_20301100		
+t_director_option2_20301101		
+t_director_option2_20301102		
+t_director_option2_20301103		
+t_director_option2_20301200		
+t_director_option2_20301201		
+t_director_option2_20301202		
+t_director_option2_20301203		
+t_director_option2_20301204		
+t_director_option2_20301205		
+t_director_option2_20302100		
+t_director_option2_20302101		
+t_director_option2_20302102		
+t_director_option2_20302103		
+t_director_option2_20302104		
+t_director_option2_20302105		
+t_director_option2_20302106		
+t_director_option2_20302200		
+t_director_option2_20302201		
+t_director_option2_20302202		
+t_director_option2_20302203		
+t_director_option2_20304101		
+t_director_option2_20304102		
+t_director_option2_20304103		
+t_director_option2_20304104		
+t_director_option2_20304200		
+t_director_option2_20304201		
+t_director_option2_20304202		
+t_director_option2_20303100		
+t_director_option2_20303101		
+t_director_option2_20303102		
+t_director_option2_20303103		
+t_director_option2_20303104		
+t_director_option2_20303105		
+t_director_option2_20303200		
+t_director_option2_20303201		
+t_director_option2_20303202		
+t_director_option2_20303203		
+t_director_option2_20401100		
+t_director_option2_20401101		
+t_director_option2_20401102		
+t_director_option2_20401103		
+t_director_option2_20401200		
+t_director_option2_20401201		
+t_director_option2_20401202		
+t_director_option2_20401203		
+t_director_option2_20402100		
+t_director_option2_20402101		
+t_director_option2_20402102		
+t_director_option2_20402103		
+t_director_option2_20402200		
+t_director_option2_20402201		
+t_director_option2_20402202		
+t_director_option2_20402203		
+t_director_option2_30100000		
+t_director_option2_30100100		
+t_director_option2_30300100		
+t_director_option2_30300200		
+t_director_option2_30300300		
+t_director_option2_30300400		
+t_director_option2_30300500		
+t_director_option2_30300600		
+t_director_option2_30300700		
+t_director_option2_30300800		
+t_director_option2_30300900		
+t_director_option2_30301000		
+t_director_option2_40101001		
+t_director_option2_40101002		
+t_director_option2_40101003		
+t_director_option2_40101004		
+t_director_option2_40101005		
+t_director_option2_40101006		
+t_director_option2_40101007		
+t_director_option2_40101008		
+t_director_option2_40101009		
+t_director_option2_40101010		
+t_director_option2_40201001		
+t_director_option2_40201002		
+t_director_option2_40201003		
+t_director_option2_40201004		
+t_director_option2_40201005		
+t_director_option2_40201006		
+t_director_option2_40201007		
+t_director_option2_40201008		
+t_director_option2_40201009		
+t_director_option2_40201010		
+t_director_option2_40301001		
+t_director_option2_40301002		
+t_director_option2_40301003		
+t_director_option2_40301004		
+t_director_option2_40301005		
+t_director_option2_40301006		
+t_director_option2_40301007		
+t_director_option2_40301008		
+t_director_option2_40301009		
+t_director_option2_40301010		
+t_director_option2_50000001		
+t_director_option2_50000002		
+t_director_option2_50000003		
+t_director_option2_50000004		
+t_director_option2_50011000		
+t_director_option2_50011001		
+t_director_option2_50002001		
+t_director_option2_50002002		
+t_director_option2_50003001		
+t_director_option2_50003002		
+t_director_option2_50004001		
+t_director_option2_60110101	战斗	
+t_director_option2_60110102	战斗	
+t_director_option2_60110103	战斗	
+t_director_option2_60110104	战斗	
+t_director_option2_60110105	战斗	
+t_director_option2_60110106	战斗	
+t_director_option2_60110107	战斗	
+t_director_option2_60110108	战斗	
+t_director_option2_60110109	战斗	
+t_director_option2_60110110	战斗	
+t_director_option2_60110111	战斗	
+t_director_option2_60110201	战斗	
+t_director_option2_60110202	战斗	
+t_director_option2_60110203	战斗	
+t_director_option2_60110204	战斗	
+t_director_option2_60110205	战斗	
+t_director_option2_60110206	战斗	
+t_director_option2_60110301	战斗	
+t_director_option2_60110302	战斗	
+t_director_option2_60110303	战斗	
+t_director_option2_60110304	战斗	
+t_director_option2_60110305	战斗	
+t_director_option2_60110306	战斗	
+t_director_option2_60110307	战斗	
+t_director_option2_60110401	战斗	
+t_director_option2_60110402	战斗	
+t_director_option2_60110403	战斗	
+t_director_option2_60110404	战斗	
+t_director_option2_60110405	战斗	
+t_director_option2_70101001		
+t_director_option2_70101002		
+t_director_option3_10100100		
+t_director_option3_10100101		
+t_director_option3_10100102		
+t_director_option3_10100103		
+t_director_option3_10100104		
+t_director_option3_10100200		
+t_director_option3_10100300		
+t_director_option3_10100301		
+t_director_option3_10100302		
+t_director_option3_10100303		
+t_director_option3_10100304		
+t_director_option3_10100305		
+t_director_option3_10200100		
+t_director_option3_10200101		
+t_director_option3_10200102		
+t_director_option3_10200103		
+t_director_option3_10200104		
+t_director_option3_10300100		
+t_director_option3_10300101		
+t_director_option3_10300102		
+t_director_option3_20101100		
+t_director_option3_20101101		
+t_director_option3_20101102		
+t_director_option3_20101103		
+t_director_option3_20101200		
+t_director_option3_20101201		
+t_director_option3_20101202		
+t_director_option3_20101203		
+t_director_option3_20101300		
+t_director_option3_20101301		
+t_director_option3_20101302		
+t_director_option3_20101303		
+t_director_option3_20102100		
+t_director_option3_20102101		
+t_director_option3_20102102		
+t_director_option3_20102200		
+t_director_option3_20102201		
+t_director_option3_20102202		
+t_director_option3_20102203		
+t_director_option3_20103100		
+t_director_option3_20103101		
+t_director_option3_20103102		
+t_director_option3_20103103		
+t_director_option3_20103200		
+t_director_option3_20103201		
+t_director_option3_20103202		
+t_director_option3_20201100		
+t_director_option3_20201101		
+t_director_option3_20201102		
+t_director_option3_20201103		
+t_director_option3_20201200		
+t_director_option3_20201201		
+t_director_option3_20201202		
+t_director_option3_20202100		
+t_director_option3_20202101		
+t_director_option3_20202102		
+t_director_option3_20202103		
+t_director_option3_20202104		
+t_director_option3_20202105		
+t_director_option3_20202106		
+t_director_option3_20202107		
+t_director_option3_20202108		
+t_director_option3_20202109		
+t_director_option3_20202200		
+t_director_option3_20202201		
+t_director_option3_20202202		
+t_director_option3_20202203		
+t_director_option3_20301100		
+t_director_option3_20301101		
+t_director_option3_20301102		
+t_director_option3_20301103		
+t_director_option3_20301200		
+t_director_option3_20301201		
+t_director_option3_20301202		
+t_director_option3_20301203		
+t_director_option3_20301204		
+t_director_option3_20301205		
+t_director_option3_20302100		
+t_director_option3_20302101		
+t_director_option3_20302102		
+t_director_option3_20302103		
+t_director_option3_20302104		
+t_director_option3_20302105		
+t_director_option3_20302106		
+t_director_option3_20302200		
+t_director_option3_20302201		
+t_director_option3_20302202		
+t_director_option3_20302203		
+t_director_option3_20304101		
+t_director_option3_20304102		
+t_director_option3_20304103		
+t_director_option3_20304104		
+t_director_option3_20304200		
+t_director_option3_20304201		
+t_director_option3_20304202		
+t_director_option3_20303100		
+t_director_option3_20303101		
+t_director_option3_20303102		
+t_director_option3_20303103		
+t_director_option3_20303104		
+t_director_option3_20303105		
+t_director_option3_20303200		
+t_director_option3_20303201		
+t_director_option3_20303202		
+t_director_option3_20303203		
+t_director_option3_20401100		
+t_director_option3_20401101		
+t_director_option3_20401102		
+t_director_option3_20401103		
+t_director_option3_20401200		
+t_director_option3_20401201		
+t_director_option3_20401202		
+t_director_option3_20401203		
+t_director_option3_20402100		
+t_director_option3_20402101		
+t_director_option3_20402102		
+t_director_option3_20402103		
+t_director_option3_20402200		
+t_director_option3_20402201		
+t_director_option3_20402202		
+t_director_option3_20402203		
+t_director_option3_30100000		
+t_director_option3_30100100		
+t_director_option3_30300100		
+t_director_option3_30300200		
+t_director_option3_30300300		
+t_director_option3_30300400		
+t_director_option3_30300500		
+t_director_option3_30300600		
+t_director_option3_30300700		
+t_director_option3_30300800		
+t_director_option3_30300900		
+t_director_option3_30301000		
+t_director_option3_40101001		
+t_director_option3_40101002		
+t_director_option3_40101003		
+t_director_option3_40101004		
+t_director_option3_40101005		
+t_director_option3_40101006		
+t_director_option3_40101007		
+t_director_option3_40101008		
+t_director_option3_40101009		
+t_director_option3_40101010		
+t_director_option3_40201001		
+t_director_option3_40201002		
+t_director_option3_40201003		
+t_director_option3_40201004		
+t_director_option3_40201005		
+t_director_option3_40201006		
+t_director_option3_40201007		
+t_director_option3_40201008		
+t_director_option3_40201009		
+t_director_option3_40201010		
+t_director_option3_40301001		
+t_director_option3_40301002		
+t_director_option3_40301003		
+t_director_option3_40301004		
+t_director_option3_40301005		
+t_director_option3_40301006		
+t_director_option3_40301007		
+t_director_option3_40301008		
+t_director_option3_40301009		
+t_director_option3_40301010		
+t_director_option3_50000001		
+t_director_option3_50000002		
+t_director_option3_50000003		
+t_director_option3_50000004		
+t_director_option3_50011000		
+t_director_option3_50011001		
+t_director_option3_50002001		
+t_director_option3_50002002		
+t_director_option3_50003001		
+t_director_option3_50003002		
+t_director_option3_50004001		
+t_director_option3_60110101		
+t_director_option3_60110102		
+t_director_option3_60110103		
+t_director_option3_60110104		
+t_director_option3_60110105		
+t_director_option3_60110106		
+t_director_option3_60110107		
+t_director_option3_60110108		
+t_director_option3_60110109		
+t_director_option3_60110110		
+t_director_option3_60110111		
+t_director_option3_60110201		
+t_director_option3_60110202		
+t_director_option3_60110203		
+t_director_option3_60110204		
+t_director_option3_60110205		
+t_director_option3_60110206		
+t_director_option3_60110301		
+t_director_option3_60110302		
+t_director_option3_60110303		
+t_director_option3_60110304		
+t_director_option3_60110305		
+t_director_option3_60110306		
+t_director_option3_60110307		
+t_director_option3_60110401		
+t_director_option3_60110402		
+t_director_option3_60110403		
+t_director_option3_60110404		

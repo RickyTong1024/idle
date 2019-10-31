@@ -1,0 +1,119 @@
+syntax = "proto2";
+package dhc;
+
+//using index name 8
+//using dict equips
+//using dict pets
+//using dict mails
+
+message player_t {
+    optional uint64 guid                    = 1;
+    optional int32 server_id                = 2;
+    optional string name                    = 3;
+    optional int32 avatar                   = 4;
+    optional int32 role_id                  = 5;
+
+    optional uint64 last_refresh_time       = 11;
+    optional uint64 last_refresh_week_time  = 12;
+    optional uint64 last_refresh_month_time = 13;
+
+    optional int32 level                    = 21;
+
+    optional int32 gold                     = 23;
+    optional int32 jewel                    = 24;
+    optional int32 exp                      = 25;
+    optional int32 honor                    = 26;
+    optional int32 reputation               = 27;
+
+    optional int32 integral                 = 28;
+
+
+    optional int32 is_checked               = 30;
+    optional int32 checked_days             = 31;
+    optional int32 aside                    = 32;
+    optional int32 portal                   = 33;
+    optional int32 has_mail                 = 34;
+
+    optional int32 tower                    = 36;
+    optional int32 tower_sweep_free         = 37;
+    optional int32 tower_sweep_num          = 38;
+
+    repeated int32 recharge_ids             = 40;
+
+    optional int32 map                      = 42;
+    optional int32 in_map                   = 43;
+
+    repeated int32 map_die_ids              = 46;
+    repeated uint64 map_die_times           = 47;
+    repeated int32 mission                  = 48;
+    repeated uint64 mission_time            = 49;
+    optional int32 mission_ex               = 50;
+    optional uint64 mission_ex_time         = 51;
+    optional uint64 mission_ex_count        = 52;
+
+    optional uint64 arena_room              = 53;
+    optional int32 arena_segment            = 54;
+    optional int32 arena_integral           = 55;
+    optional int32 arena_win                = 56;
+    optional int32 arena_num                = 57;
+    optional int32 arena_list_index         = 58;
+    repeated uint64 arena_fight             = 59;
+
+    optional int32 seed                     = 61;
+    repeated int32 mineral_ids              = 62;
+    repeated uint64 mineral_times           = 63;
+
+    repeated int32 dungeons                 = 65;
+    repeated int32 dungeon_tags             = 66;
+    repeated int32 dungeon_cengs            = 67;
+    repeated int32 dungeon_events           = 68;
+    repeated bytes dungeon_assets           = 69;
+
+    repeated int32 artifact_ids             = 75;
+    repeated int32 artifact_nums            = 76;
+    repeated int32 artifact_unlocks         = 77;
+
+    repeated int32 item_ids                 = 80;
+    repeated int32 item_nums                = 82;
+    repeated int32 spell_ids                = 83;
+    repeated int32 spell_levels             = 84;
+    repeated int32 spell_passive_ids        = 85;
+    repeated int32 rune_ids                 = 86;
+    repeated int32 rune_nums                = 87;
+
+    repeated int32 equip_dresses            = 90;
+    repeated int32 equip_dresses_unlock     = 91;
+    repeated uint64 equip_slots             = 92;
+    repeated int32 equip_shows              = 93;
+    repeated int32 equip_enhances           = 94;
+
+    repeated int32 monsters                 = 95;
+    repeated int32 monster_tasks            = 96;
+    repeated int32 monster_nums             = 97;
+    repeated int32 monster_unlocks          = 98;
+
+    repeated int32 pet_ids                  = 102;
+    repeated int32 pet_unlocks              = 103;
+
+    repeated int32 spell_passive_slots      = 105;
+    repeated int32 rune_slot1s              = 115;
+    repeated int32 rune_slot2s              = 116;
+    repeated int32 rune_slot3s              = 117;
+    repeated uint64 pet_slots               = 119;
+
+    repeated int32 shop_ids                 = 131;
+    repeated int32 shop_nums                = 132;
+
+    repeated int32 daily_ids                = 141;
+    repeated int32 daily_nums               = 142;
+    repeated int32 daily_reaches            = 143;
+    repeated int32 daily_rewards            = 144;
+
+    repeated int32 tasks                    = 151;
+    repeated int32 task_ids                 = 152;
+    repeated int32 task_reaches             = 153;
+    repeated int32 task_ends                = 154;
+    optional int32 task_num                 = 155;
+
+    repeated uint64 mail_note               = 181;
+}

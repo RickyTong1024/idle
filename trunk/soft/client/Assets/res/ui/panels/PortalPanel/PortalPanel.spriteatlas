@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PortalPanel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a43f97b862e17e0439125478234ac0ba, type: 3}
+    - {fileID: 2800000, guid: 660a75f8eb23894438cad2036e7a5168, type: 3}
+    - {fileID: 2800000, guid: 02dc72d752dc41045b3069c972499dae, type: 3}
+    - {fileID: 2800000, guid: 715a6f2c65137294793c794a6ca534a9, type: 3}
+    totalSpriteSurfaceArea: 588636
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 02dc72d752dc41045b3069c972499dae, type: 3}
+  - {fileID: 21300000, guid: a43f97b862e17e0439125478234ac0ba, type: 3}
+  - {fileID: 21300000, guid: 660a75f8eb23894438cad2036e7a5168, type: 3}
+  - {fileID: 21300000, guid: 715a6f2c65137294793c794a6ca534a9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - gjrui_120
+  - wdmp_map
+  - wdmp_lock
+  - wdmp_ljd
+  m_Tag: PortalPanel
+  m_IsVariant: 0

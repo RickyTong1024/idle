@@ -1,0 +1,27 @@
+syntax = "proto2";
+package dhc;
+
+//using index player_guid 0
+//using load player_guid
+
+message equip_t {
+    optional uint64 guid                    = 1;
+    optional uint64 player_guid             = 2;
+    optional int32 template_id              = 3;
+    optional int32 level                    = 4;
+
+    optional int32 enchant_id               = 10;
+    optional int32 enchant_value            = 11;
+    optional int32 enchant_count            = 12;
+    optional int32 attr                     = 14;
+    optional int32 value                    = 15;
+    optional int32 color                    = 16;
+
+    optional int32 percent                  = 17;
+    repeated int32 attr_types               = 21;
+    repeated int32 attr_ids                 = 22;
+    repeated int32 attr_values              = 23;
+    repeated int32 attr_colors              = 24;
+    repeated int32 attr_pers                = 25;
+    optional int32 reforge_count            = 26;
+}

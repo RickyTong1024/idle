@@ -1,0 +1,4 @@
+id	地图	名字	代号	类型	坐标	坐标	预留字段	预留字段	是否可用
+INT	INT	STRING	STRING	INT	INT	INT	INT	INT	INT
+*id	map		#name	type	x	y	def1	def2	available
+1001	1	城堡	t_map_build_name_1001	1	44	43			0

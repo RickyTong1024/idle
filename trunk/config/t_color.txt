@@ -1,0 +1,10 @@
+id	名字	名字代号	颜色	特效	品质图标1	品质图标2	品质图标3
+INT	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+*id		#name	color	effect	icon	icon2	icon3
+0	破旧	t_color_name_0	<color=#7F7F7F>%s</color>				
+1	普通	t_color_name_1	<color=#FFFFFF>%s</color>		gjrui_090	ejjmdb_001	gjrui_096
+2	优秀	t_color_name_2	<color=#00DE47>%s</color>	ui_effa2	gjrui_091	ejjmdb_002	gjrui_097
+3	稀有	t_color_name_3	<color=#00D8E3>%s</color>	ui_effa3	gjrui_092	ejjmdb_003	gjrui_098
+4	史诗	t_color_name_4	<color=#F43AF8>%s</color>	ui_effa4	gjrui_093	ejjmdb_004	gjrui_099
+5	传说	t_color_name_5	<color=#FF801B>%s</color>	ui_effa5	gjrui_094	ejjmdb_005	gjrui_100
+6	上古	t_color_name_6	<color=#F41600>%s</color>				

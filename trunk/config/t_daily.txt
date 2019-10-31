@@ -1,0 +1,14 @@
+id	标题	标题	描述	desc	图标	解锁类型 1等级 2任务	解锁参数	类型 1签到 2猎杀任务 3神器副本 4野外副本 5龙之塔 6竞技场 7打造装备 8装备附魔 9击杀普通怪 10击杀精英怪 11击杀橙色怪	数量	日常点	奖励	奖励	奖励	奖励	获得途径
+INT	STRING	STRING	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+*id		#name		#desc	icon	unlock_type	unlock_param	daily_type	num	point	type	value1	value2	value3	get
+1001	签到	t_daily_name_1001	进行签到1次	t_daily_desc_1001	1005	1	10	1	1	20	1	2	100	0	10001
+1002	猎杀	t_daily_name_1002	猎杀任务五次	t_daily_desc_1002	13	2	20301002	2	5	10	2	10010002	3	0	8
+1003	副本1	t_daily_name_1003	神器副本三次	t_daily_desc_1003	6	3	10103000	3	3	10	1	1	1000	0	4
+1004	副本2	t_daily_name_1004	野外副本三次	t_daily_desc_1004	5	2	20202002	4	3	10	1	1	1	0	3
+1005	龙之塔	t_daily_name_1005	挑战三次龙之塔	t_daily_desc_1005	1004	1	20	5	3	10	1	1	1	0	5
+1006	竞技场	t_daily_name_1006	竞技场战斗十次	t_daily_desc_1006	1003	1	30	6	10	10	1	1	1	0	6
+1007	装备1	t_daily_name_1007	打造装备三件	t_daily_desc_1007	5001	2	20101004	7	3	10	1	1	1	0	9
+1008	装备2	t_daily_name_1008	装备附魔三次	t_daily_desc_1008	5001	2	20203002	8	3	10	1	1	1	0	20001
+1009	杀怪1	t_daily_name_1009	野外普通怪五十只	t_daily_desc_1009	10	1	1	9	50	10	1	1	1	0	1
+1010	杀怪2	t_daily_name_1010	野外精英怪十只	t_daily_desc_1010	10	1	1	10	3	10	1	1	1	0	1
+1011	杀怪3	t_daily_name_1011	野外橙色怪三只	t_daily_desc_1011	10	1	1	11	3	10	1	1	1	0	1

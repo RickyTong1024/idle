@@ -1,0 +1,71 @@
+id	名字	名字代号	描述	描述代号	图标	颜色	职业	基础 0非基础 1基础	替换技能	类型1 1修改属性 2每获得N点怒气回复M%生命 3不死亡回复N%生命 4技能附加敌方当前生命N%的伤害，不超过攻击的M% 5对生命少于N%的目标提高M%的属性 6爆气状态提高N%属性 7普攻减少对方N点怒气 8前N秒无敌 9每次被攻击最多损失N%生命 10免疫超过{N11}%生命的伤害 11{N11}秒后狂暴，增加{N12}%的属性 12每次攻击回复N%点怒气	参数11	参数12	参数13	类型2	参数21	参数22	参数23	解锁参数1	解锁参数1	解锁参数2	解锁参数2
+INT	STRING	STRING	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+*id		#name		#desc	icon	color	class	basic	next_spell	effect.0.type	effect.0.param1	effect.0.param2	effect.0.param3	effect.1.type	effect.1.param1	effect.1.param2	effect.1.param3	unlock.0.param1	unlock.0.param2	unlock.1.param1	unlock.1.param2
+11001	磐石I	t_spell_passive_name_11001	提高{N12}%的减伤	t_spell_passive_desc_11001	11001	2	1	1	12001	1	36	60						2007	30		
+11002	强攻I	t_spell_passive_name_11002	爆气状态下，提高{N12}%的增伤	t_spell_passive_desc_11002	11002	2	1	1	12002	6	35	100						2008	30		
+11003	抵抗I	t_spell_passive_name_11003	{N12}%的概率免疫控制效果	t_spell_passive_desc_11003	11003	2	1	1	12003	1	81	150						2003	30		
+11004	无情I	t_spell_passive_name_11004	对生命少于{N13}%的目标提高{N12}%的增伤	t_spell_passive_desc_11004	11004	2	1	1	12004	5	35	200	30					2002	30		
+11005	吸血I	t_spell_passive_name_11005	每获得{N11}点怒气，回复{N12}%的生命	t_spell_passive_desc_11005	11005	2	1	1	12005	2	4	1						2008	30		
+11006	不懈I	t_spell_passive_name_11006	生命低于{N13}%时，提高{N12}%的减伤	t_spell_passive_desc_11006	11006	2	1	1	12006	1	36	100	35					2005	30		
+11007	荆棘I	t_spell_passive_name_11007	提高{N12}%的攻击反弹，每次攻击回复{N21}点怒气	t_spell_passive_desc_11007	11007	2	1	1	12007	1	74	50		12	1			2001	30		
+11008	护盾I	t_spell_passive_name_11008	提高{N12}%的防御，提高{N22}%回复	t_spell_passive_desc_11008	11008	2	1	1	12008	1	37	100		1	77	5		2003	30		
+11009	战神I	t_spell_passive_name_11009	受到致命伤害，不会死亡，生命回复至{N11}%，只会触发一次	t_spell_passive_desc_11009	11009	2	1	1	12009	3	15							2010	30		
+11010	狙杀I	t_spell_passive_name_11010	"技能附加敌方当前生命{N11}%的伤害,最大不超过攻击的{N12}%"	t_spell_passive_desc_11010	11010	2	1	1	12010	4	5	2000						2009	30		
+11011	狂怒I	t_spell_passive_name_11011	提高{N12}%的增伤	t_spell_passive_desc_11011	11011	2	1	1	12011	1	35	50						2004	30		
+11012	重伤I	t_spell_passive_name_11012	提高{N12}%的暴击率，提高{N22}%暴击伤害	t_spell_passive_desc_11012	11012	2	1	1	12012	1	33	40		1	51	300		2006	30		
+12001	磐石II	t_spell_passive_name_12001	提高{N12}%的减伤	t_spell_passive_desc_12001	11001	3	1	0	13001	1	36	80						3004	60	2001	60
+12002	强攻II	t_spell_passive_name_12002	爆气状态下，提高{N12}%的增伤	t_spell_passive_desc_12002	11002	3	1	0	13002	6	35	150						3001	60	2009	60
+12003	抵抗II	t_spell_passive_name_12003	{N12}%的概率免疫控制效果	t_spell_passive_desc_12003	11003	3	1	0	13003	1	81	200						3002	60	2002	60
+12004	无情II	t_spell_passive_name_12004	对生命少于{N13}%的目标提高{N12}%的增伤	t_spell_passive_desc_12004	11004	3	1	0	13004	5	35	250	30					3005	60	2007	60
+12005	吸血II	t_spell_passive_name_12005	每获得{N11}点怒气，回复{N12}%的生命	t_spell_passive_desc_12005	11005	3	1	0	13005	2	4	1						3002	60	2004	60
+12006	不懈II	t_spell_passive_name_12006	生命低于{N13}%时，提高{N12}%的减伤	t_spell_passive_desc_12006	11006	3	1	0	13006	1	36	150	35					3009	60	2005	60
+12007	荆棘II	t_spell_passive_name_12007	提高{N12}%的攻击反弹，每次攻击回复{N21}点怒气	t_spell_passive_desc_12007	11007	3	1	0	13007	1	74	60		12	2			3008	60	2008	60
+12008	护盾II	t_spell_passive_name_12008	提高{N12}%的防御，提高{N22}%回复	t_spell_passive_desc_12008	11008	3	1	0	13008	1	37	150		1	77	10		3007	60	2010	60
+12009	战神II	t_spell_passive_name_12009	受到致命伤害，不会死亡，生命回复至{N11}%，只会触发一次	t_spell_passive_desc_12009	11009	3	1	0	13009	3	15							3005	60	2004	60
+12010	狙杀II	t_spell_passive_name_12010	"技能附加敌方当前生命{N11}%的伤害,最大不超过攻击的{N12}%"	t_spell_passive_desc_12010	11010	3	1	0	13010	4	5	2400						3004	60	2003	60
+12011	狂怒II	t_spell_passive_name_12011	提高{N12}%的增伤	t_spell_passive_desc_12011	11011	3	1	0	13011	1	35	100						3003	60	2006	60
+12012	重伤II	t_spell_passive_name_12012	提高{N12}%的暴击率，提高{N22}%暴击伤害	t_spell_passive_desc_12012	11012	3	1	0	13012	1	33	60		1	51	400		3006	60	2008	60
+13001	磐石III	t_spell_passive_name_13001	提高{N12}%的减伤	t_spell_passive_desc_13001	11001	4	1	0	14001	1	36	120						3002	90	2010	90
+13002	强攻III	t_spell_passive_name_13002	爆气状态下，提高{N12}%的增伤	t_spell_passive_desc_13002	11002	4	1	0	14002	6	35	200						3004	90	2002	90
+13003	抵抗III	t_spell_passive_name_13003	{N12}%的概率免疫控制效果	t_spell_passive_desc_13003	11003	4	1	0	14003	1	81	250						3009	90	2007	90
+13004	无情III	t_spell_passive_name_13004	对生命少于{N13}%的目标提高{N12}%的增伤	t_spell_passive_desc_13004	11004	4	1	0	14004	5	35	300	30					3008	90	2009	90
+13005	吸血III	t_spell_passive_name_13005	每获得{N11}点怒气，回复{N12}%的生命	t_spell_passive_desc_13005	11005	4	1	0	14005	2	4	1						3010	90	2004	90
+13006	不懈III	t_spell_passive_name_13006	生命低于{N13}%时，提高{N12}%的减伤	t_spell_passive_desc_13006	11006	4	1	0	14006	1	36	200	35					3001	90	2003	90
+13007	荆棘III	t_spell_passive_name_13007	提高{N12}%的攻击反弹，每次攻击回复{N21}点怒气	t_spell_passive_desc_13007	11007	4	1	0	14007	1	74	70		12	3			3005	90	2006	90
+13008	护盾III	t_spell_passive_name_13008	提高{N12}%的防御，提高{N22}%回复	t_spell_passive_desc_13008	11008	4	1	0	14008	1	37	200		1	77	15		3006	90	2010	90
+13009	战神III	t_spell_passive_name_13009	受到致命伤害，不会死亡，生命回复至{N11}%，只会触发一次	t_spell_passive_desc_13009	11009	4	1	0	14009	3	15							3001	90	2003	90
+13010	狙杀III	t_spell_passive_name_13010	"技能附加敌方当前生命{N11}%的伤害,最大不超过攻击的{N12}%"	t_spell_passive_desc_13010	11010	4	1	0	14010	4	5	2800						3007	90	2001	90
+13011	狂怒III	t_spell_passive_name_13011	提高{N12}%的增伤	t_spell_passive_desc_13011	11011	4	1	0	14011	1	35	150						3005	90	2006	90
+13012	重伤III	t_spell_passive_name_13012	提高{N12}%的暴击率，提高{N22}%暴击伤害	t_spell_passive_desc_13012	11012	4	1	0	14012	1	33	80		1	51	500		3003	90	2005	90
+14001	磐石IV	t_spell_passive_name_14001	提高{N12}%的减伤	t_spell_passive_desc_14001	11001	5	1	0		1	36	160						4002	130	3002	130
+14002	强攻IV	t_spell_passive_name_14002	爆气状态下，提高{N12}%的增伤	t_spell_passive_desc_14002	11002	5	1	0		6	35	250						4001	130	3009	130
+14003	抵抗IV	t_spell_passive_name_14003	{N12}%的概率免疫控制效果	t_spell_passive_desc_14003	11003	5	1	0		1	81	300						4004	130	3005	130
+14004	无情IV	t_spell_passive_name_14004	对生命少于{N13}%的目标提高{N12}%的增伤	t_spell_passive_desc_14004	11004	5	1	0		5	35	350	30					4002	130	3007	130
+14005	吸血IV	t_spell_passive_name_14005	每获得{N11}点怒气，回复{N12}%的生命	t_spell_passive_desc_14005	11005	5	1	0		2	4	1						4010	130	3010	130
+14006	不懈IV	t_spell_passive_name_14006	生命低于{N13}%时，提高{N12}%的减伤	t_spell_passive_desc_14006	11006	5	1	0		1	36	250	35					4005	130	3003	130
+14007	荆棘IV	t_spell_passive_name_14007	提高{N12}%的攻击反弹，每次攻击回复{N21}点怒气	t_spell_passive_desc_14007	11007	5	1	0		1	74	80		12	4			4009	130	3002	130
+14008	护盾IV	t_spell_passive_name_14008	提高{N12}%的防御，提高{N22}%回复	t_spell_passive_desc_14008	11008	5	1	0		1	37	250		1	77	20		4003	130	3006	130
+14009	战神IV	t_spell_passive_name_14009	受到致命伤害，不会死亡，生命回复至{N11}%，只会触发一次	t_spell_passive_desc_14009	11009	5	1	0		3	15							4002	130	3001	130
+14010	狙杀IV	t_spell_passive_name_14010	"技能附加敌方当前生命{N11}%的伤害,最大不超过攻击的{N12}%"	t_spell_passive_desc_14010	11010	5	1	0		4	5	3200						4006	130	3008	130
+14011	狂怒IV	t_spell_passive_name_14011	提高{N12}%的增伤	t_spell_passive_desc_14011	11011	5	1	0		1	35	200						4008	130	3004	130
+14012	重伤IV	t_spell_passive_name_14012	提高{N12}%的暴击率，提高{N22}%暴击伤害	t_spell_passive_desc_14012	11012	5	1	0		1	33	100		1	51	600		4007	130	3010	130
+91001	幻影I	t_spell_passive_name_91001	提高{N12}%的闪避率	t_spell_passive_desc_91001	11006	2	9	1		1	32	500									
+91002	暴击强化	t_spell_passive_name_91002	提高{N12}%的暴击率	t_spell_passive_desc_91002	91002	2	9	1	91002	1	33	500									
+91003	暴击抵抗I	t_spell_passive_name_91003	提高{N12}%的抗暴率	t_spell_passive_desc_91003	91003	2	9	1	91003	1	34	500									
+91004	强攻I	t_spell_passive_name_91004	提高{N12}%的增伤	t_spell_passive_desc_91004	91004	2	9	1	91004	1	35	500									
+91005	霸体I	t_spell_passive_name_91005	提高{N12}%的减伤	t_spell_passive_desc_91005	91005	2	9	1	91005	1	36	500									
+91006	物理抵抗I	t_spell_passive_name_91006	提高{N12}%的物理抵抗	t_spell_passive_desc_91006	91006	2	9	1	91006	1	39	900									
+91007	魔法抵抗I	t_spell_passive_name_91007	提高{N12}%的魔法抵抗	t_spell_passive_desc_91007	91007	2	9	1	91007	1	40	900									
+91008	技能强化I	t_spell_passive_name_91008	提高{N12}%的技能伤害	t_spell_passive_desc_91008	91008	2	9	1	91008	1	53	500									
+91009	技能抵抗I	t_spell_passive_name_91009	提高{N12}%的技能伤害抵抗	t_spell_passive_desc_91009	91009	2	9	1	91009	1	54	500									
+91010	普攻强化I	t_spell_passive_name_91010	提高{N12}%的普攻伤害	t_spell_passive_desc_91010	91010	2	9	1	91010	1	55	500									
+91011	普攻抵抗I	t_spell_passive_name_91011	提高{N12}%的普攻伤害抵抗	t_spell_passive_desc_91011	11001	2	9	1	11003	1	56	500									
+91012	吸血I	t_spell_passive_name_91014	提高{N12}%的伤害吸血	t_spell_passive_desc_91012	91012	2	9	1	91012	1	80	100									
+91013	免控I	t_spell_passive_name_91015	提高{N12}%的免控	t_spell_passive_desc_91013	91013	2	9	1	91013	1	81	500									
+91014	狂怒I	t_spell_passive_name_91016	提高{N12}%的冷却缩短	t_spell_passive_desc_91014	91014	2	9	1	91014	1	82	300									
+91101	散失I	t_spell_passive_name_91101	普攻攻击减少敌方{N11}点怒气	t_spell_passive_desc_91101	91101	2	9	1	91101	7	5										
+91102	无敌I	t_spell_passive_name_91102	前{N11}秒无敌	t_spell_passive_desc_91102	91102	2	9	1	91102	8	10										
+91103	动力护甲I	t_spell_passive_name_91103	每次被攻击最多损失{N11}%的生命	t_spell_passive_desc_91103	91103	2	9	1	91103	9	5										
+91104	白银护甲I	t_spell_passive_name_91104	免疫超过{N11}%生命的伤害	t_spell_passive_desc_91104	91104	2	9	1	91104	10	10										
+91105	狂暴I	t_spell_passive_name_91105	{N12}秒后狂暴，增加{N11}%的伤害	t_spell_passive_desc_91105	91105	2	9	1	91105	11	38	5000									
+91106	复活I	t_spell_passive_name_91107	受到致命伤害，不会死亡，生命回复至{N11}%，只会触发一次	t_spell_passive_desc_91106	91106	2	9	1	91106	3	40										

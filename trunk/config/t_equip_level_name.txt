@@ -1,0 +1,13 @@
+level	名字	名字代号
+INT	STRING	STRING
+*level		#name
+0	下品·	t_equip_level_name_1
+1	下品·	t_equip_level_name_2
+2	下品·	t_equip_level_name_3
+3	中品·	t_equip_level_name_4
+4	中品·	t_equip_level_name_5
+5	中品·	t_equip_level_name_6
+6	上品·	t_equip_level_name_7
+7	上品·	t_equip_level_name_8
+8	上品·	t_equip_level_name_9
+9	极品·	t_equip_level_name_10

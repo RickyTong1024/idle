@@ -1,0 +1,41 @@
+
+zjm_mid.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX1
+  rotate: false
+  xy: 1504, 1990
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+duanzao1
+  rotate: false
+  xy: 2, 2
+  size: 412, 267
+  orig: 412, 267
+  offset: 0, 0
+  index: -1
+zhongyuanjindixin
+  rotate: false
+  xy: 1504, 1997
+  size: 891, 491
+  orig: 891, 491
+  offset: 0, 0
+  index: -1
+zhongyuanjinshan
+  rotate: false
+  xy: 2, 1289
+  size: 1500, 1199
+  orig: 1500, 1199
+  offset: 0, 0
+  index: -1
+zhongyuanjinyunwu
+  rotate: false
+  xy: 2, 271
+  size: 1500, 1016
+  orig: 1500, 1016
+  offset: 0, 0
+  index: -1

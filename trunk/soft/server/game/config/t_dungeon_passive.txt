@@ -1,0 +1,7 @@
+id	被动1	被动2	被动3	被动4	被动5	被动6	被动7	被动8	被动9	被动10	被动11	被动12	被动13	被动14	被动15	被动16	被动17	被动18	被动19	被动20	被动21	被动22	被动23	被动24	被动25	被动26	被动27	被动28	被动29	被动30	被动31	被动32	被动33	被动34	被动35	被动36	被动37	被动38	被动39	被动40
+INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+*id	passive.0.id	passive.1.id	passive.2.id	passive.3.id	passive.4.id	passive.5.id	passive.6.id	passive.7.id	passive.8.id	passive.9.id	passive.10.id	passive.11.id	passive.12.id	passive.13.id	passive.14.id	passive.15.id	passive.16.id	passive.17.id	passive.18.id	passive.19.id	passive.20.id	passive.21.id	passive.22.id	passive.23.id	passive.24.id	passive.25.id	passive.26.id	passive.27.id	passive.28.id	passive.29.id	passive.30.id	passive.31.id	passive.32.id	passive.33.id	passive.34.id	passive.35.id	passive.36.id	passive.37.id	passive.38.id	passive.39.id
+1001	91001	91002	91003	91004	91005	91006	91007	91008	91009	91010	91011	91012	91013	91014																										
+1002	91001	91002	91003	91004	91005	91006	91007	91008	91009	91010	91011	91012	91013	91014																										
+1003	91001	91002	91003	91004	91005	91006	91007	91008	91009	91010	91011	91012	91013	91014	91101	91102	91103	91104	91105	91106																				
+1004	91001	91002	91003	91004	91005	91006	91007	91008	91009	91010	91011	91012	91013	91014	91101	91102	91103	91104	91105	91106																				

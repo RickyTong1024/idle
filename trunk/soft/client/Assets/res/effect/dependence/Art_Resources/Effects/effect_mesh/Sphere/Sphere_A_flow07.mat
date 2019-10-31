@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sphere_A_flow07
+  m_Shader: {fileID: 4800000, guid: 7229ccb5042987341b2159b6ab4d1d45, type: 3}
+  m_ShaderKeywords: _E01_UVPAN_ON _E01_UVPAN_TIMEVERTEXALPHA_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha01:
+        m_Texture: {fileID: 2800000, guid: 618930795c4447941931deb99cb213c3, type: 3}
+        m_Scale: {x: 8, y: 8}
+        m_Offset: {x: 0, y: 0}
+    - _DisE01:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 8, y: 8}
+        m_Offset: {x: 0, y: 0}
+    - _E01:
+        m_Texture: {fileID: 2800000, guid: 5bc3b2f9fdfad764581ae5bc3666b3fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskE01:
+        m_Texture: {fileID: 2800000, guid: f9190a9c2b584a14f85be465bd16922b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha01_Bright: 20
+    - _Cutoff: 0.5
+    - _DisE01_UVpan: 0
+    - _DisE01_UVpan_Speed: 0.1
+    - _DisE01_value: 0
+    - _E01_Bright: 2
+    - _E01_UVangle: 0
+    - _E01_UVpan: 1
+    - _E01_UVpan_Speed: 1
+    - _E01_UVpan_TimeVertexAlpha: 1
+    - _MaskE01_UVangle: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _E01_Color: {r: 1, g: 1, b: 1, a: 1}

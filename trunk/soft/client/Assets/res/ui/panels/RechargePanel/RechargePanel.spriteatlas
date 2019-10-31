@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RechargePanel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f722456d0478d264db1aef6158022e6d, type: 3}
+    - {fileID: 2800000, guid: ab49cc279d66636499f8fa2ba66a453c, type: 3}
+    - {fileID: 2800000, guid: 3e0e3f9c009fb8b4e8bd53fdbd69e257, type: 3}
+    - {fileID: 2800000, guid: 8b3f57a02aac92044a889e4e7689194b, type: 3}
+    - {fileID: 2800000, guid: f2c0c25203a62f248a820cfd9f90d9c2, type: 3}
+    - {fileID: 2800000, guid: 43409b2e3b3d75b41b71af548b505c7e, type: 3}
+    totalSpriteSurfaceArea: 185472
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8b3f57a02aac92044a889e4e7689194b, type: 3}
+  - {fileID: 21300000, guid: f2c0c25203a62f248a820cfd9f90d9c2, type: 3}
+  - {fileID: 21300000, guid: ab49cc279d66636499f8fa2ba66a453c, type: 3}
+  - {fileID: 21300000, guid: 3e0e3f9c009fb8b4e8bd53fdbd69e257, type: 3}
+  - {fileID: 21300000, guid: f722456d0478d264db1aef6158022e6d, type: 3}
+  - {fileID: 21300000, guid: 43409b2e3b3d75b41b71af548b505c7e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 90003
+  - 90004
+  - 90001
+  - 90002
+  - 90006
+  - 90005
+  m_Tag: RechargePanel
+  m_IsVariant: 0

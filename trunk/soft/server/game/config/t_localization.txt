@@ -1,0 +1,228 @@
+id	中文	英文
+STRING	STRING	STRING
+*id	c0	c1
+Prefabs_Localization_0	龙之塔	
+Prefabs_Localization_1	刷子工会	
+Prefabs_Localization_2	酒馆	
+Prefabs_Localization_3	竞技场	
+Prefabs_Localization_4	出城	
+Prefabs_Localization_5	商店	
+Prefabs_Localization_6	猫头鹰	
+Prefabs_Localization_7	名次{nn}	
+Prefabs_Localization_8	玩家	
+Prefabs_Localization_9	职业	
+Prefabs_Localization_10	锻造	
+Prefabs_Localization_11	强化	
+Prefabs_Localization_12	强化等级	
+Prefabs_Localization_13	主属性	
+Prefabs_Localization_14	附加属性	
+Prefabs_Localization_15	所需材料	
+Prefabs_Localization_16	x	
+Prefabs_Localization_17	使用	
+Prefabs_Localization_18	-10	
+Prefabs_Localization_19	10	
+Prefabs_Localization_20	神器	
+Prefabs_Localization_21	可以锻造	
+Prefabs_Localization_22	已经拥有	
+Prefabs_Localization_23	尚未拥有	
+Prefabs_Localization_24	更换	
+Prefabs_Localization_25	Boss	
+Prefabs_Localization_26	剩余挑战次数	
+Prefabs_Localization_27	神器属性	
+Prefabs_Localization_28	level	
+Prefabs_Localization_29	进阶	
+Prefabs_Localization_30	进阶等级	
+Prefabs_Localization_31	达到提升上限	
+Prefabs_Localization_32	天赋	
+Prefabs_Localization_33	回城中..	
+Prefabs_Localization_34	原地遇敌	
+Prefabs_Localization_35	金币单抽	
+Prefabs_Localization_36	金币十连抽	
+Prefabs_Localization_37	钻石单抽	
+Prefabs_Localization_38	钻石十连抽	
+Prefabs_Localization_39	召唤	
+Prefabs_Localization_40	确定	
+Prefabs_Localization_41	锻造确定	
+Prefabs_Localization_42	背包	
+Prefabs_Localization_43	角色	
+Prefabs_Localization_44	锻造	
+Prefabs_Localization_45	图鉴	
+Prefabs_Localization_46	宠物	
+Prefabs_Localization_47	怪物	
+Prefabs_Localization_48	装备	
+Prefabs_Localization_49	你的名字...	
+Prefabs_Localization_50	请输入角色名称	
+Prefabs_Localization_51	连接中..	
+Prefabs_Localization_52	技能选择	
+Prefabs_Localization_53	技能解锁	
+Prefabs_Localization_54	被动解锁	
+Prefabs_Localization_55	技能1	
+Prefabs_Localization_56	技能2	
+Prefabs_Localization_57	技能3	
+Prefabs_Localization_58	被动技能	
+Prefabs_Localization_59	详情	
+Prefabs_Localization_60	角色	
+Prefabs_Localization_61	技能	
+Prefabs_Localization_62	购买	
+Prefabs_Localization_63	1111111	
+Prefabs_Localization_64	掉落奖励	
+Prefabs_Localization_65	通过以下途径提升自己	
+Prefabs_Localization_66	强化装备	
+Prefabs_Localization_67	提升等级	
+Prefabs_Localization_68	装备镶嵌	
+Prefabs_Localization_69	装备附魔	
+Prefabs_Localization_70	宠物提升	
+Prefabs_Localization_71	获取神器	
+Prefabs_Localization_72	点击屏幕继续	
+Prefabs_Localization_73	无	
+Prefabs_Localization_74	附魔	
+Prefabs_Localization_75	邮件	
+Prefabs_Localization_76	全部领取	
+Prefabs_Localization_77	领取	
+Prefabs_Localization_78	镶嵌	
+Prefabs_Localization_79	重铸	
+Prefabs_Localization_80	培养	
+Prefabs_Localization_81	分解	
+Prefabs_Localization_82	高级附魔	
+Prefabs_Localization_83	挂机收益	
+Prefabs_Localization_84	获得物品	
+Prefabs_Localization_85		
+Prefabs_Localization_86	批量分解	
+Prefabs_Localization_87	获得	
+Prefabs_Localization_88	取消	
+Prefabs_Localization_89	最小	
+Prefabs_Localization_90	最大	
+Prefabs_Localization_91	出售	
+Prefabs_Localization_92	登陆	
+Prefabs_Localization_93	找回密码	
+Prefabs_Localization_94	修改密码	
+Prefabs_Localization_95	注册账号	
+Prefabs_Localization_96	登录	
+Prefabs_Localization_97	游客登录	
+Prefabs_Localization_98	游客登录可能伴随账号丢失风险，为了您的账号安全，请尽快注册账号	
+Prefabs_Localization_99	继续登录	
+Prefabs_Localization_100	游客绑定	
+Prefabs_Localization_101	6~18位字符	
+Prefabs_Localization_102	输入正确的邮箱地址方便您找回您的账号密码	
+Prefabs_Localization_103	注册	
+Prefabs_Localization_104	请输入注册时的绑定邮箱，我们会将账号密码发送至此邮箱中	
+Prefabs_Localization_105	电子邮箱地址	
+Prefabs_Localization_106	开始	
+Prefabs_Localization_107	我已详细阅读并同意了	
+Prefabs_Localization_108	游戏许可及服务协议	
+Prefabs_Localization_109	big_green	
+Prefabs_Localization_110	任意点击继续	
+Prefabs_Localization_111	签到	
+Prefabs_Localization_112	New Text	
+Prefabs_Localization_113	升级	
+Prefabs_Localization_114	合成	
+Prefabs_Localization_115	副本	
+Prefabs_Localization_116	掉落物品	
+Prefabs_Localization_117	战斗	
+Prefabs_Localization_118	传送门	
+Prefabs_Localization_119	传送	
+Prefabs_Localization_120	怪物详情	
+Prefabs_Localization_121	提示	
+Prefabs_Localization_122	剧情	
+Prefabs_Localization_123	xx-xx级套装	
+Prefabs_Localization_124	最高排名	
+Prefabs_Localization_125	当前排名 - 100	
+Prefabs_Localization_126	累计胜负 - 32/48	
+Prefabs_Localization_127	前30排名	
+Prefabs_Localization_128	挑战	
+Prefabs_Localization_129	排名	
+Prefabs_Localization_130	奖励	
+Prefabs_Localization_131	战斗力	
+Prefabs_Localization_132	强度	
+Prefabs_Localization_133	开始挑战	
+Prefabs_Localization_134	开始扫荡	
+Prefabs_Localization_135	信息	
+Prefabs_Localization_136	扫荡	
+Prefabs_Localization_137	任务	
+Prefabs_Localization_138	喂养	
+Prefabs_Localization_139	属性提升	
+Prefabs_Localization_140	数量：99	
+Prefabs_Localization_141	长按可连续喂养	
+Prefabs_Localization_142	勾选你需要重铸的属性	
+Prefabs_Localization_143	解锁提示	
+Prefabs_Localization_144	输入角色名称	
+Prefabs_Localization_145	设置	
+Prefabs_Localization_146	音量设置	
+Prefabs_Localization_147	礼包兑换	
+Prefabs_Localization_148	排行榜	
+Prefabs_Localization_149	音乐	
+Prefabs_Localization_150	音效	
+Prefabs_Localization_151	重置	
+Prefabs_Localization_152	请输入礼包码	
+Prefabs_Localization_153	兑换礼包	
+Prefabs_Localization_154	修改	
+Prefabs_Localization_155	ID:	
+Prefabs_Localization_156	切换账号	
+Prefabs_Localization_157	选择	
+Prefabs_Localization_158	选中	
+Prefabs_Localization_159	修改名称	
+Prefabs_Localization_160	输入新的角色名称	
+Prefabs_Localization_161	获得:	
+Prefabs_Localization_162	攻击 +100	
+Prefabs_Localization_163	100%	
+Prefabs_Localization_164	+	
+Prefabs_Localization_165	数量:	
+Prefabs_Localization_166	成就	
+Prefabs_Localization_167	物 品	
+Prefabs_Localization_168	关 闭	
+Prefabs_Localization_169	更 换	
+Prefabs_Localization_170	修改名字	
+Prefabs_Localization_171	输入新的角色名字	
+Prefabs_Localization_172	喂 养	
+Prefabs_Localization_173	购 买	
+Prefabs_Localization_174	变 强	
+Prefabs_Localization_175	日常任务的积分将在每日凌晨05：00重置	
+Prefabs_Localization_176	每日任务	
+Prefabs_Localization_177	宠 物	
+Prefabs_Localization_178	购 买	
+Prefabs_Localization_179	宠 物	
+Prefabs_Localization_180	锻 造	
+Prefabs_Localization_181	铁匠铺	
+Prefabs_Localization_182	杂货店	
+Prefabs_Localization_183	装 备	
+Prefabs_Localization_184	解锁奖励	
+Prefabs_Localization_185	获得途径	
+Prefabs_Localization_186	外观	
+Prefabs_Localization_187	主动技能	
+Prefabs_Localization_188	已达到最大等级	
+Prefabs_Localization_189	神 器	
+Prefabs_Localization_190	属性	
+Prefabs_Localization_191	附 魔	
+Prefabs_Localization_192	打造	
+Prefabs_Localization_193	技 能	
+Prefabs_Localization_194	下一等级	
+Prefabs_Localization_195	倒计时:	
+Prefabs_Localization_196	宝石水晶单抽	
+Prefabs_Localization_197	宠物水晶单抽	
+Prefabs_Localization_198	装备水晶单抽	
+Prefabs_Localization_199	宠物召唤	
+Prefabs_Localization_200	装备召唤	
+Prefabs_Localization_201	宝石召唤	
+Prefabs_Localization_202	一键翻牌	
+Prefabs_Localization_203	详 情	
+Prefabs_Localization_204	召唤概率公示：{nn}蓝色装备        65%    {nn}{nn}紫色装备        30%    {nn}{nn}橙色装备        0.5%    {nn}{nn}消耗道具(单抽)        {nn}{nn}地图1     20钻石    1钥匙{nn}{nn}地图2     40钻石    2钥匙{nn}{nn}地图3     60钻石    3钥匙{nn}{nn}地图4     80钻石    4钥匙{nn}{nn}地图5     100钻石    5钥匙{nn}{nn}地图6     100钻石    5钥匙{nn}{nn}地图7     120钻石    6钥匙{nn}{nn}地图8     120钻石    6钥匙{nn}{nn}地图9     140钻石    7钥匙{nn}{nn}地图10     140钻石    7钥匙{nn}{nn}地图11     160钻石    8钥匙{nn}{nn}地图12     160钻石    8钥匙{nn}{nn}地图13     180钻石    9钥匙{nn}{nn}地图14     180钻石    9钥匙{nn}{nn}地图15     200钻石    10钥匙{nn}宠物召唤概率公示：{nn}{nn}宠物饲料     50%{nn}{nn}宠物碎片     45%{nn}{nn}宠物         5%{nn}宝石召唤概率公示：{nn}{nn}一级宝石     40%{nn}{nn}二级宝石     30%{nn}{nn}三级宝石     15%{nn}{nn}四级宝石     10%{nn}{nn}五级宝石     5%	
+Prefabs_Localization_205	怪 物	
+Prefabs_Localization_206	开始游戏	
+Prefabs_Localization_207	登 陆	
+Prefabs_Localization_208	输入正确的邮箱地址	
+Prefabs_Localization_209	8~18位字符	
+Prefabs_Localization_210	注 册	
+Prefabs_Localization_211	请输入正确的邮箱地址	
+Prefabs_Localization_212	公 告	
+Prefabs_Localization_213	协 议	
+Prefabs_Localization_214	极致游戏倡议玩家对自己的言行负责，文明游戏，健康游戏，若玩家出现本条约定的以下情形，将会被按照本条的规定进行处罚。{nn}{nn}1、冒充系统：在游戏中，凡是通过各种方式、行为冒充系统向其他玩家散布或传播虚假信息，根据情况将有可能受到以下处罚：警告；禁言；暂时冻结玩法；永久冻结玩法；暂时禁止登录；永久禁止登录。{nn}{nn}2、非法网站：为了维护游戏世界中的洁净与和谐，凡是宣扬非法网站的，根据情况将有可能受到以下处罚：警告；禁言；暂时冻结玩法；永久冻结玩法；暂时禁止登录；永久禁止登录。{nn}{nn}3、言行不雅：在游戏中，凡是通过各种方式、行为散布或传播言行不雅的信息，根据情况将有可能受到以下处罚：警告；禁言；暂时冻结玩法；永久冻结玩法；强制离线；暂时禁止登录。{nn}{nn}4、垃圾广告信息：大量传播相同的、类似短语或无实质意义内容的言行，以及任何与所在游戏无关的信息(包括但不限于刷屏等)，或者发布、传播任何贬损、诋毁、恶意攻击所在游戏或极致游戏的信息或者其他不实信息，根据情况将有可能受到以下处罚：警告；禁言；暂时冻结玩法；永久冻结玩法；强制离线；暂时禁止登录；永久禁止登录。{nn}{nn}5、地区分裂：在游戏中，凡是通过各种方式或途径引起地区纷争的行为，根据情况将有可能受到以下处罚：警告；禁言；暂时冻结玩法；永久冻结玩法；强制离线；暂时禁止登录；永久禁止登录。{nn}{nn}6、违禁药品或行为：在游戏中，凡是涉及违禁药品的行为，根据情况将有可能受到以下处罚：警告；禁言；暂时冻结玩法；永久冻结玩法；强制离线；暂时禁止登录；永久禁止登录。{nn}{nn}7、现实生活信息和人身恐吓：凡是涉及任何与游戏世界无直接关系的暴力行为，以及泄漏其它玩家或极致游戏员工的任何游戏世界和现实生活信息，根据情况将有可能受到以下处罚：禁言；强制离线；暂时冻结玩法；永久冻结玩法；暂时禁止登录；永久禁止登录；承担法律责任。{nn}{nn}8、宣传或使用木马、外挂、病毒等信息：在游戏中，凡是通过各种方式、行为散布或传播、使用木马、外挂、病毒等信息，根据情况将有可能受到以下处罚：禁言；暂时冻结玩法；永久冻结玩法；暂时禁止登录；永久禁止登录；强制离线；封停账号；删除档案；承担法律责任。{nn}{nn}9、宣传代练：在游戏中，凡是通过各种方式、行为散布或传播代练的信息，根据情况将有可能受到以下处罚：禁言；暂时冻结玩法；永久冻结玩法；暂时禁止登录；永久禁止登录；强制离线；封停账号；删除档案。{nn}{nn}10、宣传或进行线下交易：用户只可在游戏内或者通过极致游戏认可的交易平台（如有）进行游戏虚拟物品交易。对于用户在任何非极致游戏事先认可的充值平台或其他交易平台进行充值或进行其他交易的相关行为（包括但不限于用户通过第三方进行充值或游戏内虚拟物品的购买），极致游戏将予以严厉打击和处罚。一经查证属实，极致游戏有权视具体情况采取各种处理措施，包括但不限于如下一项或几项：警告、倒扣数值、冻结或回收游戏虚拟物品、暂时冻结玩法、永久冻结玩法、强制离线、封停账号、删除档案及采取其他技术措施防止用户从事该等行为；情节严重的，极致游戏保留追究用户法律责任的权利。{nn}{nn}11、宣传或发布违法信息，严重违反社会公德：在游戏中，凡是涉及违反国家法律、违背社会道德文明准则的言语或行为，包括但不限于宣传或参与赌博、宣传邪教等行为，玩家将受到以下处罚：警告；禁言；强制离线；暂时冻结玩法；永久冻结玩法；暂时禁止登录；永久禁止登录；删除档案；承担法律责任。{nn}{nn}12、其他骚扰行为：除本条上述情形外，若玩家出现其他不符合法律法规、社会公德或游戏规则的骚扰情形，根据情况将可能受到以下处罚：警告；禁言；暂时冻结玩法；永久冻结玩法；暂时禁止登录；永久禁止登录；强制离线；封停账号；删除档案；承担法律责任。{nn}{nn}第十七条游戏管理员(以下简称“GM”)交互管理规则{nn}{nn}1、在游戏过程中，玩家可能会因为种种原因与GM进行交流。极致游戏将就具体游戏提供官方的游戏论坛作为玩家和GM之间的交流平台。如果在游戏中遇到问题，玩家可以通过官方论坛提交问题，它将给玩家提供快速、优质的服务。{nn}{nn}2、希望GM与玩家的交流能对玩家有所帮助，但请玩家遵守相关规定。极致游戏将严肃处理以下行为：{nn}{nn}(1)冒充系统或GM：在游戏中，可能会存在某些玩家冒充系统或GM的行为。如若发现，您可以通	
+Prefabs_Localization_215	强 化	
+Prefabs_Localization_216	删除已领	
+Prefabs_Localization_217	查看	
+Prefabs_Localization_218	可能掉落	
+Prefabs_Localization_219	被 动	
+Prefabs_Localization_220	下一阶段	
+Prefabs_Localization_221	描述	
+Prefabs_Localization_222	选择头像	
+Prefabs_Localization_223	名次{nn}	
+Prefabs_Localization_224	进 阶	

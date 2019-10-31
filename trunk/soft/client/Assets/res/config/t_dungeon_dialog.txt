@@ -1,0 +1,7 @@
+id	对话1	对话2	对话3	对话4	对话5	对话6	对话7	对话8	对话9	对话10	对话11	对话12	对话13	对话14	对话15	对话16	对话17	对话18	对话19	对话20
+INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+*id	dialog.0.id	dialog.1.id	dialog.2.id	dialog.3.id	dialog.4.id	dialog.5.id	dialog.6.id	dialog.7.id	dialog.8.id	dialog.9.id	dialog.10.id	dialog.11.id	dialog.12.id	dialog.13.id	dialog.14.id	dialog.15.id	dialog.16.id	dialog.17.id	dialog.18.id	dialog.19.id
+1001	60110101	60110102	60110103	60110104	60110105	60110106	60110107	60110108	60110109	60110110	60110111									
+1002	60110201	60110202	60110203	60110204	60110205	60110206														
+1003	60110301	60110302	60110303	60110304	60110305	60110306	60110307													
+1004	60110401	60110402	60110403	60110404																

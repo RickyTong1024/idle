@@ -1,0 +1,104 @@
+syntax = "proto2";
+
+import "equip_db.proto";
+import "pet_db.proto";
+import "arena_room_db.proto";
+
+package protocol.arena;
+
+message amsg_error {
+    required int32 code                     = 1;
+}
+
+message smsg_arena_enter_server {
+    required int32 server_id                 = 1;
+}
+
+message smsg_arena_heart_beat {
+    required int32 server_id                 = 1;
+}
+
+message smsg_arena_list_registered {
+    required uint64 player_guid             = 1;
+    repeated string player_name             = 2;
+    repeated int32 player_level             = 3;
+    repeated int32 player_icon              = 4;
+    repeated int32 player_segment           = 5;
+    repeated int32 player_power             = 6;
+}
+
+message amsg_arena_list_registered {
+    required int32 index                    = 1;
+}
+
+message smsg_arena_room_inquire {
+    required uint64 arena_room_guid         = 1;
+    optional int32 arena_segment            = 2;
+    optional uint64 player_guid             = 3;
+    optional string player_name              = 4;
+    optional int32 player_level             = 5;
+    optional int32 player_avatar            = 6;
+    optional int32 player_power             = 7;
+}
+
+message smsg_arena_room {
+    required dhc.arena_room_t arena_room    = 1;
+}
+
+message cmsg_arena_fight_init {
+    required uint64 player_guid             = 1;
+    required uint64 arena_room_guid         = 2;
+}
+
+message smsg_arena_fight_init {
+    required uint64 guid                    = 1;
+    required string name                    = 2;
+    required int32 level                    = 3;
+    required int32 role_id                  = 4;
+    repeated int32 attr_ids                 = 5;
+    repeated int32 attr_values              = 6;
+    repeated int32 spell_ids                = 7;
+    repeated int32 spell_levels             = 8;
+    repeated int32 spell_passive_slots      = 9;
+    repeated int32 equip_shows              = 10;
+    repeated dhc.equip_t equips             = 11;
+    repeated dhc.pet_t pets                 = 12;
+}
+
+message cmsg_arena_fight {
+    required bool win                       = 1;
+}
+
+message smsg_arena_fight_report {
+    required uint64 arena_room_guid         = 1;
+    required uint64 player_guid             = 2;
+    required uint64 gag_player_guid         = 3;
+    required bool win                       = 4;
+    required int32 player_name              = 5;
+    required int32 player_level             = 6;
+    required int32 player_icon              = 7;
+    required int32 player_power             = 8;
+}
+
+message amsg_arena_fight_report {
+    required int32 arena_integral           = 1;
+    required int32 arena_win                = 2;
+    required int32 arena_num                = 3;
+}
+
+message smsg_arena_fight {
+    required int32 seed                     = 1;
+    required int32 arena_integral           = 2;
+    required int32 arena_win                = 3;
+    required int32 arena_num                = 4;
+}
+
+message amsg_arena_refresh {
+    required uint64 player_guid             = 1;
+    required int32 arena_segment            = 2;
+}
+
+message amsg_arena_refresh_season {
+    required uint64 player_guid             = 1;
+    required int32 arena_segment            = 2;
+}

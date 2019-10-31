@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: daoguang01_B_toon02
+  m_Shader: {fileID: 4800000, guid: c20b2d67000a7b2479a52b75e01f3661, type: 3}
+  m_ShaderKeywords: _NODE_2473_ON _NODE_4740_COPY_ON _NODE_803_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha01:
+        m_Texture: {fileID: 2800000, guid: 0526192ce5faaba47bbce7adb8414887, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Alpha02:
+        m_Texture: {fileID: 2800000, guid: 383ebf7de36090442bfcbd40e3aeb258, type: 3}
+        m_Scale: {x: 2, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisE01:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 10, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _DisT01:
+        m_Texture: {fileID: 2800000, guid: 37fae2dfa47e5604a9c12deaa4753d28, type: 3}
+        m_Scale: {x: 3, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _E01:
+        m_Texture: {fileID: 2800000, guid: 2eef0a827f3cbde458d62d80632d115a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _E02:
+        m_Texture: {fileID: 2800000, guid: 0526192ce5faaba47bbce7adb8414887, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 21891ec5ad2e45541beb2f7a0b5fd483, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MoveAlpha:
+        m_Texture: {fileID: 2800000, guid: 0526192ce5faaba47bbce7adb8414887, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MoveTex:
+        m_Texture: {fileID: 2800000, guid: 0526192ce5faaba47bbce7adb8414887, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex01:
+        m_Texture: {fileID: 2800000, guid: d9c5ea612e51f06478961787cfc79bf7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex02:
+        m_Texture: {fileID: 2800000, guid: 0526192ce5faaba47bbce7adb8414887, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TexAlpha:
+        m_Texture: {fileID: 2800000, guid: e9af51686730ed940856a9aaecd7758b, type: 3}
+        m_Scale: {x: 2, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha01_Bright: 4
+    - _Alpha01_Upan_Speed: 1
+    - _Alpha01_Vpan_Speed: 0
+    - _Alpha02_Bright: 1
+    - _Alpha02_Upan_Speed: 1
+    - _Alpha02_Vpan_Speed: 0
+    - _AlphaClip: 0.06
+    - _Bright_Alpha01: 1
+    - _Bright_E02: 1
+    - _Cutoff: 0.5
+    - _DisE01_Value: 0
+    - _DisE01_Vpan_Speed: 0
+    - _DisE01_value: 0
+    - _DisT01Power: 0.2
+    - _Dissovle_Bright: 0
+    - _Dissovle_Width: 0.083
+    - _E02_Bright: 10
+    - _E02_Upan_Speed: 1
+    - _Intensity_Mask: 2
+    - _Intensity_T02: 2
+    - _Intensity_alpha: 20
+    - _MoveAlpha_Bright: 5
+    - _MoveAlpha_Upan_Speed: 1
+    - _MoveTex_Bright: 0.2
+    - _PanU_T02: 1
+    - _PanV_DisT01: -0.1
+    - _PanV_TexAlpha: 0
+    - _PanX_T02: 1
+    - _PanY_DisT01: 0
+    - _PanY_TexAlpha: 0
+    - _Toggle: 0
+    - _Upan_Speed_E02: 1
+    - _Value_DisE01: 0
+    - _Vpan_Speed_Alpha01: 0
+    - _Vpan_Speed_DisE01: 1
+    - _node_1582: 0
+    - _node_2091: 0
+    - _node_2145: 0
+    - _node_2473: 1
+    - _node_2746: 0
+    - _node_4740: 0
+    - _node_4740_copy: 1
+    - _node_4746: 0
+    - _node_5987: 0
+    - _node_7331: 0
+    - _node_803: 1
+    - _node_9251: 0
+    - _node_9690: 0
+    - _node_9736: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color_E01: {r: 1, g: 1, b: 1, a: 1}
+    - _Color_T01: {r: 0.13235295, g: 0.13235295, b: 0.13235295, a: 1}
+    - _Dissovle_Color: {r: 0.99264705, g: 0, b: 0, a: 1}
+    - _E01_Color: {r: 1, g: 1, b: 1, a: 1}

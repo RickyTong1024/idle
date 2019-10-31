@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicUIPanel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 7e388f3c25c69ae4aaf0d924c11871f6, type: 3}
+    - {fileID: 2800000, guid: c8056b4b727d2e14187c4a901eb8dc76, type: 3}
+    - {fileID: 2800000, guid: 840519a2cf10b934a92812194f897312, type: 3}
+    - {fileID: 2800000, guid: 7e708a968b202b04babcd0f0558b63c2, type: 3}
+    - {fileID: 2800000, guid: 933ce6e2c9a0056489db4a7023b5dce9, type: 3}
+    - {fileID: 2800000, guid: ed4cf5f3d80872e4582534eca54ffb8f, type: 3}
+    - {fileID: 2800000, guid: 42286976fe95f9145b431b457c782f85, type: 3}
+    - {fileID: 2800000, guid: 06eacd097baec4b489655c297612f13e, type: 3}
+    - {fileID: 2800000, guid: d06cacb88ec173348b7f79e6dec14663, type: 3}
+    - {fileID: 2800000, guid: ce7bee1880cc22546afaff7519c6b5bd, type: 3}
+    - {fileID: 2800000, guid: 3116bdfb57d59b5499b07a2086f2ae8b, type: 3}
+    - {fileID: 2800000, guid: 9dc900da0f7b98244bf3fb2bde09c756, type: 3}
+    - {fileID: 2800000, guid: 5023f8e913aee1444821765b7ff689ff, type: 3}
+    - {fileID: 2800000, guid: 607694e25192eb14080d2a71ed3c9de7, type: 3}
+    - {fileID: 2800000, guid: 18238f4b2fd49d245b90488499175489, type: 3}
+    - {fileID: 2800000, guid: 4eb92a628c83abb41b0cbdfe0a24a9bd, type: 3}
+    - {fileID: 2800000, guid: 8dc541af8e790644ea89062fe1034090, type: 3}
+    - {fileID: 2800000, guid: 4c38ede631cc65c40ab2ddc41c34cc41, type: 3}
+    - {fileID: 2800000, guid: 9b63f5931799f5241953298799369b6b, type: 3}
+    - {fileID: 2800000, guid: 682c07ff55c3106479758413b5150f85, type: 3}
+    - {fileID: 2800000, guid: 49da42f6e253a664799f984b4d2c4bf0, type: 3}
+    - {fileID: 2800000, guid: 4e719ba654d6ce146b9a5a351be7cc62, type: 3}
+    totalSpriteSurfaceArea: 137315
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4eb92a628c83abb41b0cbdfe0a24a9bd, type: 3}
+  - {fileID: 21300000, guid: 840519a2cf10b934a92812194f897312, type: 3}
+  - {fileID: 21300000, guid: 607694e25192eb14080d2a71ed3c9de7, type: 3}
+  - {fileID: 21300000, guid: 933ce6e2c9a0056489db4a7023b5dce9, type: 3}
+  - {fileID: 21300000, guid: 9b63f5931799f5241953298799369b6b, type: 3}
+  - {fileID: 21300000, guid: ed4cf5f3d80872e4582534eca54ffb8f, type: 3}
+  - {fileID: 21300000, guid: 42286976fe95f9145b431b457c782f85, type: 3}
+  - {fileID: 21300000, guid: 7e708a968b202b04babcd0f0558b63c2, type: 3}
+  - {fileID: 21300000, guid: 4e719ba654d6ce146b9a5a351be7cc62, type: 3}
+  - {fileID: 21300000, guid: 4c38ede631cc65c40ab2ddc41c34cc41, type: 3}
+  - {fileID: 21300000, guid: 49da42f6e253a664799f984b4d2c4bf0, type: 3}
+  - {fileID: 21300000, guid: ce7bee1880cc22546afaff7519c6b5bd, type: 3}
+  - {fileID: 21300000, guid: d06cacb88ec173348b7f79e6dec14663, type: 3}
+  - {fileID: 21300000, guid: 06eacd097baec4b489655c297612f13e, type: 3}
+  - {fileID: 21300000, guid: 5023f8e913aee1444821765b7ff689ff, type: 3}
+  - {fileID: 21300000, guid: 9dc900da0f7b98244bf3fb2bde09c756, type: 3}
+  - {fileID: 21300000, guid: c8056b4b727d2e14187c4a901eb8dc76, type: 3}
+  - {fileID: 21300000, guid: 18238f4b2fd49d245b90488499175489, type: 3}
+  - {fileID: 21300000, guid: 3116bdfb57d59b5499b07a2086f2ae8b, type: 3}
+  - {fileID: 21300000, guid: 7e388f3c25c69ae4aaf0d924c11871f6, type: 3}
+  - {fileID: 21300000, guid: 8dc541af8e790644ea89062fe1034090, type: 3}
+  - {fileID: 21300000, guid: 682c07ff55c3106479758413b5150f85, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - zjdt_ui034
+  - gjrui_110
+  - zjdt_ui032
+  - gjrui_112
+  - zjmuire_008
+  - gjrui_114
+  - gjrui_115
+  - gjrui_111
+  - zjmuire_002
+  - zjmuire_007
+  - zjmuire_011a
+  - gjrui_123
+  - gjrui_122
+  - gjrui_121
+  - gnic_007
+  - gnic_005
+  - gjrui_109
+  - zjdt_ui033
+  - gjrui_124
+  - gjrui_108
+  - zjdt_ui035
+  - zjmuire_009
+  m_Tag: BasicUIPanel
+  m_IsVariant: 0

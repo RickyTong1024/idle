@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: smoke01_B
+  m_Shader: {fileID: 203, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha01:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisE01:
+        m_Texture: {fileID: 2800000, guid: 5382f9c91445af745931b2546ec13341, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisT01:
+        m_Texture: {fileID: 2800000, guid: a9e126b359b5ddc468335bbcc08332c2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _E01:
+        m_Texture: {fileID: 2800000, guid: 1928c5b3c07662142b5e7e8108db60eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 1928c5b3c07662142b5e7e8108db60eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 1928c5b3c07662142b5e7e8108db60eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T01:
+        m_Texture: {fileID: 2800000, guid: a9e126b359b5ddc468335bbcc08332c2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha01_Bright: 1
+    - _Bright_E01: 1
+    - _Bright_Mask: 8
+    - _Cutoff: 0.5
+    - _DisE01_UVpan: 0
+    - _DisE01_UVpan_Speed: -1
+    - _DisE01_value: 0.1
+    - _E01_Bright: 1
+    - _E01_UVangle: 1
+    - _InvFade: 1
+    - _Speed_DisE01: -1
+    - _Speed_DisT01: -1
+    - _UV_DisE01: 0
+    - _UV_Pan: 0
+    - _UVangle_E01: 1
+    - _UVangle_T01: 0
+    - _Value_DisE01: 0.2
+    - _Value_DisT01: 0.2
+    - _Value_Mask: 8
+    - _Value_T01: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color_E01: {r: 1, g: 1, b: 1, a: 1}
+    - _Color_T01: {r: 1, g: 1, b: 1, a: 1}
+    - _E01_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}

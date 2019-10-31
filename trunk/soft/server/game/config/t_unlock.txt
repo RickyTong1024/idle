@@ -1,0 +1,29 @@
+标识	功能	提示	icon	解锁类型 1等级 2任务	解锁参数	是否需要解锁提示	描述	描述	条件描述	条件描述
+INT	STRING	STRING	STRING	INT	INT	INT	STRING	STRING	STRING	STRING
+*id		#name	icon	unlock_type	unlock_param	need_tip		#desc		#condition
+1001	酒馆	t_unlock_name_1001	1001	2	20101002	1	这里有各种神奇的东西，来和他们一起喝上一杯热腾的燕麦酒吧	t_unlock_desc_1001	<color=#fdc83a>酒馆</color>暂未开放	t_unlock_condition_1001
+1002	杂货店	t_unlock_name_1002	1002	1	1	1	出售着各种资源的店铺	t_unlock_desc_1002	完成杂货店老板的<color=#fdc83a>特产任务</color>后解锁	t_unlock_condition_1002
+1003	竞技场	t_unlock_name_1003	1003	1	30	1	和其他玩家同场竞技的公平场所	t_unlock_desc_1003	接取<color=#fdc83a>竞技场管理员</color>任务后解锁	t_unlock_condition_1003
+1004	龙之塔	t_unlock_name_1004	1004	3	10103000	1	想要知道这个塔有多高，就请努力往上爬吧！	t_unlock_desc_1004	接取<color=#fdc83a>龙之塔管理员</color>任务后解锁	t_unlock_condition_1004
+1005	猫头鹰	t_unlock_name_1005	1005	1	999	1	每天看望猫头鹰，他就会给你相应奖励	t_unlock_desc_1005	<color=#fdc83a>猫头鹰</color>暂未开放	t_unlock_condition_1005
+1006	出城	t_unlock_name_1006	1006	2	10102000	1	可以通过出城，前往各个地图，请小心，外面的世界很危险	t_unlock_desc_1006	<color=#fdc83a>装备武器</color>后开启<color=#fdc83a>出城</color>功能	t_unlock_condition_1006
+2001	排行榜	t_unlock_name_2001	2001	1	15	1	自己在某个领域达到什么程度，可以通过排行榜查看	t_unlock_desc_2001	<color=#fdc83a>15</color>级开启<color=#fdc83a>排行榜</color>功能	t_unlock_condition_2001
+3001	角色技能	t_unlock_name_3001	3001	2	20102002	1	搭配各种技能战斗，才能事半功倍	t_unlock_desc_3001	完成<color=#fdc83a>帕莎</color>任务后解锁	t_unlock_condition_3001
+3002	角色宠物	t_unlock_name_3002	3002	1	20	1	宠物能协助主人战斗，并且强化主人的技能	t_unlock_desc_3002	<color=#fdc83a>30</color>级开启<color=#fdc83a>角色宠物</color>功能	t_unlock_condition_3002
+3003	神器图鉴	t_unlock_name_3003	4003	2	10103000				通关<color=#fdc83a>神器副本</color>后解锁	t_unlock_condition_3003
+3004	宠物图鉴	t_unlock_name_3004	4003	1	20				开启<color=#fdc83a>龙之塔</color>后解锁	t_unlock_condition_3004
+3005	宠物抽卡	t_unlock_name_3005	3002	1	20	1	通过宠物抽卡，可以在这里获得全部的宠物	t_unlock_desc_3005	开启<color=#fdc83a>龙之塔</color>后解锁	t_unlock_condition_3005
+3006	宝石抽卡	t_unlock_name_3006	5001	1	30	1	通过宝石抽卡，可以在这里获得各种宝石	t_unlock_desc_3006	开启<color=#fdc83a>竞技场</color>后解锁	t_unlock_condition_3006
+4001	背包	t_unlock_name_4001	4001	2	10101000	1	自身携带的背包，可以用来存放物品、装备等	t_unlock_desc_4001		
+4002	角色	t_unlock_name_4002	4002	2	10101000	1	自身属性和穿戴的装备，也可以在这里强化装备	t_unlock_desc_4002		
+4003	图鉴	t_unlock_name_4003	4003	2	10102000	1	刷子公会下发的冒险图鉴，里面记录了各种的收集物	t_unlock_desc_4003		
+4004	邮件	t_unlock_name_4004	1005	1	10	1	划破时空给你带来各种福利	t_unlock_desc_4004		
+4005	签到	t_unlock_name_4005	1005	1	10	1	每日签一下，可以获得丰厚奖励	t_unlock_desc_4005		
+4006	每日任务	t_unlock_name_4006	6001	1	10	1	完成日常任务，会有丰富的奖励	t_unlock_desc_4006		
+5001	强化	t_unlock_name_5001	5001	2	20203002	1	通过强化，可以为装备赋予强大的增幅	t_unlock_desc_5001	完成铁匠<color=#fdc83a>强化</color>任务开启<color=#fdc84a>强化</color>功能	t_unlock_condition_5001
+5002	重铸	t_unlock_name_5002	5001	2	20302002	1	通过重铸，可以对装备的特有属性进行重新生成	t_unlock_desc_5002	完成铁匠<color=#fdc83a>重铸</color>任务开启<color=#fdc84a>重铸</color>功能	t_unlock_condition_5002
+5003	附魔	t_unlock_name_5003	5001	2	20101004	1	通过附魔，可以为装备赋予强大的属性加持	t_unlock_desc_5003	<color=#fdc83a>铁匠</color>安全<color=#fdc83a>回城</color>后开启<color=#fdc84a>附魔</color>功能	t_unlock_condition_5003
+5004	镶嵌	t_unlock_name_5004	5001	2	20401002	1	通过镶嵌，可以为装备赋予各种不同的强大属性增幅	t_unlock_desc_5004	完成铁匠<color=#fdc83a>镶嵌</color>任务开启<color=#fdc84a>镶嵌</color>功能	t_unlock_condition_5004
+5005	锻造	t_unlock_name_5005	5001	2	20101002	1	通过锻造，可以打造属于自己的强大装备	t_unlock_desc_5005	帮<color=#fdc83a>铁匠</color>找到<color=#fdc84a>铁锤</color>后开启功能	t_unlock_condition_5005
+5006	分解	t_unlock_name_5006	5001	2	10102000				<color=#fdc83a>出城</color>后解锁	t_unlock_condition_5006
+5007	批量分解	t_unlock_name_5007	5001	2	10102000				<color=#fdc83a>出城</color>后解锁	t_unlock_condition_5007

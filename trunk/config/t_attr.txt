@@ -1,0 +1,54 @@
+id	Ãû×Ö	ÃèÊö´úºÅ	ÃèÊö	ÃèÊö´úºÅ	ÊıÖµËõ·Å	È¡Öµ	Õ½Á¦	ÊÇ·ñÏÔÊ¾
+INT	STRING	STRING	STRING	STRING	INT	INT	INT	INT
+*id		#name		#desc	scale	value	power	show
+1	ÉúÃü	t_attr_name_1	ÉúÃü +{n}	t_attr_desc_1	1	100	1	1
+2	¹¥»÷	t_attr_name_2	¹¥»÷ +{n}	t_attr_desc_2	1	8	12	1
+3	Îï·À	t_attr_name_3	Îï·À +{n}	t_attr_desc_3	1	4	12	1
+4	Ä§·À	t_attr_name_4	Ä§·À +{n}	t_attr_desc_4	1	4	12	1
+11	ÃüÖĞ	t_attr_name_11	ÃüÖĞ +{n}	t_attr_desc_11	1	10	2	1
+12	ÉÁ±Ü	t_attr_name_12	ÉÁ±Ü +{n}	t_attr_desc_12	1	10	2	1
+13	±©»÷	t_attr_name_13	±©»÷ +{n}	t_attr_desc_13	1	10	2	1
+14	¿¹±©	t_attr_name_14	¿¹±© +{n}	t_attr_desc_14	1	10	2	1
+15	ÔöÉË	t_attr_name_15	ÔöÉË +{n}	t_attr_desc_15	1	10	2	1
+16	¼õÉË	t_attr_name_16	¼õÉË +{n}	t_attr_desc_16	1	10	2	1
+17	·ÀÓù	t_attr_name_17	·ÀÓù +{n}	t_attr_desc_17	1			2
+21	ÉúÃü%	t_attr_name_21	ÉúÃü +{n}%	t_attr_desc_21	10			2
+22	¹¥»÷%	t_attr_name_22	¹¥»÷ +{n}%	t_attr_desc_22	10			2
+23	Îï·À%	t_attr_name_23	Îï·À +{n}%	t_attr_desc_23	10			2
+24	Ä§·À%	t_attr_name_24	Ä§·À +{n}%	t_attr_desc_24	10			2
+31	ÃüÖĞÂÊ%	t_attr_name_31	ÃüÖĞÂÊ +{n}%	t_attr_desc_31	10			2
+32	ÉÁ±ÜÂÊ%	t_attr_name_32	ÉÁ±ÜÂÊ +{n}%	t_attr_desc_32	10			2
+33	±©»÷ÂÊ%	t_attr_name_33	±©»÷ÂÊ +{n}%	t_attr_desc_33	10			2
+34	¿¹±©ÂÊ%	t_attr_name_34	¿¹±©ÂÊ +{n}%	t_attr_desc_34	10			2
+35	ÔöÉË%	t_attr_name_35	ÔöÉË +{n}%	t_attr_desc_35	10			2
+36	¼õÉË%	t_attr_name_36	¼õÉË +{n}%	t_attr_desc_36	10			2
+37	·ÀÓù%	t_attr_name_37	·ÀÓù +{n}%	t_attr_desc_37	10			2
+38	ÉËº¦%	t_attr_name_38	ÉËº¦ +{n}%	t_attr_desc_38	10			2
+39	ÎïÀíµÖ¿¹%	t_attr_name_39	ÎïÀíµÖ¿¹ +{n}%	t_attr_desc_39	10			2
+40	Ä§·¨µÖ¿¹%	t_attr_name_40	Ä§·¨µÖ¿¹ +{n}%	t_attr_desc_40	10			2
+51	±©ÉË%	t_attr_name_51	±©ÉË +{n}%	t_attr_desc_51	10			2
+52	±©ÉËµÖ¿¹%	t_attr_name_52	±©ÉËµÖ¿¹ +{n}%	t_attr_desc_52	10			2
+53	¼¼ÄÜÉËº¦%	t_attr_name_53	¼¼ÄÜÉËº¦ +{n}%	t_attr_desc_53	10			2
+54	¼¼ÄÜµÖ¿¹%	t_attr_name_54	¼¼ÄÜµÖ¿¹ +{n}%	t_attr_desc_54	10			2
+55	ÆÕ¹¥ÉËº¦%	t_attr_name_55	ÆÕ¹¥ÉËº¦ +{n}%	t_attr_desc_55	10			2
+56	ÆÕ¹¥µÖ¿¹%	t_attr_name_56	ÆÕ¹¥µÖ¿¹ +{n}%	t_attr_desc_56	10			2
+57	ÈËĞÎÉËº¦%	t_attr_name_57	ÈËĞÎÉËº¦ +{n}%	t_attr_desc_57	10			2
+58	Ò°ÊŞÉËº¦%	t_attr_name_58	Ò°ÊŞÉËº¦ +{n}%	t_attr_desc_58	10			2
+59	¶ñÄ§ÉËº¦%	t_attr_name_59	¶ñÄ§ÉËº¦ +{n}%	t_attr_desc_59	10			2
+60	ÈËĞÎµÖ¿¹%	t_attr_name_60	ÈËĞÎµÖ¿¹ +{n}%	t_attr_desc_60	10			2
+61	Ò°ÊŞµÖ¿¹%	t_attr_name_61	Ò°ÊŞµÖ¿¹ +{n}%	t_attr_desc_61	10			2
+62	¶ñÄ§µÖ¿¹%	t_attr_name_62	¶ñÄ§µÖ¿¹ +{n}%	t_attr_desc_62	10			2
+73	¹¥»÷·´µ¯	t_attr_name_73	¹¥»÷·´µ¯ +{n}	t_attr_desc_73	1			2
+74	¹¥»÷·´µ¯%	t_attr_name_74	¹¥»÷·´µ¯ +{n}%	t_attr_desc_74	10			2
+75	ÉËº¦·´µ¯%	t_attr_name_75	ÉËº¦·´µ¯ +{n}%	t_attr_desc_75	10			2
+76	»Ø¸´	t_attr_name_76	»Ø¸´ +{n}	t_attr_desc_76	1			2
+77	»Ø¸´%	t_attr_name_77	»Ø¸´ +{n}%	t_attr_desc_77	10			2
+78	¹¥»÷»Ø¸´	t_attr_name_78	¹¥»÷»Ø¸´ +{n}	t_attr_desc_78	1			2
+79	¹¥»÷»Ø¸´%	t_attr_name_79	¹¥»÷»Ø¸´ +{n}%	t_attr_desc_79	10			2
+80	ÉËº¦ÎüÑª%	t_attr_name_80	ÉËº¦ÎüÑª +{n}%	t_attr_desc_80	10			2
+81	Ãâ¿Ø%	t_attr_name_81	Ãâ¿Ø +{n}%	t_attr_desc_81	10			2
+82	ÀäÈ´Ëõ¶Ì%	t_attr_name_82	ÀäÈ´Ëõ¶Ì +{n}%	t_attr_desc_82	10			2
+1001	ÔÎÑ£	t_attr_name_1001		t_attr_desc_1001	1			2
+2001	ÎïÆ·µôÂä%	t_attr_name_2001	ÎïÆ·µôÂä +{n}%	t_attr_desc_2001	10			2
+2002	½ğ±ÒµôÂä%	t_attr_name_2002	½ğ±ÒµôÂä +{n}%	t_attr_desc_2002	10			2
+2003	¾­Ñé»ñµÃ%	t_attr_name_2003	¾­Ñé»ñµÃ +{n}%	t_attr_desc_2003	10			2

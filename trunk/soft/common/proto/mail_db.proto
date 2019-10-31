@@ -1,0 +1,20 @@
+syntax = "proto2";
+package dhc;
+
+//using index receiver_guid 0
+//using load receiver_guid
+
+message mail_t {
+    optional uint64 guid                    = 1;
+    optional uint64 receiver_guid           = 2;
+    optional uint64 sender_date             = 3;
+    optional string title                   = 4;
+    optional string text                    = 5;
+    optional string sender_name             = 6;
+    repeated int32 type                     = 7;
+    repeated int32 value1                   = 8;
+    repeated int32 value2                   = 9;
+    repeated int32 value3                   = 10;
+    optional uint64 creat_time              = 11;
+    optional int32 used                     = 12;
+}

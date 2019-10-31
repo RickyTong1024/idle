@@ -1,0 +1,6 @@
+syntax = "proto2";
+package dhc;
+
+message arena_t {
+    required uint64 guid                   = 1;
+}

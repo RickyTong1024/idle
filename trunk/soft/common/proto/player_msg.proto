@@ -1,0 +1,153 @@
+syntax = "proto2";
+
+import "player_db.proto";
+import "equip_db.proto";
+import "mail_db.proto";
+import "pet_db.proto";
+import "rank_db.proto";
+import "common_msg.proto";
+
+package protocol.game;
+
+message cmsg_login_player {
+    required string username                = 1;
+    required string password                = 2;
+    required int32 serverid                 = 3;
+    required string platform                = 4;
+    required int32  lang                    = 5;
+}
+
+message smsg_login_player {
+    required dhc.player_t player            = 1;
+    repeated dhc.equip_t equips             = 2;
+    repeated dhc.pet_t pets                 = 3;
+    required int32 code                     = 4;
+    required uint64 time_now                = 5;
+}
+
+message cmsg_reconnection {
+    required uint64 player_guid             = 1;
+    required int32 code                     = 2;
+}
+
+message smsg_reconnection {
+    required dhc.player_t player            = 1;
+    repeated dhc.equip_t equips             = 2;
+    repeated dhc.pet_t pets                 = 3;
+    required uint64 time_now                = 4;
+}
+
+message cmsg_named {
+    required string name                    = 1;
+    required int32 icon                     = 2;
+}
+
+message smsg_error {
+    required int32 code                     = 1;
+    optional string text                    = 2;
+}
+
+message smsg_check_data {
+    required bytes check_data               = 1;
+}
+
+message smsg_refresh_player {
+    required common.msg_assets assets       = 1;
+    required uint64 refresh_time            = 2;
+}
+
+message cmsg_gm_command {
+    required string text                    = 1;
+}
+
+message smsg_gm_command {
+    optional common.msg_assets assets       = 1;
+}
+
+message smsg_mail_list {
+    repeated dhc.mail_t mails               = 1;
+}
+
+message cmsg_mail_get {
+    repeated uint64 mail_guids              = 1;
+}
+
+message smsg_mail_get {
+    required common.msg_assets assets       = 1;
+}
+
+message cmsg_mail_remove {
+    repeated uint64 mail_guids              = 1;
+}
+
+message cmsg_libao_exchange {
+    required string username                = 1;
+    required string code                    = 2;
+}
+
+message smsg_libao_exchange {
+    required common.msg_assets assets       = 1;
+}
+
+message cmsg_check {
+    required int32 check_day                = 1;
+}
+
+message smsg_check {
+    required common.msg_assets assets       = 1;
+}
+
+message cmsg_recharge {
+    required int32 recharge_id              = 1;
+}
+
+message cmsg_pet_get {
+    required int32 pet_id                   = 1;
+}
+
+message smsg_pet_get {
+    required common.msg_assets assets       = 1;
+}
+
+message cmsg_pet_on {
+    required uint64 pet_guid                = 1;
+    required int32 slot                     = 2;
+}
+
+message cmsg_pet_enhance {
+    required uint64 pet_guid                = 1;
+}
+
+message cmsg_pet_exchange {
+    repeated int32 slots                    = 1;
+}
+
+message cmsg_pet_feed {
+    required uint64 pet_guid                = 1;
+    repeated int32 pet_food_id              = 2;
+    repeated uint64 pet_food_num            = 3;
+}
+
+message cmsg_rank_get {
+    required int32 type                     = 1;
+}
+
+message smsg_rank_get {
+    required dhc.rank_t rank                = 1;
+}
+
+message cmsg_change_player_name {
+    required string new_name                = 1;
+}
+
+message smsg_change_player_name {
+    required int32 res                      = 1;
+}
+
+message cmsg_change_player_icon {
+    required int32 new_icon                 = 1;
+}
+
+message smsg_change_player_icon {
+    required int32 res                      = 1;
+}

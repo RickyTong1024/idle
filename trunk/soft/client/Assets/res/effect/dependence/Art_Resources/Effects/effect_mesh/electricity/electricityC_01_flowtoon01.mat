@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: electricityC_01_flowtoon01
+  m_Shader: {fileID: 4800000, guid: 6d9f36f1c95a3574d9c4b4b0dfff809c, type: 3}
+  m_ShaderKeywords: _E01_UVPAN_ON _E01_UVPAN_TIMEVERTEXALPHA_ON _OPACITY_ONOFF_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha01:
+        m_Texture: {fileID: 2800000, guid: 78d88993da559fd47860e918f22608a4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisE01:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _E01:
+        m_Texture: {fileID: 2800000, guid: 5ae6a33efa6ef854b848c0e89afc628f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ceb23bcaf25c8cf4c82c70efd81e6ced, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskE01:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_409:
+        m_Texture: {fileID: 2800000, guid: a0007ace55979ff4ba7aca3f058d7e72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha01_Bright: 1
+    - _Alpha01_UVangle: 0
+    - _AlphaClip: 0.02
+    - _Cutoff: 0.5
+    - _DisE01_UVpan: 0
+    - _DisE01_UVpan_Speed: 0
+    - _DisE01_value: 0
+    - _E01_Bright: 2
+    - _E01_UVangle: 0
+    - _E01_UVpan: 1
+    - _E01_UVpan_Speed: 1
+    - _E01_UVpan_TimeVertexAlpha: 1
+    - _Glow_Bright: 4.5
+    - _InvFade: 1
+    - _Opacity_ONOff: 1
+    - _glow_Bright: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _E01_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}

@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShopPanel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 1f9605b1be405c945ab6158e512bd98e, type: 3}
+    - {fileID: 2800000, guid: 482016b2df967884c9c94b1c0b133c89, type: 3}
+    - {fileID: 2800000, guid: 8f6919cbe86052741aedb2843762265f, type: 3}
+    - {fileID: 2800000, guid: 37fe35477f17c2f42896d65091eaba3f, type: 3}
+    - {fileID: 2800000, guid: 7e635a1cbe7f2b94cacee98436b651d8, type: 3}
+    - {fileID: 2800000, guid: 083f2ae55a196b946be06fbfed7044be, type: 3}
+    - {fileID: 2800000, guid: 959904e0ab8577c48a4de9bb7b829bf1, type: 3}
+    - {fileID: 2800000, guid: 9fda97fed6eaffb419c6936758f13bad, type: 3}
+    - {fileID: 2800000, guid: 35e9825dd4c9b9e4e83acb12234ccd96, type: 3}
+    - {fileID: 2800000, guid: 8f32f720a9f62e7458391b17706ecc0d, type: 3}
+    - {fileID: 2800000, guid: 8eed422402d44444aae48c0d29719a1f, type: 3}
+    - {fileID: 2800000, guid: fc14bb878ac8a674d80a9e4b8dc144b9, type: 3}
+    - {fileID: 2800000, guid: fb5d581ef0d3db9479150785aba3656a, type: 3}
+    - {fileID: 2800000, guid: 8ca65ec7764c4534fb6673be194a3827, type: 3}
+    - {fileID: 2800000, guid: 6ecde018b4604824da0c3cdad276d403, type: 3}
+    - {fileID: 2800000, guid: 1628241eca6f91944ad5be181f61ec31, type: 3}
+    - {fileID: 2800000, guid: 41221eaa134fae743a1fb7ab497d2496, type: 3}
+    - {fileID: 2800000, guid: 34307048ddbc1ae408cfbf18da33f6e0, type: 3}
+    - {fileID: 2800000, guid: db0c61fa1c0c2a243b98d1113c06f983, type: 3}
+    - {fileID: 2800000, guid: 0e447e5764a71cc4a9fc06a3068eee70, type: 3}
+    - {fileID: 2800000, guid: 18f4201118fb9b64e83e5ca2988c7eee, type: 3}
+    - {fileID: 2800000, guid: 2344736bbd1bfa34488567d7ea101e7d, type: 3}
+    - {fileID: 2800000, guid: 13e4d64d3a4f6b244a0cfbe7669feead, type: 3}
+    totalSpriteSurfaceArea: 1727224
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8f32f720a9f62e7458391b17706ecc0d, type: 3}
+  - {fileID: 21300000, guid: 959904e0ab8577c48a4de9bb7b829bf1, type: 3}
+  - {fileID: 21300000, guid: 18f4201118fb9b64e83e5ca2988c7eee, type: 3}
+  - {fileID: 21300000, guid: 1f9605b1be405c945ab6158e512bd98e, type: 3}
+  - {fileID: 21300000, guid: 482016b2df967884c9c94b1c0b133c89, type: 3}
+  - {fileID: 21300000, guid: 8eed422402d44444aae48c0d29719a1f, type: 3}
+  - {fileID: 21300000, guid: 083f2ae55a196b946be06fbfed7044be, type: 3}
+  - {fileID: 21300000, guid: 37fe35477f17c2f42896d65091eaba3f, type: 3}
+  - {fileID: 21300000, guid: 0e447e5764a71cc4a9fc06a3068eee70, type: 3}
+  - {fileID: 21300000, guid: fc14bb878ac8a674d80a9e4b8dc144b9, type: 3}
+  - {fileID: 21300000, guid: 8ca65ec7764c4534fb6673be194a3827, type: 3}
+  - {fileID: 21300000, guid: 6ecde018b4604824da0c3cdad276d403, type: 3}
+  - {fileID: 21300000, guid: 34307048ddbc1ae408cfbf18da33f6e0, type: 3}
+  - {fileID: 21300000, guid: 41221eaa134fae743a1fb7ab497d2496, type: 3}
+  - {fileID: 21300000, guid: db0c61fa1c0c2a243b98d1113c06f983, type: 3}
+  - {fileID: 21300000, guid: 2344736bbd1bfa34488567d7ea101e7d, type: 3}
+  - {fileID: 21300000, guid: 8f6919cbe86052741aedb2843762265f, type: 3}
+  - {fileID: 21300000, guid: 7e635a1cbe7f2b94cacee98436b651d8, type: 3}
+  - {fileID: 21300000, guid: 13e4d64d3a4f6b244a0cfbe7669feead, type: 3}
+  - {fileID: 21300000, guid: 35e9825dd4c9b9e4e83acb12234ccd96, type: 3}
+  - {fileID: 21300000, guid: 1628241eca6f91944ad5be181f61ec31, type: 3}
+  - {fileID: 21300000, guid: fb5d581ef0d3db9479150785aba3656a, type: 3}
+  - {fileID: 21300000, guid: 9fda97fed6eaffb419c6936758f13bad, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - cwck_bs01
+  - cwck_010
+  - cwck_fp_003
+  - cwck_001
+  - cwck_002
+  - cwck_zb01
+  - cwck_009
+  - cwck_004
+  - cwck_fp_002
+  - cwck_cw02
+  - cwck_bs02
+  - cwck_zb02
+  - cwck_fp_000
+  - cwck_003a
+  - cwck_fp_001
+  - cwck_fp_004
+  - cwck_003
+  - cwck_005
+  - cwck_fp_005
+  - store_dbt001
+  - cwck_005a
+  - cwck_cw01
+  - store_dbt002
+  m_Tag: ShopPanel
+  m_IsVariant: 0

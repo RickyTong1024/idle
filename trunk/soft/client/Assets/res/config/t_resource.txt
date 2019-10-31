@@ -1,0 +1,8 @@
+id	名字	名字代号	描述	描述代号	图标	小图标	颜色	获得途径
+INT	STRING	STRING	STRING	STRING	STRING	STRING	INT	STRING
+*id		#name		#desc	icon	small_icon	color	get
+1	金币	t_resource_name_1	金币不是万能的，没金币是万万不能的	t_resource_desc_1	1	small_1	5	7|10|14
+2	水晶	t_resource_name_2	亮瞎双眼的水晶，散发着土豪的光芒	t_resource_desc_2	2	small_2	3	100
+3	经验	t_resource_name_3	增加经验值能提升等级，这不废话吗	t_resource_desc_3	3	small_3	2	10|13|14
+4	荣誉	t_resource_name_4	暂时没用	t_resource_desc_4	4	small_4	4	12
+5	声望	t_resource_name_5	您的丰功伟绩一定会让人们深深记住	t_resource_desc_5	5	small_5	5	4

@@ -1,0 +1,13 @@
+id	res
+INT	STRING
+*id	res
+1	zjmuire_005
+2	zjmuire_005a
+3	zjmuire_005c
+4	zjmuire_005d
+5	zjmuire_005e
+6	zjmuire_005f
+7	zjmuire_005g
+8	zjmuire_005h
+9	zjmuire_005i
+10	zjmuire_005j

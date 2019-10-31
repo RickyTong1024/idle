@@ -1,0 +1,18 @@
+{
+	"server": {
+		"arena": [
+			{"id":"arena","host":"127.0.0.1","port":4001}
+		]
+	},
+	"db" : {
+		"arena": [
+			{"id":"arena","host":"127.0.0.1","username":"root","password":"root","db":"arena"}
+		]
+	},
+	"setting" : {
+		"qid" : 1,
+		"log" : "debug",
+		"conf_path" : "../config",
+		"lang" : 0
+	}
+}

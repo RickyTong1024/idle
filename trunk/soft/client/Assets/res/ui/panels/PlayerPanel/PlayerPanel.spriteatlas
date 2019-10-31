@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerPanel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e44bce061e922fb4cb60b28bec3da812, type: 3}
+    - {fileID: 2800000, guid: 12fec71954d9b6a4ba1dfa532bcb45c4, type: 3}
+    - {fileID: 2800000, guid: 16a8a90e66a12d143b22de8393190596, type: 3}
+    - {fileID: 2800000, guid: 3c6e595bb06415a4f896977a71db74b6, type: 3}
+    - {fileID: 2800000, guid: ff0cb29fd07a1f347852035a87a489c4, type: 3}
+    - {fileID: 2800000, guid: 5485b40835b5095408d35bf1ecb4e37e, type: 3}
+    - {fileID: 2800000, guid: e973168475f6b094c870932687ff8143, type: 3}
+    - {fileID: 2800000, guid: 7cbadf668481a884bb730bb1ce656246, type: 3}
+    - {fileID: 2800000, guid: 2676f27039d95fa4cb7cceb32ae099c0, type: 3}
+    - {fileID: 2800000, guid: f0fe3682c0f908b4db3b09ff0814490d, type: 3}
+    - {fileID: 2800000, guid: 5fc7eb3c5c91e4744b24aab018a91199, type: 3}
+    - {fileID: 2800000, guid: 96c8ab414b8826b43918a75ae214bcd0, type: 3}
+    - {fileID: 2800000, guid: 837c4429d7fde3f438159a4fc98ea4eb, type: 3}
+    totalSpriteSurfaceArea: 654757
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2676f27039d95fa4cb7cceb32ae099c0, type: 3}
+  - {fileID: 21300000, guid: 96c8ab414b8826b43918a75ae214bcd0, type: 3}
+  - {fileID: 21300000, guid: f0fe3682c0f908b4db3b09ff0814490d, type: 3}
+  - {fileID: 21300000, guid: e973168475f6b094c870932687ff8143, type: 3}
+  - {fileID: 21300000, guid: e44bce061e922fb4cb60b28bec3da812, type: 3}
+  - {fileID: 21300000, guid: 7cbadf668481a884bb730bb1ce656246, type: 3}
+  - {fileID: 21300000, guid: 5485b40835b5095408d35bf1ecb4e37e, type: 3}
+  - {fileID: 21300000, guid: 12fec71954d9b6a4ba1dfa532bcb45c4, type: 3}
+  - {fileID: 21300000, guid: 837c4429d7fde3f438159a4fc98ea4eb, type: 3}
+  - {fileID: 21300000, guid: 3c6e595bb06415a4f896977a71db74b6, type: 3}
+  - {fileID: 21300000, guid: 5fc7eb3c5c91e4744b24aab018a91199, type: 3}
+  - {fileID: 21300000, guid: 16a8a90e66a12d143b22de8393190596, type: 3}
+  - {fileID: 21300000, guid: ff0cb29fd07a1f347852035a87a489c4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - gjrui_104
+  - jsqhan_01
+  - gjrui_105
+  - gjrui_100
+  - chr_slt02
+  - gjrui_101
+  - gjrui_099
+  - gjrui_095
+  - jsqhan_02
+  - gjrui_097
+  - gjrui_113
+  - gjrui_096
+  - gjrui_098
+  m_Tag: PlayerPanel
+  m_IsVariant: 0

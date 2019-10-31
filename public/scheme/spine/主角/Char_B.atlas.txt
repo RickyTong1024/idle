@@ -1,0 +1,34 @@
+
+Char_B.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 275
+  size: 351, 696
+  orig: 351, 696
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 355, 436
+  size: 74, 260
+  orig: 74, 260
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 2, 146
+  size: 213, 127
+  orig: 213, 127
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 355, 698
+  size: 616, 273
+  orig: 616, 273
+  offset: 0, 0
+  index: -1

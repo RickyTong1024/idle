@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: dragon01
+  m_Shader: {fileID: 4800000, guid: 7229ccb5042987341b2159b6ab4d1d45, type: 3}
+  m_ShaderKeywords: _OPACITY_ONOFF_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3003
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha01:
+        m_Texture: {fileID: 2800000, guid: b7a46656b63afb44ca5bdc02be6f8ea7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Alpha02:
+        m_Texture: {fileID: 2800000, guid: b7a46656b63afb44ca5bdc02be6f8ea7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cubemap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _D01:
+        m_Texture: {fileID: 2800000, guid: b7a46656b63afb44ca5bdc02be6f8ea7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisE01:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _E01:
+        m_Texture: {fileID: 2800000, guid: 5382f9c91445af745931b2546ec13341, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskE01:
+        m_Texture: {fileID: 2800000, guid: 089ef5e6b515eb246a80b71d6bf081ac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha01_Bright: 0.61
+    - _Alpha01_UVangle: 0
+    - _Alpha01_Upan_Speed: 1
+    - _Alpha02_Bright: 1
+    - _Alpha02_Vpan_Speed: 0
+    - _AlphaClip: 0.1
+    - _Amb: 0
+    - _AnimVertexAlpha: 0
+    - _BumpScale: 1
+    - _Cubemap_brightness: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DisE01_UVpan: 0
+    - _DisE01_UVpan_Speed: 1
+    - _DisE01_Vpan_Speed: 1
+    - _DisE01_value: 0
+    - _Dissovle_Bright: 0.51
+    - _Dissovle_Time: 1
+    - _Dissovle_Width: 0.011
+    - _DstBlend: 0
+    - _E01_Bright: 2
+    - _E01_UVangle: 0
+    - _E01_UVpan: 0
+    - _E01_UVpan_Speed: -1
+    - _E01_UVpan_TimeVertexAlpha: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Glow_Bright: 0
+    - _MaskE01_UVangle: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Opacity: 1
+    - _Opacity_ONOff: 1
+    - _Parallax: 0.02
+    - _RimPower: 3
+    - _Rim_bright: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Tex_power: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Amb_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _D01_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Dissovle_Color: {r: 1, g: 0.25943398, b: 0.25943398, a: 1}
+    - _E01_Color: {r: 1, g: 0.12869698, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HSV: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
